@@ -18,7 +18,7 @@ redirect_from:
 
 * Supplementary Materials
 
-   - Media Coverage (Russian):  ✓ [_Forbes_]() ✓  [_RBC-daily_]()   ✓  [_Slon.Ru_]()   ✓  [_OpenEconomy_]()  ✓  
+   - Media Coverage (Russian):  ✓ [_Forbes_](http://www.forbes.ru/mneniya-column/tsennosti/263735-ekran-voiny-kak-televidenie-pogruzhaet-naselenie-v-paralellnuyu-real) ✓  [_RBC-daily_](http://www.rbcdaily.ru/politics/562949982701139)   ✓  [_Slon.Ru_](http://slon.ru/economics/kak_rossiyskie_derevni_sgoreli_vo_slavu_putina-763366.xhtml)   ✓  [_OpenEconomy_](http://opec.ru/1632624.html)  ✓  
 
 * Paper overview (Russian)
 
