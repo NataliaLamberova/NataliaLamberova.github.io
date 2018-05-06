@@ -7,6 +7,8 @@ redirect_from:
   - /publications
 ---
 
+# Published Works
+
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
 * [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
@@ -35,29 +37,22 @@ redirect_from:
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**] in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-* _Media Coverage:_ [_The Monkey Cage-](http://themonkeycage.org/2012/03/02/the-complicated-views-of-pro-and-anti-putin-protestors/)
+* _Media Coverage:_ [_The Monkey Cage_](http://themonkeycage.org/2012/03/02/the-complicated-views-of-pro-and-anti-putin-protestors/)
+
 * [_Working paper_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2156342)
 
 
+# Works under review
+
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+
+* _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  ✓  [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  ✓  [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
+* [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
 
 
- OpenEconomy  In German: Rusland-Analysen
-In Russian: Forbes, OpenEconomy
+**"Leaderless Protests?"** (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
-
-
-
-
-
-
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-
-
-
-
-
+* _Media Coverage:_ [_Vedomosti (Russian_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
 
 
