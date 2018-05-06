@@ -14,14 +14,7 @@ redirect_from:
 You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
 
-# EDUCATION
-
-EDUCATION
-========
-
-
 ## EDUCATION
-========
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government  (2019)
 
@@ -38,7 +31,7 @@ Usual?"
 
 **Higher School of Economics, Moscow,** BA in Political science (with distinction)  (2009)
 
-# ACADEMIC POSITIONS
+## ACADEMIC POSITIONS
 
 **Teaching Fellow**, Anderson School of Business, UCLA (2018 
 
@@ -54,9 +47,9 @@ Usual?"
 
 **Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow (2008-13)
 
-# PUBLICATIONS
+## PUBLICATIONS
 
-## Published works
+### Published works
 
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
@@ -70,17 +63,17 @@ Usual?"
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-## Submitted works
+### Submitted works
 [**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
-## Work in progress
+### Work in progress
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
 [**"Can independent media help suppress collective action?"**](#published-works)
 
-# AWARDS AND DISTINCTIONS
+## AWARDS AND DISTINCTIONS
 
 Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) (2017)
 
@@ -106,11 +99,11 @@ High Distinction for Honors Thesis, Higher School of Economics (2009)
 
 Oxford-Russia Foundation Fellowship (8,000$) (2007-10) 
 
-# PRESENTATIONS
+## PRESENTATIONS
 
 MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2014), University of Mannheim (2015), SIOE (2013), Indiana University (2012)
 
-# TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 
 **University of California, Los Angeles**
 
@@ -138,12 +131,12 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
   * Political Theory, Lecturer
 
-# SKILLS
+## SKILLS
 
 SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),Python (`TensorFlow`), SQL,  Stata, \LaTeX , 
 
 DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
-# References
+## References
 Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, (treisman@polisci.ucla.edu)
