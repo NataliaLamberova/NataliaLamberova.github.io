@@ -34,9 +34,9 @@ xcolor: yes
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-\hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
+\hskip 1cm  Committee: prof. Daniel Treisman (chair), prof. Barbara Geddes,
 
-\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
+\hskip 1cm prof. Chad Hazlett, prof. Daniel Posner, prof. Jeniffer Pan (Stanford)
 
 **University of California, Los Angeles**, MS in Statistics  \hfill 2018
 
@@ -143,8 +143,8 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 \hskip 1cm World Politics, with Professor prof. David Wilkinson
 
 **Higher School of Economics, Moscow**
-
-\hskip 1cm Models of Risk in Politics and Economics, Lecturer,
+***Department of Political Science***
+\hskip 1cm Models of Risk in Politics and Economics (MA), Lecturer,
 
 \hskip 1cm with prof. Konstantin Sonin and prof. Irina Khovanskaya 
 
