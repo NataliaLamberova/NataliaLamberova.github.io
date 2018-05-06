@@ -139,4 +139,4 @@ DATA COLLECTION: automated data extraction, automated text processing, online an
 
 ## References
 Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
-University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, (treisman@polisci.ucla.edu)
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, [treisman@polisci.ucla.edu](treisman@polisci.ucla.edu)
