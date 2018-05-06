@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Text Analysis and Deep Learning. Applying text analysis and deep learning to collective behavior to authoritarian regimes, I explore the strategies that modern autocrats use to survive in office. Unlike many 20th century dictators, todays autocrats must operate “in the spotlight” — new media and information technology enables the political opposition and the public to observe their actions. This greater observability limits the effectiveness of government repression, sometimes forcing the authorities to shift to other tools of political control.
+I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Text Analysis and Deep Learning. Applying text analysis and deep learning to collective behavior in authoritarian regimes, I explore the strategies that modern autocrats use to survive in office. Unlike many 20th century dictators, todays autocrats must operate “in the spotlight” — new media and information technology enables the political opposition and the public to observe their actions. This greater observability limits the effectiveness of government repression, sometimes forcing the authorities to shift to other tools of political control.
 
 My current projects focus on two such strategies: manufacturing the image of invincibility by pro-government rallies, and creating an army of paid supporters on the Internet that attempts to shape the narrative and disrupt online conversation. 
 
