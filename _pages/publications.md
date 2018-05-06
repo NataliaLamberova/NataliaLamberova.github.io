@@ -9,17 +9,33 @@ redirect_from:
 
 [academicpages template](https://github.com/academicpages/academicpages.github.io)
 
-I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles.
 
-# Research Fields
+**“Civic and Political Activism in Russia”** in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
-Comparative politics: "Trolls" and "Bots" in Online Politics, Information Control in Autocracies, Contentious Politics, Political Communication, Political Effects of Media, Post-Communist Politics
-Methods: Automated Text Analysis, Causal Inference for Text Data, Deep Learning Models of Collective Behavior 
-Contact CV / Google Scholar Profile
+*  ✓  [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
 
-# Dissertation project
+**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”** in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
 
-# Published works
+* Supplementary Materials
+
+   - Media Coverage (Russian):  ✓ [_Forbes_]() ✓  [_RBC-daily_]()   ✓  [_Slon.Ru_]()   ✓  [_OpenEconomy_]()  ✓  
+
+* Paper overview (Russian)
+
+* Working paper
+
+
+
+
+
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+
+
+
+
+
 
 
 
