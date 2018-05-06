@@ -13,42 +13,39 @@ redirect_from:
 
 You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
+
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2019
+**University of California, Los Angeles**, PhD in Comparative Politics and Government  (2019)
 
-* Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
+  * Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-* Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
+  * Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes, Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
-* Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
+**University of California, Los Angeles**, MS in Statistics  (2018)
 
-**University of California, Los Angeles**, MS in Statistics  \hfill 2018
+**Higher School of Economics, Moscow**, PhD in Political Economy  (2015)
 
-**Higher School of Economics, Moscow**, PhD in Political Economy  \hfill 2015
+**Higher School of Economics, Moscow**, MA in  Political Science (with distinction)  (2011)
 
-**Higher School of Economics, Moscow**, MA in  Political Science (with distinction)  \hfill 2011
-
-**Higher School of Economics, Moscow,** BA in Political science (with distinction)  \hfill 2009
+**Higher School of Economics, Moscow,** BA in Political science (with distinction)  (2009)
 
 # ACADEMIC POSITIONS
 
-**Teaching Fellow**, Anderson School of Business, UCLA \hfill 2018 
+**Teaching Fellow**, Anderson School of Business, UCLA (2018 
 
-**Teaching Fellow**, Department of Political Science, UCLA \hfill 2014-18
+**Teaching Fellow**, Department of Political Science, UCLA (2014-18)
 
-**Research Fellow**, Department of Political Science, UCLA \hfill 2015-16
+**Research Fellow**, Department of Political Science, UCLA (2015-16)
 
-**Research Fellow**, Center for the Study of Institutions and Development,
+**Research Fellow**, Center for the Study of Institutions and Development, Higher School of Economics, Moscow (2013-14)
 
-Higher School of Economics, Moscow \hfill 2013-14
+**Visiting Research Fellow**, Russian & East European Institute, Indiana University  (2012)
 
-**Visiting Research Fellow**, Russian & East European Institute, Indiana University  \hfill 2012
+**Lecturer**, Political Science Department, Higher School of Economics, Moscow (2010-13)
 
-**Lecturer**, Political Science Department, Higher School of Economics, Moscow \hfill 2010-13 
-
-**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow \hfill 2008-13
+**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow (2008-13)
 
 # PUBLICATIONS
 
@@ -78,29 +75,29 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 # AWARDS AND DISTINCTIONS
 
-Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) \hfill 2017 
+Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) (2017)
 
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016
+Humane Studies Fellowship, Institute for Humane Studies (5,000$) (2016)
 
-Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2017 
+Edwin W. Pauley Fellowship, UCLA (15,000$) (2017)
 
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016 
+Humane Studies Fellowship, Institute for Humane Studies (5,000$) (2016)
 
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2015 
+Humane Studies Fellowship, Institute for Humane Studies (2,000$) (2015) 
 
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2014 
+Humane Studies Fellowship, Institute for Humane Studies (2,000$) (2014)
 
-Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2013 
+Edwin W. Pauley Fellowship, UCLA (15,000$) (2013)
 
-Higher School of Economics Award for Academic Achievements \hfill 2012 
+Higher School of Economics Award for Academic Achievements (2012)
 
-“The Best Lecturer of Political Science Department - 2012” Award \hfill 2012 
+“The Best Lecturer of Political Science Department - 2012” Award (2012)
 
-High Distinction for Honors Thesis, Higher School of Economics \hfill  2011 
+High Distinction for Honors Thesis, Higher School of Economics (2011) 
 
-High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
+High Distinction for Honors Thesis, Higher School of Economics (2009)
 
-Oxford-Russia Foundation Fellowship (8,000$) \hfill  2007-10 
+Oxford-Russia Foundation Fellowship (8,000$) (2007-10) 
 
 # PRESENTATIONS
 
@@ -112,38 +109,34 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 ***Anderson School of Business***
 
-\hskip 1cm Technology Analitycs (MBA), with prof. Keith Chen
+  * Technology Analitycs (MBA), with prof. Keith Chen
 
-\hskip 1cm Competitive Analitycs (MSBA), with prof. Keith Chen
+  * Competitive Analitycs (MSBA), with prof. Keith Chen
 
 ***Department of Political Science***
 
-\hskip 1cm Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
+  * Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
 
-\hskip 1cm Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
+  * Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
 
-\hskip 1cm Data Analysis, with prof. Erin Hartman
+  * Data Analysis, with prof. Erin Hartman
 
-\hskip 1cm Politics and Strategy, with prof. Michael Chwe
+  * Politics and Strategy, with prof. Michael Chwe
 
-\hskip 1cm World Politics, with Professor prof. David Wilkinson
+  * World Politics, with Professor prof. David Wilkinson
 
 **Higher School of Economics, Moscow**
 
-\hskip 1cm Models of Risks in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risks in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
 
-\hskip 1cm Political Theory, Lecturer
+  * Political Theory, Lecturer
 
 # SKILLS
 
-SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
+SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),Python (`TensorFlow`), SQL,  Stata, \LaTeX , 
 
-\hskip 1.9 cm Python (`TenserFlow`), SQL,  Stata, \LaTeX , 
-
-DATA COLLECTION: automated data extraction, automated text processing,
-
-\hskip 4 cm online and field experiments, surveys, interviews
+DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
 # References
 Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
-University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, (treisman@polisci.ucla.edu)
