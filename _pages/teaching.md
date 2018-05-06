@@ -7,9 +7,7 @@ redirect_from:
   - /teaching
 ---
  
-**University of California, Los Angeles**
-
-***Anderson School of Business***
+**University of California, Los Angeles**, ***Anderson School of Business***
 
   * Technology Analitycs (MBA), with prof. Keith Chen
 
@@ -18,8 +16,7 @@ redirect_from:
 
 ## TEACHING EXPERIENCE
 
-
-***Department of Political Science***
+**University of California, Los Angeles**, ***Department of Political Science***
 
   * Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
 
