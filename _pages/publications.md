@@ -1,13 +1,11 @@
 ---
-title: "Publications"
+title: "Published Works"
 permalink: /publications/
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /publications
 ---
-
-# Published Works
 
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
