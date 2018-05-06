@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find PDF version of my CV [here].(https://AntonSobolev.github.io/files/Anton-Sobolev-CV)
+
+
+You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV)
 
 Education
 ======
