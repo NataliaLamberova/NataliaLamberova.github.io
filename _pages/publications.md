@@ -17,15 +17,29 @@ redirect_from:
 * [_Book on Amazon_](https://www.amazon.com/Systemic-Non-Systemic-Opposition-Russian-Federation-ebook/dp/B01CIKO3M0/ref=sr_1_1?ie=UTF8&qid=1525569981&sr=8-1&keywords=The+Systemic+and+Non-Systemic+Opposition+in+the+Russian+Federation) ✓ [_Book on Oakleaf Books_](http://www.oakleafbooks.se/index.php?route=product/product&manufacturer_id=Ross,%20Cameron&product_id=19129309)  ✓  [_Working paper_](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf)
 
 
-
-
-
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
 
-* Media Coverage (Russian): [_Forbes_](http://www.forbes.ru/mneniya-column/tsennosti/263735-ekran-voiny-kak-televidenie-pogruzhaet-naselenie-v-paralellnuyu-real) ✓  [_RBC-daily_](http://www.rbcdaily.ru/politics/562949982701139)   ✓  [_Slon.Ru_](http://slon.ru/economics/kak_rossiyskie_derevni_sgoreli_vo_slavu_putina-763366.xhtml)   ✓  [_OpenEconomy_](http://opec.ru/1632624.html) 
+* Media Coverage: [_Forbes (Russian)_](http://www.forbes.ru/mneniya-column/tsennosti/263735-ekran-voiny-kak-televidenie-pogruzhaet-naselenie-v-paralellnuyu-real) ✓  [_RBC-daily  (Russian)_](http://www.rbcdaily.ru/politics/562949982701139)   ✓  [_Slon.Ru  (Russian)_](http://slon.ru/economics/kak_rossiyskie_derevni_sgoreli_vo_slavu_putina-763366.xhtml)   ✓  [_OpenEconomy  (Russian)_](http://opec.ru/1632624.html) 
 
 * [_Review (Russian)_](http://www.hse.ru/data/2012/03/31/1265112211/TbF%20Description%20SocEcon%20Sobolev.pdf)  ✓  [_Working paper_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2011975)
 
+[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
+
+* Media Coverage:  [_OpenEconomy_](http://opec.ru/en/1616488.html) ✓  [_Rusland-Analysen (German)_](http://www.laender-analysen.de/russland/pdf/RusslandAnalysen270.pdf) ✓  [_Forbes_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov) ✓ [_OpenEconomy(Russian)_](http://opec.ru/1616488.html) 
+* [_Paper in Russian_](http://www.hse.ru/data/2014/01/13/1340784149/WP1_2014_01_f.pdf)
+
+
+[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) Europe-Asia Studies, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva and Mark Urnov) 
+
+Paper in Russian
+Working paper
+
+
+
+
+
+ OpenEconomy  In German: Rusland-Analysen
+In Russian: Forbes, OpenEconomy
 
 
 
