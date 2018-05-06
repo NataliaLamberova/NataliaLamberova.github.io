@@ -9,14 +9,9 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles.
+I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Text Analysis and Deep Learning. Applying text analysis and deep learning to collective behavior to authoritarian regimes, I explore the strategies that modern autocrats use to survive in office. Unlike many 20th century dictators, todays autocrats must operate “in the spotlight” — new media and information technology enables the political opposition and the public to observe their actions. This greater observability limits the effectiveness of government repression, sometimes forcing the authorities to shift to other tools of political control.
 
-# Research Fields
+My current projects focus on two such strategies: manufacturing the image of invincibility by pro-government rallies, and creating an army of paid supporters on the Internet that attempts to shape the narrative and disrupt online conversation. 
 
-Comparative politics: "Trolls" and "Bots" in Online Politics, Information Control in Autocracies, Contentious Politics, Political Communication, Political Effects of Media, Post-Communist Politics
-Methods: Automated Text Analysis, Causal Inference for Text Data, Deep Learning Models of Collective Behavior 
-Contact CV / Google Scholar Profile
 
-# Dissertation project
-
-# Published works
+My papers appeared in leading journals of political science ([World Politics](http://dx.doi.org/10.1017/S0043887114000215), [_Post-Soviet Affairs_](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434), [_Europe-Asia Studies_](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055), [_Problems of Post-Communism_](https://www.tandfonline.com/doi/abs/10.2753/PPC1075-8216600203)). I published in American and Russian leading printed and electronic media, including [The Monkey Cage Blog](), the leading Russian business daily [_Vedomosti_](https://www.vedomosti.ru/authors/anton-sobolev/documents), and [_Forbes-Russia_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov).
