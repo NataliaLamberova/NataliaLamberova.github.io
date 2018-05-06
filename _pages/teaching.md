@@ -28,9 +28,9 @@ redirect_from:
 
   * World Politics, with Professor prof. David Wilkinson
 
-**Higher School of Economics, Moscow**
+**Higher School of Economics, Moscow**,  ***Department of Political Science***
 
-  * Models of Risk in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risk in Politics and Economics (MA), Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
 
   * Political Theory, Lecturer
 
