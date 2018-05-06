@@ -9,11 +9,16 @@ redirect_from:
 
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
-*  ✓  [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
+* [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
 
-**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”** in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
 
-* [_Working paper_](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf)
+[**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+
+* [_Book on Amazon_](https://www.amazon.com/Systemic-Non-Systemic-Opposition-Russian-Federation-ebook/dp/B01CIKO3M0/ref=sr_1_1?ie=UTF8&qid=1525569981&sr=8-1&keywords=The+Systemic+and+Non-Systemic+Opposition+in+the+Russian+Federation) ✓ [_Book on Oakleaf Books_](http://www.oakleafbooks.se/index.php?route=product/product&manufacturer_id=Ross,%20Cameron&product_id=19129309)  ✓  [_Working paper_](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf)
+
+
+
+
 
 **“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”** in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
 
