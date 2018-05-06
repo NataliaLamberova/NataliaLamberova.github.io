@@ -156,7 +156,7 @@ SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse
 
 DATA COLLECTION: automated data extraction, automated text processing,
 
-\hskip 4 cm online and field experiments, surveys, interviews
+\hskip 1.9 cm online and field experiments, surveys, interviews
 
 # References
 Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science

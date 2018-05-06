@@ -33,7 +33,7 @@ Usual?"
 
 ## ACADEMIC POSITIONS
 
-**Teaching Fellow**, Anderson School of Business, UCLA (2018 
+**Teaching Fellow**, Anderson School of Business, UCLA (2018) 
 
 **Teaching Fellow**, Department of Political Science, UCLA (2014-18)
 
