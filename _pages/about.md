@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[link](http://github.com "Github")
+
 [academicpages template](https://github.com/academicpages/academicpages.github.io)
 
 I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles.
