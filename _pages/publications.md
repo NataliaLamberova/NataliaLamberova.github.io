@@ -21,7 +21,7 @@ redirect_from:
 
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
 
-* Media Coverage: [_Forbes (Russian)_](http://www.forbes.ru/mneniya-column/tsennosti/263735-ekran-voiny-kak-televidenie-pogruzhaet-naselenie-v-paralellnuyu-real) ✓  [_RBC-daily  (Russian)_](http://www.rbcdaily.ru/politics/562949982701139)   ✓  [_Slon.Ru  (Russian)_](http://slon.ru/economics/kak_rossiyskie_derevni_sgoreli_vo_slavu_putina-763366.xhtml)   ✓  [_OpenEconomy  (Russian)_](http://opec.ru/1632624.html) 
+* _Media Coverage:_ [_Forbes (Russian)_](http://www.forbes.ru/mneniya-column/tsennosti/263735-ekran-voiny-kak-televidenie-pogruzhaet-naselenie-v-paralellnuyu-real) ✓  [_RBC-daily  (Russian)_](http://www.rbcdaily.ru/politics/562949982701139)   ✓  [_Slon.Ru  (Russian)_](http://slon.ru/economics/kak_rossiyskie_derevni_sgoreli_vo_slavu_putina-763366.xhtml)   ✓  [_OpenEconomy  (Russian)_](http://opec.ru/1632624.html) 
 
 * [_Review (Russian)_](http://www.hse.ru/data/2012/03/31/1265112211/TbF%20Description%20SocEcon%20Sobolev.pdf)  ✓  [_Working paper_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2011975)
 
