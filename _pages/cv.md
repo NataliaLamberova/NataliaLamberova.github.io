@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find PDF version of my CV [here].(https://AntonSobolev.github.io/files/Anton-Sobolev-CV)
+
 Education
 ======
 * B.S. in Github, Github University, 2012

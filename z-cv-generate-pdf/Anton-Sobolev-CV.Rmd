@@ -1,84 +1,163 @@
 ---
-title: ""
+title: ''
 author: "Anton Sobolev"
 email: asobolev@ucla.edu
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     latex_engine: pdflatex
     template: svm-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-geometry: margin=1in
-jobtitle: PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles
+geometry: margin=.75in
+jobtitle: PhD Candidate in Political Science and MS in Statistics at University of
+  California, Los Angeles
 keywords: R Markdown, academic CV, template
-linkcolor: blue
+linkcolor: Brown
 fontawesome: yes
-address:  4289 Bunche Hall, Box 951472, Los Angeles, CA 90095-1472
+address: 4289 Bunche Hall, Box 951472, Los Angeles, CA 90095-1472
 updated: no
 urlcolor: Brown
 web: www.asobolev.com
+xcolor: yes
 ---
 
-# Employment
-
-*Arthur Guinness & Son*
-
-Chief Brewer (Park Royal) \hfill 1935-1937
-
-Researcher (Dublin) \hfill 1899-1935
-
-# Education
-
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
 
 
-# Publications
+# EDUCATION
 
-## Books
+**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2019
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+\hskip 1cm  Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
+Usual?"
 
-## Journal Articles
+\hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
+\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
+**University of California, Los Angeles**, MS in Statistics  \hfill 2018
 
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
+**Higher School of Economics, Moscow**, PhD in Political Economy  \hfill 2015
 
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
+**Higher School of Economics, Moscow**, MA in  Political Science (with distinction)  \hfill 2011
 
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
+**Higher School of Economics, Moscow,** BA in Political science (with distinction)  \hfill 2009
 
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
+# ACADEMIC POSITIONS
 
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
+**Teaching Fellow**, Anderson School of Business, UCLA \hfill 2018 
 
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
+**Teaching Fellow**, Department of Political Science, UCLA \hfill 2014-18
 
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
+**Research Fellow**, Department of Political Science, UCLA \hfill 2015-16
 
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
+**Research Fellow**, Center for the Study of Institutions and Development,
 
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
+Higher School of Economics, Moscow \hfill 2013-14
 
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
+**Visiting Research Fellow**, Russian & East European Institute, Indiana University  \hfill 2012
 
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
+**Lecturer**, Political Science Department, Higher School of Economics, Moscow \hfill 2010-13 
 
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
+**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow \hfill 2008-13
 
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
+# PUBLICATIONS
 
-## Other Publications
+## Published works
 
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
+[**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
+[**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+
+[**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
+
+[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
+
+[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva and Mark Urnov) 
+
+[**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
+
+## Submitted works
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+
+## Work in progress
+[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
+
+[**"Can independent media help suppress collective action?"**](#published-works)
+
+# AWARDS AND DISTINCTIONS
+
+Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) \hfill 2017 
+
+Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016
+
+Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2017 
+
+Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016 
+
+Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2015 
+
+Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2014 
+
+Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2013 
+
+Higher School of Economics Award for Academic Achievements \hfill 2012 
+
+“The Best Lecturer of Political Science Department - 2012” Award \hfill 2012 
+
+High Distinction for Honors Thesis, Higher School of Economics \hfill  2011 
+
+High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
+
+Oxford-Russia Foundation Fellowship (8,000$) \hfill  2007-10 
+
+# PRESENTATIONS
+
+MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2014), University of Mannheim (2015), SIOE (2013), Indiana University (2012)
+
+# TEACHING EXPERIENCE
+
+**University of California, Los Angeles**
+
+***Anderson School of Business***
+
+\hskip 1cm Technology Analitycs (MBA), with prof. Keith Chen
+
+\hskip 1cm Competitive Analitycs (MSBA), with prof. Keith Chen
+
+***Department of Political Science***
+
+\hskip 1cm Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
+
+\hskip 1cm Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
+
+\hskip 1cm Data Analysis, with prof. Erin Hartman
+
+\hskip 1cm Politics and Strategy, with prof. Michael Chwe
+
+\hskip 1cm World Politics, with Professor prof. David Wilkinson
+
+**Higher School of Economics, Moscow**
+
+\hskip 1cm Models of Risks in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+
+\hskip 1cm Political Theory, Lecturer
+
+# SKILLS
+
+SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
+
+\hskip 1.9 cm Python (`TenserFlow`), SQL,  Stata, \LaTeX , 
+
+DATA COLLECTION: automated data extraction, automated text processing,
+
+\hskip 4 cm online and field experiments, surveys, interviews
 
 # References
-
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
