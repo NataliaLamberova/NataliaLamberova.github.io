@@ -1,5 +1,5 @@
 ---
-title: "Published Works"
+title: "Published works"
 permalink: /publications/
 excerpt: "About me"
 author_profile: true
