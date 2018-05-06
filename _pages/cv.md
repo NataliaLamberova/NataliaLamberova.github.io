@@ -127,7 +127,7 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 **Higher School of Economics, Moscow**
 
-  * Models of Risks in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risk in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
 
   * Political Theory, Lecturer
 

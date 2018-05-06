@@ -30,7 +30,7 @@ redirect_from:
 
 **Higher School of Economics, Moscow**
 
-  * Models of Risks in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risk in Politics and Economics, Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
 
   * Political Theory, Lecturer
 
