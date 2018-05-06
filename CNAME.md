@@ -1,1 +1,1 @@
-www.asobolev.com
+asobolev.com
