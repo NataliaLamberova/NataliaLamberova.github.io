@@ -133,9 +133,9 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 ## SKILLS
 
-SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),Python (`TensorFlow`), SQL,  Stata, \LaTeX , 
+* SOFTWARE: R (`keras`, `Rselenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`), Python (`TensorFlow`, `Keras`, `selenium`), SQL, Stata, LaTeX 
 
-DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
+* DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
 ## References
 Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
