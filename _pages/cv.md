@@ -21,15 +21,15 @@ You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/
   * Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-  * Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes, Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
+  * Committee: prof. Daniel Treisman (chair), prof. Barbara Geddes, prof. Chad Hazlett, prof. Daniel Posner, prof. Jeniffer Pan (Stanford)
 
 **University of California, Los Angeles**, MS in Statistics  (2018)
 
 **Higher School of Economics, Moscow**, PhD in Political Economy  (2015)
 
-**Higher School of Economics, Moscow**, MA in  Political Science (with distinction)  (2011)
+**Higher School of Economics, Moscow**, MA in  Political Science (with Honors)  (2011)
 
-**Higher School of Economics, Moscow,** BA in Political science (with distinction)  (2009)
+**Higher School of Economics, Moscow,** BA in Political science (with Honors)  (2009)
 
 ## ACADEMIC POSITIONS
 
@@ -66,12 +66,12 @@ Usual?"
 ### Submitted works
 [**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+[**"Leaderless Protests?"**](#work-in-progress) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
 ### Work in progress
-[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
+[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#work-in-progress)
 
-[**"Can independent media help suppress collective action?"**](#published-works)
+[**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#work-in-progress)
 
 ## AWARDS AND DISTINCTIONS
 
@@ -91,7 +91,7 @@ Edwin W. Pauley Fellowship, UCLA (15,000$) (2013)
 
 Higher School of Economics Award for Academic Achievements (2012)
 
-“The Best Lecturer of Political Science Department - 2012” Award (2012)
+“The Best Lecturer of Political Science Department” Award (2012)
 
 High Distinction for Honors Thesis, Higher School of Economics (2011) 
 
@@ -123,7 +123,7 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
   * Politics and Strategy, with prof. Michael Chwe
 
-  * World Politics, with Professor prof. David Wilkinson
+  * World Politics, with prof. David Wilkinson
 
 **Higher School of Economics, Moscow**
 
@@ -135,7 +135,8 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 ## SKILLS
 
-* SOFTWARE: R (`keras`, `Rselenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`), Python (`TensorFlow`, `Keras`, `selenium`), SQL, Stata, LaTeX 
+* SOFTWARE: R (`keras`, `Rselenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`), Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, \LaTeX
+
 
 * DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
