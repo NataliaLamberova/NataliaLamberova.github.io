@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV)
+You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
 Education
 ======
