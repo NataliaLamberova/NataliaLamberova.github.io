@@ -133,7 +133,7 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 ## SKILLS
 
-SOFTWARE:  \textsf{R} (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),Python (`TensorFlow`), SQL,  Stata, \LaTeX , 
+SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),Python (`TensorFlow`), SQL,  Stata, \LaTeX , 
 
 DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
