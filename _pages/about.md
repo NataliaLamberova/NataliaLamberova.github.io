@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[link](http://github.com "Github")
-
-[academicpages template](https://github.com/academicpages/academicpages.github.io)
 
 I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles.
 
