@@ -17,12 +17,12 @@ You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2019
 
-\hskip 1cm  Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
+* Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-\hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
+* Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
-\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
+* Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
 **University of California, Los Angeles**, MS in Statistics  \hfill 2018
 
