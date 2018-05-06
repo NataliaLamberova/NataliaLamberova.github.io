@@ -25,7 +25,7 @@ redirect_from:
 
 [**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
 
-* _Media Coverage:_  [_OpenEconomy_](http://opec.ru/en/1616488.html) ✓  [_Rusland-Analysen (German)_](http://www.laender-analysen.de/russland/pdf/RusslandAnalysen270.pdf) ✓  [_Forbes_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov) ✓ [_OpenEconomy(Russian)_](http://opec.ru/1616488.html) 
+* _Media Coverage:_  [_OpenEconomy_](http://opec.ru/en/1616488.html) ✓  [_Rusland-Analysen (German)_](http://www.laender-analysen.de/russland/pdf/RusslandAnalysen270.pdf) ✓  [_Forbes (Russian)_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov) ✓ [_OpenEconomy (Russian)_](http://opec.ru/1616488.html) 
 * [_Working paper in Russian_](http://www.hse.ru/data/2014/01/13/1340784149/WP1_2014_01_f.pdf)
 
 
@@ -50,7 +50,7 @@ redirect_from:
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
-* _Media Coverage:_ [_Vedomosti (Russian_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
+* _Media Coverage:_ [_Vedomosti (Russian)_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
 
 
