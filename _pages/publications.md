@@ -48,7 +48,7 @@ redirect_from:
 * [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
 
 
-**"Leaderless Protests?"** (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
 * _Media Coverage:_ [_Vedomosti (Russian_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
