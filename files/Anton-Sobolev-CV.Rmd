@@ -34,9 +34,9 @@ xcolor: yes
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-\hskip 1cm  Committee: prof. Daniel Treisman (chair), prof. Barbara Geddes,
+\hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
-\hskip 1cm prof. Chad Hazlett, prof. Daniel Posner, prof. Jeniffer Pan (Stanford)
+\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
 **University of California, Los Angeles**, MS in Statistics  \hfill 2018
 
@@ -66,45 +66,52 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 # PUBLICATIONS
 
-## Published works
-
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
 [**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
 
-[**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
+[**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
-[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
+[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev, and Anton Kazun)
 
-[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva and Mark Urnov) 
+[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-## Submitted works
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+# CURRENT RESEARCH
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
 
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
-## Work in progress
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
 [**"Can independent media help suppress collective action?"**](#published-works)
 
+# GRANTS
+
+## External
+
+The Harriman Institute, New York, Travel Grant  \hfill 2018 
+
+Institute for Humane Studies, Arlington, Travel Grant  \hfill 2018
+
+Higher School of Economics, Moscow, Alumni Academic Fellowship \hfill 2017 
+
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2016 
+
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015 
+
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2014 
+
+Oxford-Russia Foundation, Research Fellowship \hfill  2007-10 
+
+## Internal (at UCLA)
+
+Edwin W. Pauley Fellowship, UCLA \hfill 2017 
+
+Edwin W. Pauley Fellowship, UCLA \hfill 2013 
+
 # AWARDS AND DISTINCTIONS
-
-Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) \hfill 2017 
-
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016
-
-Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2017 
-
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) \hfill 2016 
-
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2015 
-
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) \hfill 2014 
-
-Edwin W. Pauley Fellowship, UCLA (15,000$) \hfill 2013 
 
 Higher School of Economics Award for Academic Achievements \hfill 2012 
 
@@ -114,33 +121,29 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2011
 
 High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
-Oxford-Russia Foundation Fellowship (8,000$) \hfill  2007-10 
-
 # PRESENTATIONS
 
 MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2014), University of Mannheim (2015), SIOE (2013), Indiana University (2012)
 
 # TEACHING EXPERIENCE
 
-**University of California, Los Angeles**
+**University of California, Los Angeles**,***Anderson School of Business***
 
-***Anderson School of Business***
+\hskip 1cm Technology Analitycs (MBA), with Prof. Keith Chen
 
-\hskip 1cm Technology Analitycs (MBA), with prof. Keith Chen
+\hskip 1cm Competitive Analitycs (MSBA), with Prof. Keith Chen
 
-\hskip 1cm Competitive Analitycs (MSBA), with prof. Keith Chen
+**University of California, Los Angeles**,***Department of Political Science***
 
-***Department of Political Science***
+\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
 
-\hskip 1cm Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
+\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann
 
-\hskip 1cm Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
+\hskip 1cm Data Analysis, with Prof. Erin Hartman
 
-\hskip 1cm Data Analysis, with prof. Erin Hartman
+\hskip 1cm Politics and Strategy, with Prof. Michael Chwe
 
-\hskip 1cm Politics and Strategy, with prof. Michael Chwe
-
-\hskip 1cm World Politics, with Professor prof. David Wilkinson
+\hskip 1cm World Politics, with Prof. David Wilkinson
 
 **Higher School of Economics, Moscow**
 
@@ -148,7 +151,7 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 \hskip 1cm Models of Risk in Politics and Economics (MA), Lecturer,
 
-\hskip 1cm with prof. Konstantin Sonin and prof. Irina Khovanskaya 
+\hskip 1cm with Prof. Konstantin Sonin and Prof. Irina Khovanskaya 
 
 \hskip 1cm Political Theory, Lecturer
 
