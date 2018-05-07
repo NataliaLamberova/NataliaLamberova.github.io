@@ -21,7 +21,7 @@ You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/
   * Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
 
-  * Committee: prof. Daniel Treisman (chair), prof. Barbara Geddes, prof. Chad Hazlett, prof. Daniel Posner, prof. Jeniffer Pan (Stanford)
+  * Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes, Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
 **University of California, Los Angeles**, MS in Statistics  (2018)
 
@@ -105,31 +105,21 @@ MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2
 
 ## TEACHING EXPERIENCE
 
-**University of California, Los Angeles**
+**University of California, Los Angeles**, ***Department of Political Science***
 
-***Anderson School of Business***
+  * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/)
 
-  * Technology Analitycs (MBA), with prof. Keith Chen
+  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/)
 
-  * Competitive Analitycs (MSBA), with prof. Keith Chen
+  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/)
 
-***Department of Political Science***
+  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/)
 
-  * Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
+  * World Politics, with Prof. [David Wilkinson](https://polisci.ucla.edu/people/david-wilkinson)
 
-  * Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
+**Higher School of Economics, Moscow**,  ***Department of Political Science***
 
-  * Data Analysis, with prof. Erin Hartman
-
-  * Politics and Strategy, with prof. Michael Chwe
-
-  * World Politics, with prof. David Wilkinson
-
-**Higher School of Economics, Moscow**
-
-***Department of Political Science***
-
-  * Models of Risk in Politics and Economics (MA), Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risk in Politics and Economics (MA), Lecturer, with Prof. [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin) and Prof. [Irina Khovanskaya](https://www.coursera.org/instructor/i.khovanskaya?siteID=hL3Qp0zRBOc-0088HPnpyM7omnvkrnwERg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=hL3Qp0zRBOc) 
 
   * Political Theory, Lecturer
 
