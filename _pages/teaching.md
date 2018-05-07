@@ -1,5 +1,5 @@
 ---
-title: "Current Teaching"
+title: ""
 permalink: /teaching/
 excerpt: "About me"
 author_profile: true
@@ -7,6 +7,7 @@ redirect_from:
   - /teaching
 ---
  
+## Current Teaching 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
   * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
