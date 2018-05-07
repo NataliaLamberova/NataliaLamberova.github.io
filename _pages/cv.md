@@ -9,17 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-.revcap {
-display: inline-block;
-text-transform: uppercase;
--webkit-transform: rotateY(180deg);
--moz-transform: rotateY(180deg);
--ms-transform: rotateY(180deg);
-transform: rotateY(180deg);
+.latex sub {
+  vertical-align: -0.1ex;
+  margin-left: -0.1667em;
+  margin-right: -0.025em;
 }
-</style>
-<span class=revcap>LaTeX</span>
+
+.xetex sub {
+  vertical-align: -0.1ex;
+  margin-left: -0.1667em;
+  margin-right: -0.125em;
+}
+
+.latex sub, .latex sup, .xetex sub {
+  font-size: 0.9em;
+  text-transform:uppercase;
+
+}
+.latex sup {
+  font-size: 0.85em;
+  vertical-align: -0.2em;
+  margin-left: -0.26em;
+  margin-right: -0.05em;
+}
+
+<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>
+
+<span class="xetex">X<sub>&#398;</sub>T<sub>E</sub>X</span>
+
 
 You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
