@@ -19,4 +19,4 @@ My papers appeared in leading journals of political science ([_World Politics_](
 
 I have conducted various field research in Russia, funded by Emory Univeristy, Indiana University, St Petersburg University, and Moscow Higher School of Economics. Before starting my PhD program at UCLA, I was a research fellow at the Center for the Study of Institutions and Development (2013-14) and a lecturer at the Department of Political Science at Higher School of Economics in Moscow (2010-13). I received *“The Best Lecturer of the Political Science Department”* Award in 2012. I also was a visiting research fellow at Russian & East European Institute at Indiana University.
 
-I am on the 2018-19 Job Market. I will presents results of my disseration project at the APSA meeting in Boston. 
+I am on the 2018-19 Job Market. I will present results of my disseration project at the APSA meeting in Boston. 
