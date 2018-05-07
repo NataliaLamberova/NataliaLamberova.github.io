@@ -30,8 +30,8 @@ To explore these strategies, I focus on the case of Vladimir Putin’s regime in
 	To better understand the second strategy, I explore the behavior and impact of several hundred “trolls”—paid supporters of the regime who are allegedly employed to leave pro-government comments on social media platforms. Using probabilistic topic modeling, I develop a method to estimate the causal effect of troll interventions in online discussions. I find that trolls are able to successfully divert online discussions from politically charged topics, but are ineffective in promoting a pro-government agenda. In a separate chapter, I develop a methodology for the study of such Internet actors. Specifically, I devise a set of identification methods to detect paid “political commentators” that will work on a variety of social media platforms.
 <center>
 
-<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" width="500">
-<figcaption>All users are different, all trolls are alike </figcaption>
+<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" width="700">
+<figcaption>*All users are different, all trolls are alike* </figcaption>
  </center>
 
 </div>
