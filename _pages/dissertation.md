@@ -28,7 +28,7 @@ To better understand the second strategy, I explore the behavior and impact of s
 
 <div class="col2">
 <center>
-<img src="https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf" width="500"> </center>
+<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" width="500"> </center>
 
 
 - Russia's **"Trolls Factory"** 
