@@ -166,5 +166,5 @@ DATA COLLECTION: automated data extraction, automated text processing,
 \hskip 1.9 cm online and field experiments, surveys, interviews
 
 # References
-Prof. Daniel Treisman (chair of the dissertation committee) Department of Political Science
+Prof. Daniel Treisman (chair of the dissertation committee) Department of Political Science,
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu

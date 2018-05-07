@@ -170,5 +170,5 @@ APSA (2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual
 * DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
 
 ## References
-Prof. Daniel Treisman (chair of dissertation comitte) Department of Political Science
+Prof. Daniel Treisman (chair of dissertation committee),  Department of Political Science,
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, [treisman@polisci.ucla.edu](treisman@polisci.ucla.edu)
