@@ -32,7 +32,7 @@ To better understand the second strategy, I explore the behavior and impact of s
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" height="800">
+<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" height="1000">
 <figcaption><i>All users are different, all trolls are alike</i></figcaption>
  </center>
 
