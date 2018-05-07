@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Political Science and MS in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Text Analysis and Deep Learning. Applying text analysis and deep learning to collective behavior in authoritarian regimes, I explore the strategies that modern autocrats use to survive in office and how citizens and firms respond to these strategies.
+I am a PhD Candidate in Political Science and MSc in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Text Analysis and Deep Learning. Applying text analysis and deep learning to collective behavior in authoritarian regimes, I explore the strategies that modern autocrats use to survive in office and how citizens and firms respond to these strategies.
 
 My current projects focus on two such strategies: manufacturing the image of invincibility by pro-government rallies, and creating an army of paid supporters (_"trolls"_) on the Internet that attempts to shape the narrative and disrupt online conversation. 
 
