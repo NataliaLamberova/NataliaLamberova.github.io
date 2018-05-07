@@ -7,7 +7,8 @@ redirect_from:
   - /teaching
 ---
  
-## Current Teaching 
+## CURRENT TEACHING 
+
 **University of California, Los Angeles**, ***Anderson School of Business***
 
   * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
