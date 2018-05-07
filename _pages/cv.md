@@ -9,7 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-
+<style>
+.revcap {
+display: inline-block;
+text-transform: uppercase;
+-webkit-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+-ms-transform: rotateY(180deg);
+transform: rotateY(180deg);
+}
+</style>
+X<span class=revcap>e</span>LaTeX
 
 You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
@@ -23,33 +33,31 @@ Usual?"
 
   * Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes, Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
-**University of California, Los Angeles**, MS in Statistics  (2018)
+**University of California, Los Angeles**, MS in Statistics,  2018
 
-**Higher School of Economics, Moscow**, PhD in Political Economy  (2015)
+**Higher School of Economics, Moscow**, PhD in Political Economy,  2015
 
-**Higher School of Economics, Moscow**, MA in  Political Science (with Honors)  (2011)
+**Higher School of Economics, Moscow**, MA in  Political Science (with Honors),  2011
 
-**Higher School of Economics, Moscow,** BA in Political science (with Honors)  (2009)
+**Higher School of Economics, Moscow,** BA in Political science (with Honors),  2009
 
 ## ACADEMIC POSITIONS
 
-**Teaching Fellow**, Anderson School of Business, UCLA (2018) 
+**Teaching Fellow**, Anderson School of Business, UCLA, 2018 
 
-**Teaching Fellow**, Department of Political Science, UCLA (2014-18)
+**Teaching Fellow**, Department of Political Science, UCLA, 2014-18
 
-**Research Fellow**, Department of Political Science, UCLA (2015-16)
+**Research Fellow**, Department of Political Science, UCLA, 2015-16
 
-**Research Fellow**, Center for the Study of Institutions and Development, Higher School of Economics, Moscow (2013-14)
+**Research Fellow**, Center for the Study of Institutions and Development, Higher School of Economics, Moscow, 2013-14
 
-**Visiting Research Fellow**, Russian & East European Institute, Indiana University  (2012)
+**Visiting Research Fellow**, Russian & East European Institute, Indiana University,  2012
 
-**Lecturer**, Political Science Department, Higher School of Economics, Moscow (2010-13)
+**Lecturer**, Political Science Department, Higher School of Economics, Moscow, 2010-13
 
-**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow (2008-13)
+**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow, 2008-13
 
-## PUBLICATIONS
-
-### Published works
+## PUBLISHED WORKS
 
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
@@ -63,47 +71,61 @@ Usual?"
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-### Submitted works
+## Research in progress
+
 [**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
 [**"Leaderless Protests?"**](#work-in-progress) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
 
-### Work in progress
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#work-in-progress)
 
 [**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#work-in-progress)
 
+## GRANTS
+
+### External
+
+The Harriman Institute, New York, Travel Grant, 2018 
+
+Institute for Humane Studies, Arlington, Travel Grant, 2018
+
+Higher School of Economics, Moscow, Alumni Academic Fellowship, 2017 
+
+Institute for Humane Studies, Arlington, PhD Fellowship, 2016 
+
+Institute for Humane Studies, Arlington, PhD Fellowship, 2015 
+
+Institute for Humane Studies, Arlington, PhD Fellowship, 2014 
+
+Oxford-Russia Foundation, Research Fellowship,  2007-10 
+
+### Internal (at UCLA)
+
+Edwin W. Pauley Fellowship, UCLA, 2017 
+
+Edwin W. Pauley Fellowship, UCLA, 2013 
+
 ## AWARDS AND DISTINCTIONS
 
-Alumni Academic Fellowship, Higher School of Economics, Moscow (3,000$) (2017)
+Higher School of Economics Award for Academic Achievements, 2012 
 
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) (2016)
+“The Best Lecturer of Political Science Department - 2012” Award, 2012 
 
-Edwin W. Pauley Fellowship, UCLA (15,000$) (2017)
+High Distinction for Honors Thesis, Higher School of Economics,  2011 
 
-Humane Studies Fellowship, Institute for Humane Studies (5,000$) (2016)
-
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) (2015) 
-
-Humane Studies Fellowship, Institute for Humane Studies (2,000$) (2014)
-
-Edwin W. Pauley Fellowship, UCLA (15,000$) (2013)
-
-Higher School of Economics Award for Academic Achievements (2012)
-
-“The Best Lecturer of Political Science Department” Award (2012)
-
-High Distinction for Honors Thesis, Higher School of Economics (2011) 
-
-High Distinction for Honors Thesis, Higher School of Economics (2009)
-
-Oxford-Russia Foundation Fellowship (8,000$) (2007-10) 
+High Distinction for Honors Thesis, Higher School of Economics,  2009 
 
 ## PRESENTATIONS
 
 MPSA (2018, 2017, 2014), Moscow Higher School of Economics (2017), APSA (2016, 2014), University of Mannheim (2015), SIOE (2013), Indiana University (2012)
 
 ## TEACHING EXPERIENCE
+
+**University of California, Los Angeles**, ***Anderson School of Business***
+
+  * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+
+  * Competitive Analitycs (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
