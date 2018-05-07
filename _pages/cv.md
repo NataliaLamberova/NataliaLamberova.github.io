@@ -14,7 +14,7 @@ You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/
 
 ## EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  (2019)
+**University of California, Los Angeles**, PhD in Comparative Politics and Government,  2019 (exp.)
 
   * Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
 Usual?"
