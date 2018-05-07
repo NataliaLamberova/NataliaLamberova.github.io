@@ -9,35 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-.latex sub {
-  vertical-align: -0.1ex;
-  margin-left: -0.1667em;
-  margin-right: -0.025em;
-}
-
-.xetex sub {
-  vertical-align: -0.1ex;
-  margin-left: -0.1667em;
-  margin-right: -0.125em;
-}
-
-.latex sub, .latex sup, .xetex sub {
-  font-size: 0.9em;
-  text-transform:uppercase;
-
-}
-.latex sup {
-  font-size: 0.85em;
-  vertical-align: -0.2em;
-  margin-left: -0.26em;
-  margin-right: -0.05em;
-}
-
-<span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>
-
-<span class="xetex">X<sub>&#398;</sub>T<sub>E</sub>X</span>
-
-
 You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Anton-Sobolev-CV.pdf)
 
 
@@ -164,7 +135,7 @@ APSA (2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual
 
 ## SKILLS
 
-* SOFTWARE: R (`keras`, `Rselenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`), Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, \LaTeX
+* SOFTWARE: R (`keras`, `Rselenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`), Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, LaTeX
 
 
 * DATA COLLECTION: automated data extraction, automated text processing, online and field experiments, surveys, interviews
