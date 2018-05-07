@@ -9,28 +9,28 @@ redirect_from:
  
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-  * Technology Analitycs (MBA), with prof. Keith Chen
+  * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
-  * Competitive Analitycs (MSBA), with prof. Keith Chen
+  * Competitive Analitycs (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
 
 ## TEACHING EXPERIENCE
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
-  * Politics and Government of Post-Communist Russia, with prof. Daniel Treisman
+  * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/)
 
-  * Diversity, Disagreement, and Democracy, with prof. Susanne Lohmann
+  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/)
 
-  * Data Analysis, with prof. Erin Hartman
+  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/)
 
-  * Politics and Strategy, with prof. Michael Chwe
+  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/)
 
-  * World Politics, with Professor prof. David Wilkinson
+  * World Politics, with Prof. [David Wilkinson](https://polisci.ucla.edu/people/david-wilkinson)
 
 **Higher School of Economics, Moscow**,  ***Department of Political Science***
 
-  * Models of Risk in Politics and Economics (MA), Lecturer, with prof. Konstantin Sonin and Irina Khovanskaya 
+  * Models of Risk in Politics and Economics (MA), Lecturer, with Prof. [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin) and Prof. [Irina Khovanskaya](https://www.coursera.org/instructor/i.khovanskaya?siteID=hL3Qp0zRBOc-0088HPnpyM7omnvkrnwERg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=hL3Qp0zRBOc) 
 
   * Political Theory, Lecturer
 
