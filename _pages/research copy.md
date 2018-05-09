@@ -66,9 +66,3 @@ There is a wide-spread belief that autocratic governments are better off limitin
 </div>
 
 
-
-
-
-There is a wide-spread belief that autocratic governments are better off limiting media freedom to prevent mass protests and riots that could threaten the regime's survival. I argue that under certain conditions, some media freedom can help autocrats to forestall anti-regime collective action. This can happen if media are allowed to report observable events truthfully, but cannot conduct independent journalistic investigations. For instance, rReports on the number of people who attend pro-government rallies are more credible if produced by independent media outlets than by state propagandists. Thus, a signal of the regime's popularity from the former can discourage dissidents and suppress the protest. In order to test whether media freedom can help autocrat to credibly signal his popularity I exploit the fact that broadcasts of the opposition radio station Echo of Moscow are available in certain Russian cities but not in others. Importantly, local availability of Echo of Moscow in a given city was determined by socio-economic and geographic rather than political conditions. Data from recent opposition protests in Russia suggest that the occurrence of a massive pro-government rally in Moscow discouraged potential protesters significantly more in cities exposed to Echo of Moscow than in other cities.
-
-
