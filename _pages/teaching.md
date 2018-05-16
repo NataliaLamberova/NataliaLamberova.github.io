@@ -11,9 +11,9 @@ redirect_from:
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-  * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
-  * Competitive Analitycs (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
 
 ## TEACHING EXPERIENCE

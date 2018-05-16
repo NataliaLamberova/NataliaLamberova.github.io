@@ -111,9 +111,9 @@ APSA (2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-  * Technology Analitycs (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
-  * Competitive Analitycs (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
+  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
