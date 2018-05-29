@@ -55,15 +55,15 @@ Usual?"
 
 [**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
 
-[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva and Mark Urnov) 
+[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
 ## Research in progress
 
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
 
-[**"Leaderless Protests?"**](#work-in-progress) (with Dmitry Dagaev, Natalia Lamberova and Konstantin Sonin)
+[**"Leaderless Protests?"**](#work-in-progress) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#work-in-progress)
 
