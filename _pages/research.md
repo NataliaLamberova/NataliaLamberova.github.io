@@ -45,3 +45,24 @@ Recently, it has come to light that some authoritarian governments have been emp
 
 
 There is a wide-spread belief that autocratic governments are better off limiting media freedom to prevent mass protests and riots that could threaten the regime's survival. I argue that under certain conditions, some media freedom can help autocrats to forestall anti-regime collective action. This can happen if media are allowed to report observable events truthfully, but cannot conduct independent journalistic investigations. For instance, rReports on the number of people who attend pro-government rallies are more credible if produced by independent media outlets than by state propagandists. Thus, a signal of the regime's popularity from the former can discourage dissidents and suppress the protest. In order to test whether media freedom can help autocrat to credibly signal his popularity I exploit the fact that broadcasts of the opposition radio station Echo of Moscow are available in certain Russian cities but not in others. Importantly, local availability of Echo of Moscow in a given city was determined by socio-economic and geographic rather than political conditions. Data from recent opposition protests in Russia suggest that the occurrence of a massive pro-government rally in Moscow discouraged potential protesters significantly more in cities exposed to Echo of Moscow than in other cities.
+
+## how ICT technology changes the structure and dynamics of protests across the globe. 
+
+
+[**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) [Paper available upon request]
+
+<div class="col2">
+
+Why do some newly introduced revolutionary governments face anti-government demonstrations and swiftly exit office, while others are able to establish political regimes that last for decades? Historical evidence finds revolutionary governments of the first decade of twenty-first century to be three times more vulnerable to mass protest than a hundred years ago. What can explain this trend? This paper relates the stability of newly emerged revolutionary governments to political composition of the protest that brings the new incumbent to power and in factors that can shape it. Our theoretical model, incorporating protest into a dynamic Downsian framework, features the significant role of protest coordination, communication technology, ideology and the coercive capacity of the regime. This paper contributes to the literature in several ways. First, it discusses a new historical trend of instability of revolutionary governments. Second, it proposes a model that helps to understand the growing instability of revolutionary regimes, as well as conditions that undermine stability. In equilibrium, it is possible to have a revolutionary government overthrown by popular uprising, despite the fact that it gained power on the wave of popular support. Third, under a set of conditions, the new incumbent would always come from a different part of political spectrum. Forth, the model unpacks the warm glow component of protesters' decision to take to the streets. Finally, we provide implications for endogenous choice of policy by revolutionary incumbent for protest dynamics.
+
+<p style="page-break-after: always;">&nbsp;</p>
+<p style="page-break-before: always;">&nbsp;</p>
+<center>
+
+<img src="https://AntonSobolev.github.io/files/a-all-trends.png" height="1000">
+<figcaption><i>Revolutionary governments facing mass protests: historical trend</i></figcaption>
+ </center>
+
+</div>
+
+
