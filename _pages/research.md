@@ -56,7 +56,7 @@ Why do some newly introduced revolutionary governments face anti-government demo
 
 <center>
 
-<img src="https://AntonSobolev.github.io/files/g-3-years-polity-all.png" height="500">
+<img src="https://AntonSobolev.github.io/files/g-3-years-polity-all.png" height="50">
 <figcaption><i> Newly established revolutionary governments facing mass protests: historical trend</i></figcaption>
  </center>
 
