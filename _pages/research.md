@@ -46,7 +46,7 @@ Recently, it has come to light that some authoritarian governments have been emp
 
 There is a wide-spread belief that autocratic governments are better off limiting media freedom to prevent mass protests and riots that could threaten the regime's survival. I argue that under certain conditions, some media freedom can help autocrats to forestall anti-regime collective action. This can happen if media are allowed to report observable events truthfully, but cannot conduct independent journalistic investigations. For instance, rReports on the number of people who attend pro-government rallies are more credible if produced by independent media outlets than by state propagandists. Thus, a signal of the regime's popularity from the former can discourage dissidents and suppress the protest. In order to test whether media freedom can help autocrat to credibly signal his popularity I exploit the fact that broadcasts of the opposition radio station Echo of Moscow are available in certain Russian cities but not in others. Importantly, local availability of Echo of Moscow in a given city was determined by socio-economic and geographic rather than political conditions. Data from recent opposition protests in Russia suggest that the occurrence of a massive pro-government rally in Moscow discouraged potential protesters significantly more in cities exposed to Echo of Moscow than in other cities.
 
-## how ICT technology changes the structure and dynamics of protests across the globe. 
+## How ICT technology changes the structure and dynamics of protests across the globe
 
 
 [**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) [Paper available upon request]
@@ -59,8 +59,8 @@ Why do some newly introduced revolutionary governments face anti-government demo
 <p style="page-break-before: always;">&nbsp;</p>
 <center>
 
-<img src="https://AntonSobolev.github.io/files/a-all-trends.png" height="1000">
-<figcaption><i>Revolutionary governments facing mass protests: historical trend</i></figcaption>
+<img src="https://AntonSobolev.github.io/files/g-3-years-polity-all.png" height="1000">
+<figcaption><i> Newly established revolutionary governments facing mass protests: historical trend</i></figcaption>
  </center>
 
 </div>
