@@ -44,18 +44,18 @@ redirect_from:
 
 ## Articles under review
 
-[**"Stability of Revolutionary Governments In The Face Of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)[Paper available upon request]
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova) *[Paper available upon request]*
 
 * _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  ✓  [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  ✓  [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
 * [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
 
 ## Research in progress
 
-[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works)[Paper available upon request]
+[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works) *[Paper available upon request]*
 
-[**"Can independent media help autocrats suppress collective action?"**](#published-works)[Paper available upon request]
+[**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#published-works) *[Paper available upon request]*
 
-[**"Channels of Protest Diffussion in the United States After the Presidential Election of 2016"**](#published-works)(with Keith Chen and Zachary Steinert-Threlkeld)
+[**"Channels of Protest Diffussion After the U.S. Presidential Election of 2016"**](#published-works)(with Keith Chen and Zachary Steinert-Threlkeld)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
