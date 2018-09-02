@@ -25,7 +25,7 @@ redirect_from:
 
 * [_Working paper_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1993013)
 
-[**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
+[**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](https://doi.org/10.2753/PPC1075-8216600203) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
 * _Media Coverage:_ [_The Monkey Cage_](http://themonkeycage.org/2012/03/02/the-complicated-views-of-pro-and-anti-putin-protestors/)
 
