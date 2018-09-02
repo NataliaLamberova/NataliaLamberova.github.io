@@ -49,7 +49,7 @@ redirect_from:
 * _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  ✓  [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  ✓  [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
 * [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
 
-## Reseach in progress
+## Research in progress
 
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Political Conversations in Russia"**](#published-works)[Paper available upon request]
 
