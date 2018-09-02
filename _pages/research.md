@@ -33,14 +33,14 @@ redirect_from:
 ## How governments manufacture an image of invincibility, *online* and *offline* 
 
 
-[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#works) [Paper available upon request]
+[**“How Pro-Government “Trolls” Influence Online Conversations in Russia”**](#works) *[Paper available upon request]*
 
 
 Recently, it has come to light that some authoritarian governments have been employing paid commentators (“trolls”) to interfere with online political conversations in order to express pro-government views and to challenge the narrative of political opposition. In this study, I explore the behavior and the impact of several hundred “trolls” — paid supporters of the Vladimir Putin's regime in Russia who were allegedly employed in late 2014 and early 2015 to leave pro-government comments on the popular social media platform LiveJournal. First, I classify goals for the employment of trolls by the government, the strategies used by trolls to achieve these goals, and the observable implications of these strategies. Second, I compare the behavior of trolls to the behavior of the representative sample of LiveJournal users, as well as the behavior of those users who participated in conversations manipulated  by the trolls. Third, using probabilistic topic modeling, I develop a method to estimate the causal effect of the trolls' intervention in online discussions under a set of assumptions. I find that the trolls are more successful in diverting the discussions from politically charged topics, than in promoting a pro-government agenda. I also find that trolls are successful in diverting discussions from purely political topics but have no effect if users discuss problems of the national economy. The individuals who discuss poor economic growth, unemployment, and/or price inflation seem not to be responsive to troll interventions.
 
 
 
-[**“Can Independent Media Help Autocrats Suppress Collective Action?”**](#works) [Paper available upon request]
+[**“Can Independent Media Help Autocrats Suppress Collective Action?”**](#works) *[Paper available upon request]*
 
 
 
@@ -48,17 +48,15 @@ There is a wide-spread belief that autocratic governments are better off limitin
 
 ## How ICT technology changes the structure and dynamics of protests across the globe
 
+[**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) *[Paper available upon request]*
 
-[**“Stability of Revolutionary Governments In The Face Of Mass Protest”**](#works) [Paper available upon request]
 
+Why do some newly introduced revolutionary governments face anti-government demonstrations and swiftly exit office, while others are able to establish political regimes that last for decades? Historical evidence finds revolutionary governments in the first decade of twenty-first century to be three times more vulnerable to mass protest than a hundred years ago. What can explain this trend? This paper relates the stability of newly emerged revolutionary governments to the political composition of the protest that brings a new incumbent to power and in factors that can shape it. Our theoretical model, incorporating protest into a dynamic Downsian framework, features the significant role of protest coordination, communication technology, ideology, and the coercive capacity of the regime. This paper contributes to the literature in several ways. First, it discusses a new historical trend of instability of revolutionary governments. Second, it proposes a model that helps to understand the growing instability of revolutionary regimes, as well as conditions that undermine stability. In equilibrium, it is possible to have a revolutionary government overthrown by popular uprising, despite the fact that it gained power on the wave of popular support. Third, under a set of conditions, the new incumbent would always come from a different part of political spectrum. Forth, the model unpacks the warm glow component of protesters' decision to take to the streets. Finally, we provide implications for endogenous choice of policy by revolutionary incumbent for protest dynamics.
 
-Why do some newly introduced revolutionary governments face anti-government demonstrations and swiftly exit office, while others are able to establish political regimes that last for decades? Historical evidence finds revolutionary governments of the first decade of twenty-first century to be three times more vulnerable to mass protest than a hundred years ago. What can explain this trend? This paper relates the stability of newly emerged revolutionary governments to political composition of the protest that brings the new incumbent to power and in factors that can shape it. Our theoretical model, incorporating protest into a dynamic Downsian framework, features the significant role of protest coordination, communication technology, ideology and the coercive capacity of the regime. This paper contributes to the literature in several ways. First, it discusses a new historical trend of instability of revolutionary governments. Second, it proposes a model that helps to understand the growing instability of revolutionary regimes, as well as conditions that undermine stability. In equilibrium, it is possible to have a revolutionary government overthrown by popular uprising, despite the fact that it gained power on the wave of popular support. Third, under a set of conditions, the new incumbent would always come from a different part of political spectrum. Forth, the model unpacks the warm glow component of protesters' decision to take to the streets. Finally, we provide implications for endogenous choice of policy by revolutionary incumbent for protest dynamics.
+[**“Leaderless Protests?"**](#works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
-<center>
+A notable characteristic of the 21st century protests is the absence of leaders. We propose a simple theoretical model of leaderless protests, in which factions with different political agendas unite to topple the incumbent leader. The fractionalization of recent protests become possible as the costs of broadcasting one's agenda among the group of potential supporters dramatically declined. Using a dataset that covers 73 countries and 114 protest campaigns in 1946-2006, we show that the spread of broadcasting technologies such as radio, TV, newspapers and Internet in separate regressions is negatively related to the probability that a campaign has discernible leadership. Our quasi-placebo tests for communication technologies that are less efficient in broadcasting potential leaders' agenda (e.g., mobile and fixed phones) are consistent with null effect. Both baseline and quasi-placebo results are robust to inclusion of wide range of covariates, and to the use of the Heckman approach, IV regression, or non-parametric analysis via Hainmueller and Hazlett (2014) KRLS approach.
 
-<img src="https://AntonSobolev.github.io/files/g-3-years-polity-all.png" height="50">
-<figcaption><i> Newly established revolutionary governments facing mass protests: historical trend</i></figcaption>
- </center>
 
 
 
