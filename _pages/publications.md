@@ -43,7 +43,7 @@ redirect_from:
 * [_Book on Amazon_](https://www.amazon.com/Systemic-Non-Systemic-Opposition-Russian-Federation-ebook/dp/B01CIKO3M0/ref=sr_1_1?ie=UTF8&qid=1525569981&sr=8-1&keywords=The+Systemic+and+Non-Systemic+Opposition+in+the+Russian+Federation) ✓ [_Book on Oakleaf Books_](http://www.oakleafbooks.se/index.php?route=product/product&manufacturer_id=Ross,%20Cameron&product_id=19129309)  ✓  [_Working paper_](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf)
 
 
-## Works review
+## Work under review
 
 [**"Stability of Revolutionary Governments In The Face Of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)[Paper available upon request]
 
