@@ -45,33 +45,43 @@ Usual?"
 
 **Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow, 2008-13
 
-## PUBLISHED WORKS
+## RESEARCH
 
-[**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
+### Journal Articles
 
-[**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+[**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
-[**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva and Boris Sokolov) 
+[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev, and Anton Kazun)
 
-[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
+[**"Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,"**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
 
-[**“Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,”**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
+[**"Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,"**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-[**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
+### Book Chapters
 
-## Research in progress
+[**"Civic and Political Activism in Russia"**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
+[**"Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies"**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
 
-[**"Leaderless Protests?"**](#work-in-progress) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
+### Working Papers
 
-[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#work-in-progress)
+[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
-[**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#work-in-progress)
+[**"Can independent media help suppress collective action?"**](#published-works)
+
+[**"Stability of Revolutionary Governments In The Face Of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
+
+### Research in Progress
+
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
+
+[**"Mechanisms of Protest Diffusion After the U.S. Presidential Election of 2016"**](#published-works) (with Keith Chen and Zachary Steinert-Threlkeld)
 
 ## GRANTS
 
 ### External
+
+Charles Koch Foundation, Arlington, Research Fellowship, 2018 
 
 The Harriman Institute, New York, Travel Grant, 2018 
 

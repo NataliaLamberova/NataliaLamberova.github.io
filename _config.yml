@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anton Sobolev"
-description              : &description "PhD Candidate in Comparative Politics and MSc in Statistics at University of California Los Angeles"
+description              : &description "PhD Candidate in Political Science and MSc in Statistics at University of California Los Angeles"
 url                      : https://AntonSobolev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AntonSobolev.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anton Sobolev"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Comparative Politics and MSс in Statistics at University of California Los Angeles"
+  bio              : "PhD Candidate in Political Science and MSс in Statistics at University of California Los Angeles"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en"
