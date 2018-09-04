@@ -55,7 +55,7 @@ redirect_from:
 
 [**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#published-works) *[Paper available upon request]*
 
-[**"Mechanisms of Protest Diffusion After the U.S. Presidential Election of 2016"**](#published-works)(with Keith Chen and Zachary Steinert-Threlkeld)
+[**"Mechanisms of Protest Diffusion After the U.S. Presidential Election of 2016"**](#published-works) (with Keith Chen and Zachary Steinert-Threlkeld)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
