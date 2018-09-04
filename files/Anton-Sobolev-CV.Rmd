@@ -62,11 +62,9 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 **Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow \hfill 2008-13
 
-# PUBLICATIONS
+# RESEARCH
 
-[**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
-
-[**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+## Journal Articles
 
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
@@ -76,14 +74,22 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 [**“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”**](“Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies,”) in *Problems of Post-Communism*, 2013, 60(2): 24-39 (with Regina Smyth and Irina Soboleva) 
 
-# CURRENT RESEARCH
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
+## Book Chapters
 
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
+[**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
+[**“Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies”**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+
+## Working Papers
 [**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
 [**"Can independent media help suppress collective action?"**](#published-works)
+
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
+
+## Research in Progress
+
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
 # GRANTS
 
