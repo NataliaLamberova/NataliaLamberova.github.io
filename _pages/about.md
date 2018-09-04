@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in Political Science and MSc in Statistics at University of California, Los Angeles, specializing in Comparative Politics, Machine Learning and Causal Inference. Applying text analysis and deep learning to collective behavior in authoritarian regimes, I explore the strategies that modern autocrats use to survive in office and how citizens respond to these strategies.
 
-My current projects focus on two such strategies: manufacturing the image of invincibility by pro-government rallies, and creating an army of paid supporters (_"trolls"_) on the Internet that attempts to shape the narrative and disrupt online conversation. 
+My dissertation project focuses on two such strategies: manufacturing the image of invincibility by pro-government rallies, and creating an army of paid supporters (_"trolls"_) on the Internet that attempts to shape the narrative and disrupt online conversation. 
 
 My other projects cover a wide range of questions associated with collective behavior in the broadest sense. In the project co-authored with [Keith Chen (UCLA and Uber)](http://www.anderson.ucla.edu/faculty/keith.chen/) and [Zachary Steinert-Threlkeld (UCLA)](https://zacharyst.com/), I develop a set of spatial deep learning models to examine the diffusion of protest in the United States after the presidential election of 2016. In another project co-authored with [Dmitry Dagaev (Moscow, HSE)](https://www.hse.ru/en/staff/ddagaev), [Natalia Lamberova (UCLA)](https://sites.google.com/site/natalialamberova/) and [Konstantin Sonin (Univeristy of Chicago)](https://harris.uchicago.edu/directory/konstantin-sonin), I study how IСT technology changes the structure and dynamics of protests across the globe.
 
