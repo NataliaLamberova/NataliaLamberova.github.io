@@ -99,6 +99,10 @@ Oxford-Russia Foundation, Research Fellowship,  2007-10
 
 ### Internal (at UCLA)
 
+Dissertation Year Fellowship, 2018-19
+
+Dissertation Research Fellowship, the Center for European and Russian Studies, 2018 
+
 Edwin W. Pauley Fellowship, UCLA, 2017 
 
 Edwin W. Pauley Fellowship, UCLA, 2013 
