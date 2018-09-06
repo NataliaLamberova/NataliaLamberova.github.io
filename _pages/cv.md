@@ -21,7 +21,7 @@ Usual?"
 
   * Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes, Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 
-**University of California, Los Angeles**, MS in Statistics,  2018
+**University of California, Los Angeles**, MS in Statistics,  2019
 
 **Higher School of Economics, Moscow**, PhD in Political Economy,  2015
 
