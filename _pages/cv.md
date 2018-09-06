@@ -119,7 +119,7 @@ High Distinction for Honors Thesis, Higher School of Economics,  2009
 
 ## PRESENTATIONS
 
-APSA (2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual Conference (2015), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2017, 2013), Indiana University (2012)
+APSA (2018, 2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual Conference (2015), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2018, 2017, 2013), Indiana University (2012)
 
 ## TEACHING EXPERIENCE
 
