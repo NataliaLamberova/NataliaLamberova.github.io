@@ -29,8 +29,8 @@ xcolor: yes
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2019
 
-\hskip 1cm  Topic: "*Dictators in the Spotlight*: What Do They Do When They Cannot Do Business as
-Usual?"
+\hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as
+Usual"
 
 \hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
@@ -44,7 +44,9 @@ Usual?"
 
 # ACADEMIC POSITIONS
 
-**Teaching Fellow**, Anderson School of Business, UCLA \hfill 2018 
+**Research Fellow**, Luskin School of Public Affairs, UCLA \hfill 2018 
+
+**Teaching Fellow**, **Research Fellow**, Anderson School of Business, UCLA \hfill 2018 
 
 **Teaching Fellow**, Department of Political Science, UCLA \hfill 2014-18
 
@@ -66,7 +68,7 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
-[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev, and Anton Kazun)
+[**"Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?,"**](http://www.tandfonline.com/doi/full/10.1080/1060586X.2013.859434) in *Post-Soviet Affairs*, 2014, 30(1), 171-194 (with Andrei Yakovlev and Anton Kazun)
 
 [**"Social and Economic Policy Trade-Offs  in the Russian Regions: Evidence from Four Case Studies,"**](http://www.tandfonline.com/doi/full/10.1080/09668136.2013.838055) in *Europe-Asia Studies*, 2013, 65(10): 1855-1876 (with Tom Remington, Irina Soboleva, and Mark Urnov) 
 
@@ -80,9 +82,9 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 ## Working Papers
 
-[**"Fantastic Beasts and Whether They Matter: How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
+[**"How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
-[**"Can independent media help suppress collective action?"**](#published-works)
+[**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#published-works)
 
 [**"Stability of Revolutionary Governments In The Face Of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
 
