@@ -23,8 +23,6 @@ Usual?"
 
 **University of California, Los Angeles**, MS in Statistics,  2019
 
-**Higher School of Economics, Moscow**, PhD in Political Economy,  2015
-
 **Higher School of Economics, Moscow**, MA in  Political Science (with Honors),  2011
 
 **Higher School of Economics, Moscow,** BA in Political science (with Honors),  2009
