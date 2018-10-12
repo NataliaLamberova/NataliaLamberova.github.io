@@ -1,0 +1,55 @@
+---
+title: ''
+author: "Anton Sobolev"
+email: asobolev@ucla.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=.75in
+jobtitle: PhD Candidate in Political Science and MS in Statistics at University of
+  California, Los Angeles
+keywords: R Markdown, academic CV, template
+linkcolor: Brown
+fontawesome: yes
+address: 4289 Bunche Hall, Box 951472, Los Angeles, CA 90095-1472
+updated: no
+urlcolor: Brown
+web: www.asobolev.com
+xcolor: yes
+---
+
+# TEACHING EXPERIENCE
+
+**University of California, Los Angeles**, ***Department of Political Science***
+
+\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
+
+\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann
+
+\hskip 1cm Data Analysis, with Prof. Erin Hartman
+
+\hskip 1cm Politics and Strategy, with Prof. Michael Chwe
+
+\hskip 1cm World Politics, with Prof. David Wilkinson
+
+**University of California, Los Angeles**, ***Anderson School of Business***
+
+\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen
+
+\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen
+
+
+**Higher School of Economics, Moscow**, ***Department of Political Science***
+
+\hskip 1cm Models of Risk in Politics and Economics (MA), Lecturer,
+
+\hskip 1cm with Prof. Konstantin Sonin and Prof. Irina Khovanskaya 
+
+\hskip 1cm Political Theory, Lecturer
