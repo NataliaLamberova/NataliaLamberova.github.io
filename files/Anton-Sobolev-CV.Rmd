@@ -27,7 +27,7 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2019
+**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2013-present
 
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as
 Usual"
