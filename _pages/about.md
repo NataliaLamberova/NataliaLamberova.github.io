@@ -18,4 +18,3 @@ My work has been published in [_World Politics_](http://dx.doi.org/10.1017/S0043
 
 I have conducted field research in Russia, funded by Carnegie Corporation of New York, Emory Univeristy, Moscow Higher School of Economics, Indiana University, and St Petersburg University. Before starting my PhD program at UCLA, I was a research fellow at the Center for the Study of Institutions and Development (2013-14) and a lecturer at the Department of Political Science at Higher School of Economics in Moscow (2010-13). I received *“The Best Lecturer of the Political Science Department”* Award in 2012. I also was a visiting research fellow at Russian & East European Institute at Indiana University.
 
-I am on the 2018-19 Job Market.
