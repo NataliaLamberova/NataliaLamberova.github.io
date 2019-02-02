@@ -29,8 +29,7 @@ xcolor: yes
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2013-present
 
-\hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as
-Usual"
+\hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as Usual"
 
 \hskip 1cm  Committee: Prof. Daniel Treisman (chair), Prof. Barbara Geddes,
 
@@ -84,15 +83,19 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 [**"How Pro-Government “Trolls” Influence Online Conversations in Russia"**](#published-works)
 
+[**"Newspapers and Social Media Accurately Measure Crowd Size"**](#published-works) (with Keith Chen, Zachary C. Steinert-Threlkeld, and Jungseock Joo)
+
 [**"Can Independent Media Help Autocrats Suppress Collective Action?"**](#published-works)
 
 [**"Stability of Revolutionary Governments In The Face Of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Natalia Lamberova)
 
 ## Research in Progress
 
+[**"Mechanisms of Protest Diffusion After the U.S. Presidential Election of 2016"**](#published-works) (with Keith Chen and Zachary Steinert-Threlkeld)
+
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Natalia Lamberova, and Konstantin Sonin)
 
-[**"Mechanisms of Protest Diffusion After the U.S. Presidential Election of 2016"**](#published-works) (with Keith Chen and Zachary Steinert-Threlkeld)
+
 
 # GRANTS
 
@@ -173,5 +176,4 @@ DATA COLLECTION: automated data extraction, automated text processing,
 \hskip 1.9 cm online and field experiments, surveys, interviews
 
 # References
-Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
-University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
+Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science, University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
