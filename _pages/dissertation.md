@@ -21,7 +21,8 @@ redirect_from:
 </style>
 
 
-My dissertation,*Dictators in the Spotlight: What Do They Do When They Cannot Do Business as Usual?*, examines the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible.  
+My dissertation,*Dictators in the Spotlight: What Do They Do When They Cannot Do Business as Usual?*, examines the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible.
+  
 In particular, I study the way governments hire agents to impersonate ordinary citizens and engage online with members of the political opposition. Such “Internet trolls” post pro-regime messages or intimidate ordinary users. I investigate the impact of such interventions on the behavior of social media users in Vladimir Putin’s Russia. This work contributes to debates on misinformation in social media channels, the regulation of digital platforms, and the domestic and foreign policy of non-democratic regimes. 
 
 <div class="col2">
