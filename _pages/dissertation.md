@@ -41,7 +41,7 @@ Specifically, my dissertation documents the behavior of several hundred Internet
 
 ## Findings
 
-My analysis of these data results in three important findings.
+My analysis results in three important findings.
 
 * *First*, when intervening in online discussions, paid commentators do not showcase themselves as supporters of the regime.  Instead, they successfully hide their troll identity by pretending to be politically moderate citizens or even government skeptics.  Employing the list of troll accounts leaked by journalists and a random sample of user accounts on LiveJournal, I trained a set of classification models (e.g., random forests and deep neural networks) to calculate the propensity of a social media account to belong to a troll.  I show that, while Internet trolls are good at hiding their troll identity from other users, modern statistical tools are able to identify them with a high level of accuracy.  While trolls try to mask themselves as regular users, some of their behavioral patterns differ sharply from those of ordinary-citizen users.  The methods I employed allow me to distinguish trolls from ordinary users with 96 percent precision.
 
@@ -51,7 +51,7 @@ My analysis of these data results in three important findings.
 
 ## Contributions and Policy-implications
 
-- *First*, it contributes to the debate on malicious misinformation and regulation of digital platforms. Companies, national governments, and academics develop sophisticated methods to detect state-sponsored political commentators on the Internet, but most of these methods are based on a combination of arbitrarily chosen criteria, often including the country of origin of the account’s email address or phone number, usage of specific characters (e.g., cyrillic alphabets), and specific keywords in the message.  
+- *First*, my results contribute to the debate on malicious misinformation and regulation of digital platforms. Companies, national governments, and academics develop sophisticated methods to detect state-sponsored political commentators on the Internet, but most of these methods are based on a combination of arbitrarily chosen criteria, often including the country of origin of the account’s email address or phone number, usage of specific characters (e.g., cyrillic alphabets), and specific keywords in the message.  
 
   My study shows that such methods may be unable to identify a significant proportion of paid political commentators.  These commentators are apparently aware of the risks and try hard to hide their troll identity.  At the same time, my research demonstrates that analysis of leaked data like that I obtained can successfully identify behavioral patterns that effectively distinguish paid commentators from regular users of digital platforms.
 
