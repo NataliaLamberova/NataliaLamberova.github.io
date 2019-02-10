@@ -27,17 +27,7 @@ xcolor: yes
 
 # TEACHING EXPERIENCE
 
-**University of California, Los Angeles**, ***Department of Political Science***
-
-\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
-
-\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann
-
-\hskip 1cm Data Analysis, with Prof. Erin Hartman
-
-\hskip 1cm Politics and Strategy, with Prof. Michael Chwe
-
-\hskip 1cm World Politics, with Prof. David Wilkinson
+## Data Analytics
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
@@ -45,11 +35,26 @@ xcolor: yes
 
 \hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen
 
+**University of California, Los Angeles**, ***Department of Political Science***
+
+\hskip 1cm Data Analysis (BA), with Prof. Erin Hartman
 
 **Higher School of Economics, Moscow**, ***Department of Political Science***
 
-\hskip 1cm Models of Risk in Politics and Economics (MA), Lecturer,
+\hskip 1cm Models of Risk in Politics and Economics (MA), Instructor
 
-\hskip 1cm with Prof. Konstantin Sonin and Prof. Irina Khovanskaya 
+\hskip 1cm \hskip 1cm with Prof. Konstantin Sonin and Prof. Irina Khovanskaya 
 
-\hskip 1cm Political Theory, Lecturer
+## Political Science
+
+**University of California, Los Angeles**, ***Department of Political Science***
+
+\hskip 1cm Politics and Government of Post-Communist Russia (BA), with Prof. Daniel Treisman
+
+\hskip 1cm Diversity, Disagreement, and Democracy (BA), with Prof. Susanne Lohmann
+
+\hskip 1cm Politics and Strategy (BA), with Prof. Michael Chwe
+
+\hskip 1cm World Politics (BA), with Prof. David Wilkinson
+
+
