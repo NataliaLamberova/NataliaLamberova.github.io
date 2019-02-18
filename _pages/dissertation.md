@@ -21,20 +21,23 @@ redirect_from:
 </style>
 
 
-My dissertation,*Dictators in the Spotlight: What Do They Do When They Cannot Do Business as Usual?*, examines the information tools employed by modern non-democratic leaders to maintain political control and their citizens’ probable responses to the strategies these tools make possible.
+My dissertation,*Political Economy of Technological Advancement*, examines the political constraints on government Research and Development (R&D) policy and their effect on the efficiency of such policy.
   
-In particular, I study the way governments hire agents to impersonate ordinary citizens and engage online with members of the political opposition. Such “Internet trolls” post pro-regime messages or intimidate ordinary users. I investigate the impact of such interventions on the behavior of social media users in Vladimir Putin’s Russia. This work contributes to debates on misinformation in social media channels, the regulation of digital platforms, and the domestic and foreign policy of non-democratic regimes. 
+Research that succeeds in boosting innovation typically does so only after a significant time lag, meaning that the results of such policy decisions may become apparent only after the government officeholders who made these decisions have been up for reelection or may even have left office entirely. Thus, what motivates an incumbent officeholder to invest in such policies, which generate a return only after the incumbent can no longer derive any personal benefit (i.e., increased chances of reelection)? Moreover, unlike the outcomes of many other types of policies having long-term horizons (e.g., infrastructure construction or education reform), those of research and development (R&D) policies are much less visible to the public.
+My research focuses on three possible explanations: electoral benefit, rent-seeking, and strengthening future coalitions. 
+ 
 
 <div class="col2">
 
-Specifically, my dissertation documents the behavior of several hundred Internet trolls who published blog posts and participated in discussions on the popular Russian social media platform LiveJournal in 2014–2015.  My focus is the effects of troll interventions on politically charged online discussions, and I argue that, when attacking political activists, these trolls pursue other goals and exploit other mechanisms than they do when targeting regular Internet users.
+Specifically, my dissertation documents increased perception of competentce of incumbents that put R&D to the forefont of their agenda (compared to pro-education, pro-infrastructure and pro-commercialization of innovation) using survey experiment in USA and Russia, and corroborates its findings with cross-country data.
+The second chapter of my disseratation shows that rent-seeking through R&D investment can lead to lower quality of patents produced under government incentives, and can also lead to unravelling of the market for technology. The third chapter of my dissertation suggests that government support for R&D can lead to increased market power of recipients of government grants.
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
 <center>
 
-<img src="https://AntonSobolev.github.io/files/dissertation-PCA.png" height="1000">
-<figcaption><i>All users are different, all trolls are alike</i></figcaption>
+<img src="https://NataliaLamberova.github.io/files/USA-attentive-sample_2models.png" height="1000">
+<figcaption><i>All else being equal, pro-R&D politician is reagrded as more competent by US respondents</i></figcaption>
  </center>
 
 </div>
