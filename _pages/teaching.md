@@ -28,7 +28,6 @@ redirect_from:
 
  * Intermediate Macroeconomics, with Prof. [John Neri](https://www.econ.umd.edu/facultyprofile/neri/john) 
  * Principles of Macro-Economics, with Prof. [Naveen Sarna](https://www.econ.umd.edu/facultyprofile/sarna/naveen)
-
  * Introduction to Microeconomics with Prof. [Judith K. Hellerstein](https://www.econ.umd.edu/facultyprofile/hellerstein/judith-k)
 
 **Kazan Natinal Research University, Kazan**,  ***Department of Economics***
