@@ -7,34 +7,35 @@ redirect_from:
   - /teaching
 ---
  
-## CURRENT TEACHING 
-
-**University of California, Los Angeles**, ***Anderson School of Business***
-
-  * Technology Analytics (MBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
-
-  * Competitive Analytics (MSBA), with Prof. [Keith Chen](http://www.anderson.ucla.edu/faculty/keith.chen/)
-
-
 ## TEACHING EXPERIENCE
+
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
   * Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/)
 
-  * Diversity, Disagreement, and Democracy, with Prof. [Susanne Lohmann](https://luskin.ucla.edu/person/susanne-lohmann/)
+  * Experiment Design, with Prof. [Graeme Blair](https://graemeblair.com/)
 
-  * Data Analysis, with Prof. [Erin Hartman](http://www.erinhartman.com/)
+  * World Politics, with Prof. [Leslie Johns](https://www.polisci.ucla.edu/people/leslie-johns)
 
-  * Politics and Strategy, with Prof. [Michael Chwe](http://chwe.net/michael/)
+  * Peace and War, with Prof. [Deborah Larson](https://polisci.ucla.edu/people/deborah-larson)
 
-  * World Politics, with Prof. [David Wilkinson](https://polisci.ucla.edu/people/david-wilkinson)
+  * Politics and Strategy with Prof. [Kathleen Bawn](https://polisci.ucla.edu/people/kathleen-bawn)
 
-**Higher School of Economics, Moscow**,  ***Department of Political Science***
+  * Politics and Strategy [Barry O'Neill](https://polisci.ucla.edu/people/barry-oneill)
 
-  * Models of Risk in Politics and Economics (MA), Lecturer, with Prof. [Konstantin Sonin](https://harris.uchicago.edu/directory/konstantin-sonin) and Prof. [Irina Khovanskaya](https://www.coursera.org/instructor/i.khovanskaya?siteID=hL3Qp0zRBOc-0088HPnpyM7omnvkrnwERg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=hL3Qp0zRBOc) 
+**University of Mayland, College Park**, ***Department of Economics***
 
-  * Political Theory, Lecturer
+ * Intermediate Macroeconomics, with Prof. [John Neri](https://www.econ.umd.edu/facultyprofile/neri/john) 
+ * Principles of Macro-Economics, with Prof. [Naveen Sarna](https://www.econ.umd.edu/facultyprofile/sarna/naveen)
+
+ * Introduction to Microeconomics with Prof. [Judith K. Hellerstein](https://www.econ.umd.edu/facultyprofile/hellerstein/judith-k)
+
+**Kazan Natinal Research University, Kazan**,  ***Department of Economics***
+
+  * Economics of Innovation, Lecturer
+
+  * Economics of Intellectual Property Rights, Lecturer
 
 
 
