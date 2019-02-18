@@ -46,7 +46,7 @@ The second chapter of my disseratation shows that rent-seeking through R&D inves
 
 My analysis results in three important findings.
 
-* * *First*, under assumption that policymakers value the economic outcomes of their policy, and that gains from holding office are not too high, there exists a separating equilibrium where high-skilled politicians invest in research and development, while low-skilled politicians invest is less risky policy, while voters prefer pro-R&D politician. Survey experiments conducted in USA and Russia are consistent with this result. This conclusion holds in cross-country setting.
+* *First*, under assumption that policymakers value the economic outcomes of their policy, and that gains from holding office are not too high, there exists a separating equilibrium where high-skilled politicians invest in research and development, while low-skilled politicians invest is less risky policy, while voters prefer pro-R&D politician. Survey experiments conducted in USA and Russia are consistent with this result. This conclusion holds in cross-country setting.
 
 * *Second*, politicians that are less concerned with reelection can generate rents from their R&D policy. In this case, government investment in R&D incentivize the production of low-quality patents, that leads to unravelling of the market for technologies. This is consistent with the evidence from natural experiment in Russia.
 
