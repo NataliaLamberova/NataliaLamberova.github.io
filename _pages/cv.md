@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a PDF version of my CV [here](https://AntonSobolev.github.io/files/Natalia-Lamberova-CV.pdf)
+You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/files/Natalia-Lamberova-CV.pdf)
 
 
 ## EDUCATION
