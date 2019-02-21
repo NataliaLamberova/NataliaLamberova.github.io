@@ -21,7 +21,7 @@ fontawesome: yes
 address: 4289 Bunche Hall, Box 951472, Los Angeles, CA 90095-1472
 updated: no
 urlcolor: Brown
-web: sites.google.com/site/natalialamberova
+web: natalialamberova.github.io
 xcolor: yes
 ---
 
@@ -29,15 +29,15 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2020
+**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill expected 2020
 
-\hskip 1cm  Topic: "*political Economy of Researh and Development*: Why Do Incumbents Support or Suppress Innovation?"
+\hskip 1cm  Topic: "*Political Economy of Technological Development*"
 
 \hskip 1cm  Committee: Prof. Daniel Treisman (chair)
 
 \hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
 
-**University of California, Los Angeles**, MS in Statistics  \hfill 2018
+**University of California, Los Angeles**, MS in Statistics  \hfill expected 2020
 
 **Kazan Federal University, Kazan**, Candidate in Economics (with Honors)  \hfill 2011
 
@@ -60,9 +60,11 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
-[**“Economic Transition and the Rise of Alternative Institutions:
-Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, *forthcoming* (with Konstantin Sonin)
+[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
 
+# FORTHCOMING PUBLICATIONS
+
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**] in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 
 # CURRENT RESEARCH
@@ -76,7 +78,12 @@ Political Connections in Putin’s Russia”**](#published-works) in *Economics 
 
 # GRANTS
 
-## External
+## External (while at UCLA)
+
+The Harriman Institute, New York, Hayek Grant  \hfill 2019 
+
+The Harriman Institute, New York, Hayek Grant  \hfill 2018 
+
 The Harriman Institute, New York, Research Grant  \hfill 2018 
 
 The Harriman Institute, New York, Travel Grant  \hfill 2018 
@@ -84,6 +91,8 @@ The Harriman Institute, New York, Travel Grant  \hfill 2018
 Institute for Humane Studies, Arlington, Travel Grant  \hfill 2018
 
 Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018 
+
+## External
 
 The grant of President of Tatarstan for the outstanding graduate research \hfill 2012
 
@@ -101,11 +110,6 @@ UCLA Fellowship \hfill 2014
 
 UCLA Dean's Stipend \hfill 2014
 
-# AWARDS AND DISTINCTIONS
-
-Best graduate student award, Republic of Tatarstan, Russia \hfill 2011 
-
-High Distinction for Honors Thesis, Kazan Federal University \hfill  2010
 
 # PRESENTATIONS
 
@@ -121,6 +125,7 @@ APSA (2018, 2016, 2014), MPSA (2018, 2017, 2016, 2014), European Economic Associ
 
 \hskip 1cm Experiments and Research Design with Prof. Graeme Blair
 
+\hskip 1cm Peace and War, with Prof. Daborah Larson 
 
 \hskip 1cm World Politics, with Prof. Leslie Johns
 

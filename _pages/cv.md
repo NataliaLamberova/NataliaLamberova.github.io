@@ -15,7 +15,8 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 ## EDUCATION
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government   2020
-  Topic: "*political Economy of Researh and Development*: Why Do Incumbents Support or Suppress Innovation?"
+  Topic: "*Political Economy of Technological Development*"
+
 Committee: Prof. Daniel Treisman (chair)
 Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
 
@@ -64,6 +65,10 @@ Higher School of Economics, Moscow  2013-14
 ## GRANTS
 
 ### External
+
+Institute for Humane Studies, Arlington, Travel Grant, 2019
+
+Institute for Humane Studies, Arlington, Hayek Grant, 2018
 
 Charles Koch Foundation, Arlington, Research Fellowship, 2018 
 
