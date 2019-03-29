@@ -62,6 +62,8 @@ Higher School of Economics, Moscow  2013-14
 [**"Promoting innovation or Promoting groups of interest?"**](#published-works) 
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+
+[**A New Measure of State Relationships and Foreign Policy Similarity**] (with Anton Sobolev, Arthur Stein, Robert F. Trager)
 ## GRANTS
 
 ### External
