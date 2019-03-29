@@ -63,7 +63,7 @@ Higher School of Economics, Moscow  2013-14
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
-[**A New Measure of State Relationships and Foreign Policy Similarity**] (with Anton Sobolev, Arthur Stein, Robert F. Trager)
+[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 ## GRANTS
 
 ### External

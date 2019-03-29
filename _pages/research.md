@@ -78,6 +78,6 @@ We examine how Putin regime adjusted its political strategy—in particular, its
 
 ## Measuring Networks of International Relations
 
-[**A New Measure of State Relationships and Foreign Policy Similarity**] (with Anton Sobolev, Arthur Stein, Robert F. Trager)
+[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 International political dynamics depend on the web of state relationships with changes in one relationship influencing changes in others. In empirical studies, the most commonly used approach to modeling state relationships and interests is a measure of foreign policy similarity called the S-score (Signorino, 1999), which has proven fruitful in hundreds of studies. Yet, this measure has significant, predictable limitations. It does not reflect seminal events in the international system at all, such as the ending of the Cold War, and captures only the similarity of two states' relations with third states rather than the character of the interactions they have with each other. We therefore develop two new measures that have advantages for many scholarly purposes. One reflects foreign policy similarity, as the S-score does, but captures a much wider range of state foreign policy interactions. The other is a direct measure of the quality of bilateral relations in a network context. We illustrate the advantages of these measures in a set of cases.

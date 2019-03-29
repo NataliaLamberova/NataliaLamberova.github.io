@@ -41,6 +41,8 @@ redirect_from:
 
 * _Media Coverage:_ [_Vedomosti (Russian)_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
+[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
+
 
 
 {% if author.googlescholar %}
