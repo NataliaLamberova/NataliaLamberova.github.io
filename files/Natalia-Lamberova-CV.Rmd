@@ -68,7 +68,8 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 
 # CURRENT RESEARCH
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev)
+
+[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (Revise and Resubmit in European Journal of Political Economy)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
@@ -76,19 +77,23 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 [**"Gaming Patent System, Russian Style"**](#published-works)
 
+[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
+
 # GRANTS
 
 ## External (while at UCLA)
 
-The Harriman Institute, New York, Hayek Grant  \hfill 2019 
+The Harriman Institute, New York, Travel Grant  \hfill 2019 
 
-The Harriman Institute, New York, Hayek Grant  \hfill 2018 
-
-The Harriman Institute, New York, Research Grant  \hfill 2018 
+Charles Koch Graduate Student Grant \hfill 2018 
 
 The Harriman Institute, New York, Travel Grant  \hfill 2018 
 
-Institute for Humane Studies, Arlington, Travel Grant  \hfill 2018
+The Harriman Institute, New York, Research Grant  \hfill 2018 
+
+Institute for Humane Studies, New York, Hayek Grant  \hfill 2018 
+
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018
 
 Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018 
 
@@ -113,9 +118,13 @@ UCLA Dean's Stipend \hfill 2014
 
 # PRESENTATIONS
 
-APSA (2018, 2016, 2014), MPSA (2018, 2017, 2016, 2014), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 # TEACHING EXPERIENCE
+
+**University of California, Los Angeles**, ***Anderson Business School***
+
+\hskip 1cm Technology Analytics, with Prof. Keith Chen
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
