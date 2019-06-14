@@ -37,7 +37,7 @@ The second chapter of my disseratation shows that rent-seeking through R&D inves
 <center>
 
 <img src="https://NataliaLamberova.github.io/files/USA-attentive-sample_2models.png" height="1000">
-<figcaption><i>All else being equal, pro-R&D politician is reagrded as more competent by US respondents</i></figcaption>
+<figcaption><i>All else being equal, pro-R&D politician is regarded as more competent by US respondents</i></figcaption>
  </center>
 
 </div>
