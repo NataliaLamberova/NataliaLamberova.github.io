@@ -53,7 +53,7 @@ Higher School of Economics, Moscow  2013-14
 
 ### Working Papers
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) 
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (R&R in European Journal of Political Economy)
 
 [**"The puzzling politics of R&D: signaling competence through risky projects"**](#published-works) *[Paper available upon request]*
 
@@ -67,6 +67,8 @@ Higher School of Economics, Moscow  2013-14
 ## GRANTS
 
 ### External
+
+Institute for Humane Studies, Arlington, Research Grant, 2019
 
 Institute for Humane Studies, Arlington, Travel Grant, 2019
 
@@ -93,8 +95,11 @@ Ronald Coase Institute Fellowship, Chicago, 2011
 
 ### Internal (at UCLA)
 
+Dissertation Year Fellowship, UCLA, 2019
 
-Dissertation Research Fellowship, the Center for European and Russian Studies, 2018 
+Dissertation Research Fellowship, the Center for European and Russian Studies, 2019
+
+Dissertation Research Fellowship, the Center for European and Russian Studies, 2018
 
 Dean’s Stipend, UCLA, 2014
 
@@ -112,9 +117,13 @@ Best Undergraduate Student Research Paper, Kazan Federal University, 2008
 
 ## PRESENTATIONS
 
-APSA (2018, 2016, 2014), MPSA (2018, 2017, 2014), European Economic Association Annual Conference (2015), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2018), April International Academic Conference On Economic and Social Development (2013, 2012, 2011, 2010), Moscow Higher School of Economics (2015), UCLA (2014, 2015, 2016), EERC Workshop (2011)
+APSA (2018, 2016, 2014), MPSA (2019, 2018, 2017, 2014), European Economic Association Annual Conference (2015), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), April International Academic Conference On Economic and Social Development (2013, 2012, 2011, 2010), Moscow Higher School of Economics (2015), UCLA (2014, 2015, 2016), EERC Workshop (2011)
 
 ## TEACHING EXPERIENCE
+
+**University of California, Los Angeles**, ***UCLA Anderson School of Management***    
+
+  * Technology Analytics, with Prof. [Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/) 
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
@@ -147,7 +156,7 @@ APSA (2018, 2016, 2014), MPSA (2018, 2017, 2014), European Economic Association 
 * SOFTWARE: R (`Rselenium`, `rvest`,  `ggplot2`, `latentnet`,`statnet`,`igraph`), Python (`keras`,  `Selenium`),  Stata, LaTeX
 
 
-* DATA COLLECTION: automated data extraction, automated text processing, online survey experiments, interviews
+* DATA COLLECTION: automated data extraction, automated text processing, online survey experiments, interviews, record linkage
 
 ## References
 Prof. Daniel Treisman (chair of dissertation committee),  Department of Political Science,
