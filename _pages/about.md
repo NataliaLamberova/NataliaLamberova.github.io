@@ -16,4 +16,6 @@ I am also interested in the impact of new technology on collective action. In tw
 
 In statistics field, I apply latent networks models to summarize Interational Relations data into an informative uni-dimensional measure of political connections (as opposed to current measures of policy similarity) (together with [Anton Sobolev (UCLA)](asobolev.com), [Robert Trager (UCLA)](https://polisci.ucla.edu/people/robert-trager ) and [Art Stein (UCLA)](https://polisci.ucla.edu/people/arthur-stein). that can be applied in International Trade and International Conflict studies. We also develop dynamic network models of state-to-state relations.
 
+I am available for interviews at APSA (2019) and AEA (2020)
+
 
