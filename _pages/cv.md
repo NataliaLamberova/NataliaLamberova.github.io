@@ -1,4 +1,4 @@
----
+﻿---
 title: "CV"
 permalink: /cv/
 excerpt: "About me"
@@ -15,21 +15,21 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 ## EDUCATION
 
 **University of California, Los Angeles**, PhD in Comparative Politics and Government   2020
-  Topic: "*Political Economy of Technological Development*"
+  Topic: "*Political Economy of Technological Development*."
 
-Committee: Prof. Daniel Treisman (chair)
+Committee: Prof. Daniel Treisman (chairperson)
 Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
 
 **University of California, Los Angeles**, MS in Statistics   2018
 
 **Kazan Federal University, Kazan**, Candidate in Economics (with Honors)   2011
 
-**Kazan Federal University, Kazan** BA in Economics (with Honors)   2010
+**Kazan Federal University, Kazan** BA in Economics (with Honors)  2010
 
 
 ## ACADEMIC POSITIONS
 
-**Teaching Fellow**, Department of Political Science, UCLA  2016-18
+**Teaching Fellow**, Department of Political Science, University of California, Los Angeles - UCLA  2016-18
 
 **Research Fellow**, Department of Political Science, UCLA  2014-16, 2018-2019
 
@@ -42,18 +42,18 @@ Higher School of Economics, Moscow  2013-14
 
 ### Journal Articles
 
-[**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia,”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
+[**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia,”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in the *Economics of Transition journal*, 2018, 615-648  (with Konstantin Sonin) 
 
 
 ### Book Chapters
 
-[**“The Role of Business in Shaping Economic Policy”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
+[**“The Role of Business in Shaping Economic Policy”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in the book *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, pg.137-158, Brookings Institution Press (with Konstantin Sonin)
 
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#works) in the book *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 ### Working Papers
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (R&R in European Journal of Political Economy)
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (R&R in the European Journal of Political Economy)
 
 [**"The puzzling politics of R&D: signaling competence through risky projects"**](#published-works) *[Paper available upon request]*
 
@@ -145,7 +145,7 @@ APSA (2018, 2016, 2014), MPSA (2019, 2018, 2017, 2014), European Economic Associ
  * Principles of Macro-Economics, with Prof. [Naveen Sarna](https://www.econ.umd.edu/facultyprofile/sarna/naveen)
  * Introduction to Microeconomics with Prof. [Judith K. Hellerstein](https://www.econ.umd.edu/facultyprofile/hellerstein/judith-k)
 
-**Kazan Natinal Research University, Kazan**,  ***Department of Economics***
+**Kazan National Research University, Kazan**,  ***Department of Economics***
 
   * Economics of Innovation, Lecturer
 
@@ -159,5 +159,5 @@ APSA (2018, 2016, 2014), MPSA (2019, 2018, 2017, 2014), European Economic Associ
 * DATA COLLECTION: automated data extraction, automated text processing, online survey experiments, interviews, record linkage
 
 ## References
-Prof. Daniel Treisman (chair of dissertation committee),  Department of Political Science,
+Prof. Daniel Treisman (chair of the dissertation committee),  Department of Political Science,
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, [treisman@polisci.ucla.edu](treisman@polisci.ucla.edu)
