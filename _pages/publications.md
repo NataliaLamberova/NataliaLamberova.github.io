@@ -24,7 +24,7 @@ redirect_from:
 
 ## Articles under review
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](Accepted for publication in European Journal of Political Economy) (with Dmitry Dagaev and Anton Sobolev)           
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](Accepted for publication in European Journal of Political Economy) (with Dmitry Dagaev and Anton Sobolev) Accepted for publication in European Journal of Political Economy           
 
 * _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  
 * [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  
