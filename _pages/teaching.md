@@ -11,7 +11,7 @@ redirect_from:
 
 **University of California, Los Angeles**, ***Anderson Business School***
  
- * Tachnology Analytics, with Prrof.[Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/)
+ * Technology Analytics, with Prof.[Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/)
 
 
 **University of California, Los Angeles**, ***Department of Political Science***

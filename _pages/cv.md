@@ -53,7 +53,7 @@ Higher School of Economics, Moscow  2013-14
 
 ### Working Papers
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (R&R in the European Journal of Political Economy)
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (Accepted for publication in the European Journal of Political Economy)
 
 [**"The puzzling politics of R&D: signaling competence through risky projects"**](#published-works) *[Paper available upon request]*
 
