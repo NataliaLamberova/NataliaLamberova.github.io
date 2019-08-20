@@ -19,7 +19,7 @@ redirect_from:
 * [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.6)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  
 * [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
 
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
+[**“Putin's Strategy After the Global Financial Crisis of 2008-9"**](#works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 
 
