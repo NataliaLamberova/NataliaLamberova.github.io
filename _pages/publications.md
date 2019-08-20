@@ -9,7 +9,7 @@ redirect_from:
 
 ## Published articles
 
-[**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia,”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
+[**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
 
 
 ## Book chapters
@@ -38,13 +38,13 @@ redirect_from:
 
 [**"Gaming patent System, Russian Style"**](#published-works) 
 
-[**"Promoting innovation or Promoting groups of interest?"**](#published-works) 
+[**"Promoting innovation or Promoting groups of interest"**](#published-works) 
 
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
 * _Media Coverage:_ [_Vedomosti (Russian)_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
-[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
+[**"A New Measure of State Relationships and Foreign Policy Similarity"**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 
 
