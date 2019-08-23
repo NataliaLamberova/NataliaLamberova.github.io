@@ -22,9 +22,9 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 **University of California, Los Angeles**, MS in Statistics   2018
 
-**Kazan Federal University, Kazan**, Candidate in Economics (with Honors)   2011
+**Kazan Federal University, Kazan**, Candidate in Economics   2011
 
-**Kazan Federal University, Kazan** BA in Economics (with Honors)  2010
+**Kazan Federal University, Kazan** BA in Economics  2010
 
 
 ## ACADEMIC POSITIONS

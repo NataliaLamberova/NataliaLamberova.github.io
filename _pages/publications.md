@@ -10,8 +10,13 @@ redirect_from:
 
 [**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
 
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](#published-works) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming           
 
-## Book chapters
+* _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  
+* [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  
+* [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
+* [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
+
 
 [**“The Role of Business in Shaping Economic Policy”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
 
@@ -22,14 +27,6 @@ redirect_from:
 
 
 
-## Articles under review
-
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](Accepted for publication in European Journal of Political Economy) (with Dmitry Dagaev and Anton Sobolev) Accepted for publication in European Journal of Political Economy           
-
-* _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  
-* [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  
-* [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
-* [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
 
 ## Research in progress
 
