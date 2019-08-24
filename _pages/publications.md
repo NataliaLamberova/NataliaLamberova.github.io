@@ -10,7 +10,7 @@ redirect_from:
 
 [**“Economic transition and the rise of alternative institutions: Political connections in Putin's Russia”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](#published-works) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming           
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming           
 
 * _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/)  
 * [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/)  
