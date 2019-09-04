@@ -70,7 +70,7 @@ Higher School of Economics, Moscow  2013-14
 
 Institute for Humane Studies, Arlington, Research Grant, 2019
 
-Institute for Humane Studies, Arlington, Travel Grant, 2019
+The Harriman Institute, New York, Travel Grant, 2019 
 
 Institute for Humane Studies, Arlington, Hayek Grant, 2018
 
