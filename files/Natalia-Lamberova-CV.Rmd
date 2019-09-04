@@ -45,7 +45,7 @@ xcolor: yes
 
 # ACADEMIC POSITIONS
 
-**Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-18
+**Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-19
 
 **Research Fellow**, Department of Political Science, UCLA \hfill 2014-16
 
@@ -58,18 +58,18 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 # PUBLICATIONS
 
+[**"Stability of revolutionary governments in the face of mass protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming
+
+[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648 (with Konstantin Sonin)
+
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
-# FORTHCOMING PUBLICATIONS
-
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**] in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 
 # CURRENT RESEARCH
 
-[**"Recurrent Revolutions: Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) (with Dmitry Dagaev and Anton Sobolev) (Accepted for publication in European Journal of Political Economy)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
@@ -83,7 +83,9 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 ## External (while at UCLA)
 
-The Harriman Institute, New York, Research Grant  \hfill 2019 
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2019
+
+Institute for Humane Studies, Arlington, Research Grant  \hfill 2019 
 
 The Harriman Institute, New York, Travel Grant  \hfill 2019 
 
