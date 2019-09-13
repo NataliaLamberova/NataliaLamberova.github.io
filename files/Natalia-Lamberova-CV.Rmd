@@ -147,6 +147,16 @@ Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st 
 \hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. 	
 John Neri
 
+# SERVICE
+
+**Methodes Workshops at Economics Department, Kazan National Research Technological University**:                  
+
+Causal Inference Workshop \hfill 2019                                   
+R Workshop  \hfill 2018, 2019                    
+Game Theory Workshop \hfill 2018             
+
+**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review
+
 # SKILLS
 
 SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`,`daggity`,`gis`),
