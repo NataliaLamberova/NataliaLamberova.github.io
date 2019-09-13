@@ -39,7 +39,7 @@ xcolor: yes
 
 **University of California, Los Angeles**, MS in Statistics  \hfill expected 2020
 
-**Kazan Federal University, Kazan**, Candidate in Economics (with Honors)  \hfill 2011
+**Kazan Federal University, Kazan**, Ph.D. (kandidat) in Economics  \hfill 2011
 
 **Kazan Federal University, Kazan** BA in Economics (with Honors)  \hfill 2010
 
@@ -83,23 +83,15 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 ## External (while at UCLA)
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2019
-
-Institute for Humane Studies, Arlington, Research Grant  \hfill 2019 
-
-The Harriman Institute, New York, Travel Grant  \hfill 2019 
-
 Charles Koch Graduate Student Grant \hfill 2018 
 
-The Harriman Institute, New York, Travel Grant  \hfill 2018 
+The Harriman Institute, New York, Travel Grant  \hfill 2018, 2019 
 
 The Harriman Institute, New York, Research Grant  \hfill 2018 
 
-Institute for Humane Studies, New York, Hayek Grant  \hfill 2018 
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (2 grants)
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018
-
-Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018 
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018, 2019 
 
 ## External
 
@@ -157,9 +149,9 @@ John Neri
 
 # SKILLS
 
-SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
+SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`,`daggity`,`gis`),
 
-\hskip 1.9 cm Python (`TensorFlow`, `keras`,  `Selenium`), SQL, Stata, SPSS, \LaTeX
+\hskip 1.9 cm  Stata, SPSS, \LaTeX
 
 DATA COLLECTION: automated data extraction, automated text processing,
 
@@ -167,4 +159,9 @@ DATA COLLECTION: automated data extraction, automated text processing,
 
 # References
 Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
-University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu         
+
+Prof. Chad Hazlett, Department of Political Science,
+University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
+
+Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago,ksonin@uchicago.edu
