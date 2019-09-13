@@ -149,7 +149,7 @@ John Neri
 
 # SERVICE
 
-**Methodes Workshops at Economics Department, Kazan National Research Technological University**:                  
+**Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
 
 Causal Inference Workshop \hfill 2019                                   
 R Workshop  \hfill 2018, 2019                    
