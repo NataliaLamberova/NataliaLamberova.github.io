@@ -14,31 +14,31 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill expected 2020
+**University of California, Los Angeles**, PhD in Comparative Politics and Government   expected 2020
 
-\hskip 1cm  Topic: "*Political Economy of Technological Development*"
+Topic: "*Political Economy of Technological Development*"
 
-\hskip 1cm  Committee: Prof. Daniel Treisman (chair)
+Committee: Prof. Daniel Treisman (chair)
 
-\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
+Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
 
-**University of California, Los Angeles**, MS in Statistics  \hfill expected 2020
+**University of California, Los Angeles**, MS in Statistics   expected 2020
 
-**Kazan Federal University, Kazan**, Ph.D. (kandidat) in Economics  \hfill 2011
+**Kazan Federal University, Kazan**, Ph.D. (kandidat) in Economics  2011
 
-**Kazan Federal University, Kazan** BA in Economics (with Honors)  \hfill 2010
+**Kazan Federal University, Kazan** BA in Economics (with Honors)   2010
 
 # ACADEMIC POSITIONS
 
-**Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-19
+**Teaching Fellow**, Department of Political Science, UCLA  2016-19
 
-**Research Fellow**, Department of Political Science, UCLA \hfill 2014-16
+**Research Fellow**, Department of Political Science, UCLA  2014-16
 
 **Research Fellow**, Center for the Study of Institutions and Development,
 
-Higher School of Economics, Moscow \hfill 2013-14
+Higher School of Economics, Moscow  2013-14
 
-**Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
+**Lecturer**, Economics Department, Kazan National Technological Research University  2010-12 
 
 
 # PUBLICATIONS
@@ -68,37 +68,37 @@ Higher School of Economics, Moscow \hfill 2013-14
 
 ## External (while at UCLA)
 
-Charles Koch Graduate Student Grant \hfill 2018 
+Charles Koch Graduate Student Grant  2018 
 
-The Harriman Institute, New York, Travel Grant  \hfill 2018, 2019 
+The Harriman Institute, New York, Travel Grant   2018, 2019 
 
-The Harriman Institute, New York, Research Grant  \hfill 2018 
+The Harriman Institute, New York, Research Grant   2018 
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (2 grants)
+Institute for Humane Studies, Arlington, Hayek Grant   2018 (3 grants), 2019 (2 grants)
 
-Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018, 2019 
+Institute for Humane Studies, Arlington, PhD Fellowship   2015,2017,2018, 2019 
 
 ## External
 
-The grant of President of Tatarstan for the outstanding graduate research \hfill 2012
+The grant of President of Tatarstan for the outstanding graduate research  2012
 
-Global Development Network CIS Department Development Grant \hfill 2012
+Global Development Network CIS Department Development Grant  2012
 
-Ronald Coase Institute Fellowship \hfill 2011
+Ronald Coase Institute Fellowship  2011
 
-"Algarysh” grant of Tatarstan Republic to study in Washington University in St. Louis with full tuition coverage and stipend \hfill 2008-2009
+"Algarysh” grant of Tatarstan Republic to study in Washington University in St. Louis with full tuition coverage and stipend  2008-2009
 
 ## Internal (at UCLA)
 
-Dissertation Year Fellowship \hfill 2019
+Dissertation Year Fellowship  2019
 
-Dissertation Research Fellowship, the Center for European and Russian Studies \hfill 2019
+Dissertation Research Fellowship, the Center for European and Russian Studies  2019
 
-Dissertation Research Fellowship, the Center for European and Russian Studies \hfill 2018
+Dissertation Research Fellowship, the Center for European and Russian Studies  2018
 
-UCLA Fellowship \hfill 2014
+UCLA Fellowship  2014
 
-UCLA Dean's Stipend \hfill 2014
+UCLA Dean's Stipend  2014
 
 
 # PRESENTATIONS
@@ -109,36 +109,36 @@ Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st 
 
 **University of California, Los Angeles**, ***Anderson Business School***
 
-\hskip 1cm Technology Analytics, with Prof. Keith Chen
+Technology Analytics, with Prof. Keith Chen
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
-\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
+Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
 
-\hskip 1cm Politics and Strategy with Prof. Barry O'Neil and Prof. Kathleen Bawn
+Politics and Strategy with Prof. Barry O'Neil and Prof. Kathleen Bawn
 
-\hskip 1cm Experiments and Research Design with Prof. Graeme Blair
+Experiments and Research Design with Prof. Graeme Blair
 
-\hskip 1cm Peace and War, with Prof. Daborah Larson 
+Peace and War, with Prof. Daborah Larson 
 
-\hskip 1cm World Politics, with Prof. Leslie Johns
+World Politics, with Prof. Leslie Johns
 
 **University of Maryland**, ***Department of Economics***
 
-\hskip 1cm Principles of Micro-Economics, with Prof. John Straub
+Principles of Micro-Economics, with Prof. John Straub
 
-\hskip 1cm Principles of Micro-Economics, with Prof. Naveen Sarna
+Principles of Micro-Economics, with Prof. Naveen Sarna
 
-\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof.   
+Intermediate Macroeconomic Theory and Policy, with Prof.   
 John Neri
 
 # SERVICE
 
 **Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
 
-Causal Inference Workshop \hfill 2019                                   
-R Workshop  \hfill 2018, 2019                    
-Game Theory Workshop \hfill 2018             
+Causal Inference Workshop  2019                                   
+R Workshop  2018, 2019                    
+Game Theory Workshop  2018             
 
 **Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review
 
@@ -146,11 +146,11 @@ Game Theory Workshop \hfill 2018
 
 SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`,`daggity`,`gis`),
 
-\hskip 1.9 cm  Stata, SPSS, \LaTeX
+Stata, SPSS, \LaTeX
 
 DATA COLLECTION: automated data extraction, automated text processing,
 
-\hskip 1.9 cm online and field experiments, surveys, interviews
+online and field experiments, surveys, interviews
 
 # References
 Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
