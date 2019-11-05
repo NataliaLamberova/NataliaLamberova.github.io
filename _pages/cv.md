@@ -24,6 +24,8 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 **University of California, Los Angeles**, MS in Statistics   expected 2020
 
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics  2012-2014
+
 **Kazan Federal University, Kazan**, Ph.D. (kandidat) in Economics  2011
 
 **Kazan Federal University, Kazan** BA in Economics (with Honors)   2010
@@ -55,10 +57,9 @@ Higher School of Economics, Moscow  2013-14
 
 # CURRENT RESEARCH
 
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
-
-[**"Political Economy of Research and Development: Why do some countries support of suppress innovation"**](#published-works)
 
 [**"Gaming Patent System, Russian Style"**](#published-works)
 
@@ -103,7 +104,7 @@ UCLA Dean's Stipend  2014
 
 # PRESENTATIONS
 
-Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 # TEACHING EXPERIENCE
 

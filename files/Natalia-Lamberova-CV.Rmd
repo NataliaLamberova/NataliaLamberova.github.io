@@ -39,9 +39,11 @@ xcolor: yes
 
 **University of California, Los Angeles**, MS in Statistics  \hfill expected 2020
 
-**Kazan Federal University, Kazan**, Ph.D. (kandidat) in Economics  \hfill 2011
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-2014
 
 **Kazan Federal University, Kazan** BA in Economics (with Honors)  \hfill 2010
+
+**Washington Univeristy in St. Louis**, visiting student \hfill 2008-2009
 
 # ACADEMIC POSITIONS
 
@@ -49,35 +51,37 @@ xcolor: yes
 
 **Research Fellow**, Department of Political Science, UCLA \hfill 2014-16
 
+**Teaching Assistant**, Department of Economics, University of Maryland \hfill 2012-14
+
 **Research Fellow**, Center for the Study of Institutions and Development,
 
-Higher School of Economics, Moscow \hfill 2013-14
+Higher School of Economics, Moscow \hfill 2013
 
 **Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
 
 
 # PUBLICATIONS
 
-[**"Stability of revolutionary governments in the face of mass protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming
+
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 [**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648 (with Konstantin Sonin)
 
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
-
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
 
 
 # CURRENT RESEARCH
 
 
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) (submitted for journal review)
 
-[**"Political Economy of Research and Development: Why do some countries support of suppress innovation"**](#published-works)
+[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
 [**"Gaming Patent System, Russian Style"**](#published-works)
 
-[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
+[**"A New Measure of State Relationships and Foreign Policy Similarity"**](#published-works)(with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 # GRANTS
 
@@ -89,9 +93,9 @@ The Harriman Institute, New York, Travel Grant  \hfill 2018, 2019
 
 The Harriman Institute, New York, Research Grant  \hfill 2018 
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (2 grants)
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (3 grants)
 
-Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018, 2019 
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015, 2017-2019 
 
 ## External
 
@@ -118,7 +122,7 @@ UCLA Dean's Stipend \hfill 2014
 
 # PRESENTATIONS
 
-Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 # TEACHING EXPERIENCE
 
@@ -144,8 +148,7 @@ Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st 
 
 \hskip 1cm Principles of Micro-Economics, with Prof. Naveen Sarna
 
-\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. 	
-John Neri
+\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. John Neri
 
 # SERVICE
 
@@ -159,7 +162,7 @@ Game Theory Workshop \hfill 2018
 
 # SKILLS
 
-SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`,`daggity`,`gis`),
+SOFTWARE:  R (`keras`,  `selenium`,  `rvest`,  `tm`,  `ggplot2`,  `tidyverse`,  `sp`,  `raster`, `daggity`, `gis`),
 
 \hskip 1.9 cm  Stata, SPSS, \LaTeX
 
@@ -174,4 +177,4 @@ University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1
 Prof. Chad Hazlett, Department of Political Science,
 University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
 
-Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago,ksonin@uchicago.edu
+Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris Graduate School of Public Policy Studies, University of Chicago, 1307 E 60th St, Chicago, IL, 60615,  ksonin@uchicago.edu
