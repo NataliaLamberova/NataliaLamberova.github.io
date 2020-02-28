@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Locations of crucial files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -81,7 +81,7 @@ Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
 #dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+:   Coined by Rob Dyrdek and his bodyguard Christopher "Big Black" Boykins, "Do Work" works as a self-motivator, to motivating your friends.
 
 Do It Live
 :   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
@@ -118,7 +118,7 @@ Do It Live
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+Make any link stand out more when applying the `.btn` class.
 
 ## Notices
 
@@ -139,7 +139,7 @@ This is an example of a [link](http://github.com "Github").
 
 ### Abbreviation Tag
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+The abbreviation CSS stands for "Cascading Style Sheets."
 
 *[CSS]: Cascading Style Sheets
 
@@ -165,7 +165,7 @@ This tag should denote <ins>inserted</ins> text.
 
 ### Keyboard Tag
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+This scarcely known tag emulates <kbd>keyboard text</kbd> is usually styled like the `<code>` tag.
 
 ### Preformatted Tag
 
@@ -191,7 +191,7 @@ This tag shows **bold text**.
 
 ### Subscript Tag
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+Get our science styling on with H<sub>2</sub>O, which should push the "2" down.
 
 ### Superscript Tag
 

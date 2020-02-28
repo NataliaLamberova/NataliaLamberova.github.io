@@ -39,55 +39,84 @@ xcolor: yes
 
 **University of California, Los Angeles**, MS in Statistics  \hfill expected 2020
 
-**Kazan Federal University, Kazan**, Candidate in Economics (with Honors)  \hfill 2011
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-2014
 
 **Kazan Federal University, Kazan** BA in Economics (with Honors)  \hfill 2010
 
+**Washington Univeristy in St. Louis**, visiting student \hfill 2008-2009
+
 # ACADEMIC POSITIONS
 
+<<<<<<< HEAD
 **Research Fellow**, Department of Political Science, UCLA \hfill 2019-2020, 2014-16
 
 **Teaching Fellow**, Anderson School of Business, UCLA \hfill 2019 
+=======
+**Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-19
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 **Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-18
 
+**Teaching Assistant**, Department of Economics, University of Maryland \hfill 2012-14
+
 **Research Fellow**, Center for the Study of Institutions and Development,
 
-Higher School of Economics, Moscow \hfill 2013-14
+Higher School of Economics, Moscow \hfill 2013
 
 **Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
 
 
 # PUBLICATIONS
 
+<<<<<<< HEAD
 [**"Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
+=======
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
 
+<<<<<<< HEAD
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
 [**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press, (with Daniel Treisman)
+=======
+[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648 (with Konstantin Sonin)
+
+[**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 
 
 # CURRENT RESEARCH
 
 
+<<<<<<< HEAD
 
 [**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works)
+=======
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) (submitted for journal review)
+
+[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 [**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
 
+<<<<<<< HEAD
 [**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
 
 [**Measure for Measure: Using Events Data to Characterize Relationships in Networks**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+=======
+[**"A New Measure of State Relationships and Foreign Policy Similarity"**](#published-works)(with Anton Sobolev, Arthur Stein, Robert F. Trager)
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 # GRANTS
 
 ## External (while at UCLA)
 
+<<<<<<< HEAD
 IHS 2020 Summer Graduate Research Fellowship \hfill 2020
 
 Institute for Humane Studies, New York, Research Grant  \hfill 2019 
@@ -101,6 +130,17 @@ The Harriman Institute, New York, Research Grant  \hfill 2018
 Institute for Humane Studies, New York, Hayek Grant  \hfill 2018, 2019, 2020 
 
 Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015,2017,2018 
+=======
+Charles Koch Graduate Student Grant \hfill 2018 
+
+The Harriman Institute, New York, Travel Grant  \hfill 2018, 2019 
+
+The Harriman Institute, New York, Research Grant  \hfill 2018 
+
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (3 grants), 2020
+
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015, 2017-2019 
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 ## External
 
@@ -125,7 +165,11 @@ UCLA Dean's Stipend \hfill 2014
 
 # PRESENTATIONS
 
+<<<<<<< HEAD
 Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+=======
+ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
 
 # TEACHING EXPERIENCE
 
@@ -137,7 +181,7 @@ Invited talk at UCLA Computational International Relations Workshop (2020), ASSA
 
 \hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
 
-\hskip 1cm Diversity, Politics and Strategy with Prof. Barry O'Neil and Prof. Kathleen Bawn
+\hskip 1cm Politics and Strategy with Prof. Barry O'Neil and Prof. Kathleen Bawn
 
 \hskip 1cm Experiments and Research Design with Prof. Graeme Blair
 
@@ -151,14 +195,23 @@ Invited talk at UCLA Computational International Relations Workshop (2020), ASSA
 
 \hskip 1cm Principles of Micro-Economics, with Prof. Naveen Sarna
 
-\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. 	
-John Neri
+\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. John Neri
+
+# SERVICE
+
+**Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
+
+Causal Inference Workshop \hfill 2019                                   
+R Workshop  \hfill 2018, 2019                    
+Game Theory Workshop \hfill 2018             
+
+**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review
 
 # SKILLS
 
-SOFTWARE:  R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
+SOFTWARE:  R (`keras`,  `selenium`,  `rvest`,  `tm`,  `ggplot2`,  `tidyverse`,  `sp`,  `raster`, `daggity`, `gis`),
 
-\hskip 1.9 cm Python (`TensorFlow`, `keras`,  `Selenium`), SQL, Stata, SPSS, \LaTeX
+\hskip 1.9 cm  Stata, SPSS, \LaTeX
 
 DATA COLLECTION: automated data extraction, automated text processing,
 
@@ -167,8 +220,17 @@ DATA COLLECTION: automated data extraction, automated text processing,
 # References
 
 Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
+<<<<<<< HEAD
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu
 
 Prof. Chad Hazlett, Department of Political Science, University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
 
 Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago,ksonin@uchicago.edu
+=======
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu         
+
+Prof. Chad Hazlett, Department of Political Science,
+University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
+
+Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris Graduate School of Public Policy Studies, University of Chicago, 1307 E 60th St, Chicago, IL, 60615,  ksonin@uchicago.edu
+>>>>>>> 79f9d905b5fe88641dd8ef2911df58d079b4c3bc
