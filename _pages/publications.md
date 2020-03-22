@@ -30,7 +30,7 @@ redirect_from:
 
 ## Research in progress
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) R&R at the *Journal of Comparative Economics*
 
 [**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
 
