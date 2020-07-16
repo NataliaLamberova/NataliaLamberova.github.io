@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CV"
 permalink: /cv/
 excerpt: "About me"
@@ -32,9 +32,11 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 # ACADEMIC POSITIONS
 
-**Teaching Fellow**, Department of Political Science, UCLA  2016-19
+**Research Fellow**, Department of Political Science, UCLA 2019-2020, 2014-16
 
-**Research Fellow**, Department of Political Science, UCLA  2014-16
+**Teaching Fellow**, Anderson School of Business, UCLA  2019 
+
+**Teaching Fellow**, Department of Political Science, UCLA  2016-18
 
 **Research Fellow**, Center for the Study of Institutions and Development,
 
@@ -45,39 +47,45 @@ Higher School of Economics, Moscow  2013-14
 
 # PUBLICATIONS
 
-[**"Stability of revolutionary governments in the face of mass protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy* (with Dmitry Dagaev and Anton Sobolev), forthcoming
+[**"Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648 (with Konstantin Sonin)
+[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
 
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press, (with Daniel Treisman)
 
 
 
 # CURRENT RESEARCH
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) R&R at the *Journal of Comparative Economics*
+
+[**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
+
+[**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
+
+[**Measure for Measure: Using Events Data to Characterize Relationships in Networks**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
-
-[**"Gaming Patent System, Russian Style"**](#published-works)
-
-[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 # GRANTS
 
 ## External (while at UCLA)
 
-Charles Koch Graduate Student Grant  2018 
+IHS 2020 Summer Graduate Research Fellowship  2020
+
+Institute for Humane Studies, New York, Research Grant   2019 
 
 The Harriman Institute, New York, Travel Grant   2018, 2019 
 
+Charles Koch Graduate Student Grant 2018 
+
 The Harriman Institute, New York, Research Grant   2018 
 
-Institute for Humane Studies, Arlington, Hayek Grant   2018 (3 grants), 2019 (2 grants)
+Institute for Humane Studies, New York, Hayek Grant   2018, 2019, 2020 
 
-Institute for Humane Studies, Arlington, PhD Fellowship   2015,2017,2018, 2019 
+Institute for Humane Studies, Arlington, PhD Fellowship   2015,2017,2018 
 
 ## External
 
@@ -104,7 +112,8 @@ UCLA Dean's Stipend  2014
 
 # PRESENTATIONS
 
-Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+POLMETH (2020 - scheduled),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled),IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+
 
 # TEACHING EXPERIENCE
 

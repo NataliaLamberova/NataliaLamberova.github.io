@@ -23,20 +23,23 @@ redirect_from:
 * [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.6)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  
 * [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
 
-[**“Putin's Strategy After the Global Financial Crisis of 2008-9"**](#works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), forthcoming
+[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press, (with Daniel Treisman)
 
 
 
 
 ## Research in progress
 
-[**"The puzzling politics of R&D: signaling competence through risky projects"**](#published-works) *[Paper available upon request]*
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) R&R at the *Journal of Comparative Economics*
 
-[**"Gaming patent System, Russian Style"**](#published-works) 
+[**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
 
-[**"Promoting innovation or Promoting groups of interest"**](#published-works) 
+[**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
 
-[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+[**Measure for Measure: Using Events Data to Characterize Relationships in Networks**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
+
+[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+
 
 * _Media Coverage:_ [_Vedomosti (Russian)_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
 
