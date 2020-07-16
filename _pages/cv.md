@@ -14,7 +14,7 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government   expected 2020
+**University of California, Los Angeles**, PhD in Comparative Politics and Government   2020
 
 Topic: "*Political Economy of Technological Development*"
 
@@ -22,7 +22,7 @@ Committee: Prof. Daniel Treisman (chair)
 
 Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
 
-**University of California, Los Angeles**, MS in Statistics   expected 2020
+**University of California, Los Angeles**, MS in Statistics    2020
 
 **University of Maryland, College Park**, Graduate coursework required for PhD in Economics  2012-2014
 
@@ -101,9 +101,8 @@ Ronald Coase Institute Fellowship  2011
 
 Dissertation Year Fellowship  2019
 
-Dissertation Research Fellowship, the Center for European and Russian Studies  2019
+Dissertation Research Fellowship, the Center for European and Russian Studies  2018, 2019
 
-Dissertation Research Fellowship, the Center for European and Russian Studies  2018
 
 UCLA Fellowship  2014
 
@@ -112,7 +111,7 @@ UCLA Dean's Stipend  2014
 
 # PRESENTATIONS
 
-POLMETH (2020 - scheduled),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled),IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled), IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 
 # TEACHING EXPERIENCE
@@ -144,7 +143,7 @@ John Neri
 
 # SERVICE
 
-**Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
+**Methods Workshops at Economics Department, Kazan National Research Technological University(organizer and lecturer)**:                  
 
 Causal Inference Workshop  2019                                   
 R Workshop  2018, 2019                    
