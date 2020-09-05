@@ -32,6 +32,8 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 # ACADEMIC POSITIONS
 
+**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020
+
 **Research Fellow**, Department of Political Science, UCLA 2019-2020, 2014-16
 
 **Teaching Fellow**, Anderson School of Business, UCLA  2019 
@@ -47,7 +49,7 @@ Higher School of Economics, Moscow  2013-14
 
 # PUBLICATIONS
 
-[**"Technological Foundations of Political Instability"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
 
 [**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
 
@@ -68,6 +70,8 @@ Higher School of Economics, Moscow  2013-14
 [**Measure for Measure: Using Events Data to Characterize Relationships in Networks**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
 
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+
+[**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
 
 # GRANTS
 
@@ -116,6 +120,10 @@ POLMETH (2020),International Center for the Study of Institutions and Developmen
 
 # TEACHING EXPERIENCE
 
+**Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
+
+ International Security
+
 **University of California, Los Angeles**, ***Anderson Business School***
 
 Technology Analytics, with Prof. Keith Chen
@@ -149,7 +157,7 @@ Causal Inference Workshop  2019
 R Workshop  2018, 2019                    
 Game Theory Workshop  2018             
 
-**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review
+**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics
 
 # SKILLS
 

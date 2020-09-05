@@ -9,6 +9,10 @@ redirect_from:
  
 ## TEACHING EXPERIENCE
 
+**Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
+
+International Security
+
 **University of California, Los Angeles**, ***Anderson Business School***
  
  * Technology Analytics, with Prof.[Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/)
