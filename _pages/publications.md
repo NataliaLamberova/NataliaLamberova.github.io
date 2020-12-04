@@ -22,32 +22,11 @@ redirect_from:
 
 * [Coverage: APSA Newsletter](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2020/06/Democracy-and-Autocracy_June-2020.pdf?fbclid=IwAR3Z_z0hXT3Mp9PWfXKvLamPrx7DBAli5wZ_jUbtBrFRQq7XruUHgVrGE3g)
 
-[**“The Role of Business in Shaping Economic Policy”**](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
+[**“The Role of Business in Shaping Economic Policy”**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf?refreqid=excelsior%3A6000b6d17b01177fb1a82b9f41491234) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
 
-* [_Chapter on Jstor_](ttps://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9)  ✓  [_Book on Jstor_](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  
+* [_Chapter on Jstor_](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf?refreqid=excelsior%3A6000b6d17b01177fb1a82b9f41491234)  ✓  [_Book on Jstor_](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  
 * [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
 
-
-
-
-
-
-## Research in progress
-
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) R&R at the *Journal of Comparative Economics*
-
-[**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
-
-[**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
-
-[**Measure for Measure: Using Events Data to Characterize Relationships in Networks**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
-
-[**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
-
-
-* _Media Coverage:_ [_Vedomosti (Russian)_](http://www.vedomosti.ru/opinion/articles/2015/04/23/nevinosimaya-legkost-politicheskogo-liderstva) 
-
-[**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
 
 
 
