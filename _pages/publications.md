@@ -22,7 +22,7 @@ redirect_from:
 
 * [Coverage: APSA Newsletter](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2020/06/Democracy-and-Autocracy_June-2020.pdf?fbclid=IwAR3Z_z0hXT3Mp9PWfXKvLamPrx7DBAli5wZ_jUbtBrFRQq7XruUHgVrGE3g)
 
-[**“The Role of Business in Shaping Economic Policy”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
+[**“The Role of Business in Shaping Economic Policy”**](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9refreqid=excelsior%3A6423b665e22623e39a564947abc0df01&seq=1#metadata_info_tab_contents) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
 
 * [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.6)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  
 * [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)

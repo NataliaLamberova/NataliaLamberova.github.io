@@ -16,5 +16,4 @@ I am also interested in the impact of new technology on collective action. In tw
 
 In the statistics field, I apply latent networks models to summarize International Relations data into an informative uni-dimensional measure of political connections (as opposed to current standards of policy similarity), (together with [Robert Trager (UCLA)](https://polisci.ucla.edu/people/robert-trager ) and [Art Stein (UCLA)](https://polisci.ucla.edu/people/arthur-stein) that can be applied in International Trade and International Conflict studies.  In our new project, we apply the resulting measures to investigate the role of structural balance in the network of international relations.
 
-
-
+You can contact me at natalia.lamberova[at]gmail.com
