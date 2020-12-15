@@ -49,9 +49,9 @@ Higher School of Economics, Moscow  2013-14
 
 # PUBLICATIONS
 
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2365057) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?casa_token=T5RXf4crfcQAAAAA:Y7C5q8AOg_trdfvsMCyz3woH_zpH_LcjmMJTiYRTiMYy3p8ak9ZtYWQBW1mwAGTd0Ci_b7xAoA) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648
+[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](https://onlinelibrary.wiley.com/doi/full/10.1111/ecot.12167?casa_token=1nP9SpxJ9H8AAAAA%3AqrhwGbA7KdXOIo8aw3P0-NZI_-l03IuVD35_IZvKecaPx_X2Gu_4ZXnERjTm9HIgZmPTnhpNyfBCaA) in *Economics of Transition*, 2018, Volume 26(4),615–648
 
 [**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
