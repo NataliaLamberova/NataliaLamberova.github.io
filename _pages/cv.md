@@ -49,6 +49,8 @@ Higher School of Economics, Moscow  2013-14
 
 # PUBLICATIONS
 
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) *Journal of Comparative Economics*, forthcoming
+
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?casa_token=T5RXf4crfcQAAAAA:Y7C5q8AOg_trdfvsMCyz3woH_zpH_LcjmMJTiYRTiMYy3p8ak9ZtYWQBW1mwAGTd0Ci_b7xAoA) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
 
 [**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](https://onlinelibrary.wiley.com/doi/full/10.1111/ecot.12167?casa_token=1nP9SpxJ9H8AAAAA%3AqrhwGbA7KdXOIo8aw3P0-NZI_-l03IuVD35_IZvKecaPx_X2Gu_4ZXnERjTm9HIgZmPTnhpNyfBCaA) in *Economics of Transition*, 2018, Volume 26(4),615–648
@@ -61,9 +63,7 @@ Higher School of Economics, Moscow  2013-14
 
 # CURRENT RESEARCH
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) R&R at the *Journal of Comparative Economics*
-
-[**"The Puzzling Politics of R&D: Growing "Lemons" in the Market for Technology"**](#published-works)
+[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)(with Konstantin Sonin)
 
 [**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
 
@@ -103,10 +103,9 @@ Ronald Coase Institute Fellowship  2011
 
 ## Internal (at UCLA)
 
-Dissertation Year Fellowship  2019
+Dissertation Year Fellowship  2019-2020
 
 Dissertation Research Fellowship, the Center for European and Russian Studies  2018, 2019
-
 
 UCLA Fellowship  2014
 
@@ -122,7 +121,9 @@ POLMETH (2020),International Center for the Study of Institutions and Developmen
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
- International Security
+International Security            
+
+Russia and Eurasia
 
 **University of California, Los Angeles**, ***Anderson Business School***
 

@@ -64,6 +64,8 @@ Higher School of Economics, Moscow \hfill 2013
 
 # PUBLICATIONS
 
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) (forthcoming, Journal of Comparative Economics)
+
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*,2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)           
 
 [**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), 2020
@@ -76,12 +78,11 @@ Higher School of Economics, Moscow \hfill 2013
 
 # CURRENT RESEARCH
 
-
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) (R&R in Journal of Comparative Economics)
+[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)(with Konstantin Sonin)
 
 [**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
-[**"Gaming Patent System, Russian Style"**](#published-works)
+[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
 
 [**"Measure for Measure: Using Events Data to Characterize Relationships in Networks"**](#published-works)(with Arthur Stein, Robert F. Trager)
 
@@ -128,13 +129,14 @@ UCLA Dean's Stipend \hfill 2014
 
 # PRESENTATIONS
 
-ASSA (2021-Scheduled),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), MPSA (2020 - online), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+ASSA (2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), MPSA (2020 - online), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 # TEACHING EXPERIENCE
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
-\hskip 1cm International Security
+\hskip 1cm International Security                       
+\hskip 1cm IRussia and Eurasia
 
 **University of California, Los Angeles**, ***Anderson Business School***
 

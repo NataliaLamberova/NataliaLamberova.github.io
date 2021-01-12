@@ -32,12 +32,11 @@ redirect_from:
 
 ## Government R&D policy and Political Constraints 
 
-[**“The puzzling politics of R&D: signaling competence through risky projects”**](#works) *[Paper available upon request]*
+[**“The puzzling politics of R&D: signaling competence through risky projects”**](#works) *(forthcoming in Journal of Comparative Economics)*
 
 Why do some incumbents devote significant funds to the support of Research and Development, even though the fruits of such investment typically appear after the incumbent has left the office? Unlike many other types of long-term government investment (such as education or infrastructure), government investment in R&D is less visible to the average voter. Moreover, it is highly risky. This paper investigates whether the mere fact of incumbent pursuing pro-R&D policy can result in higher expectations of future economic growth rewarded by the voters, or higher perception of the incumbent’s competence. It further asks whether pursuing R&D policy helps the incumbent to secure reelection. The paper proposes a theoretical model of signaling, provides evidence from survey experiments conducted in the USA and Russia and corroborates findings with cross-country evidence. The paper concludes that investment in R&D can generate higher perceptions of the incumbent’s competence, which is crucial, especially for countries with a history of high economic volatility. 
 
-[**“The Puzzling Politics of R&D: Growing ``Lemons'' in the Market for Technology”**](https://NataliaLamberova.github.io/files/LemonsDecember2020.pdf) (with Konstantin Sonin)
-
+[**“Why Governments Grow “Lemons” in the Market for Technology”**](https://NataliaLamberova.github.io/files/LemonsDecember2020.pdf) (with Konstantin Sonin)
 
 Governments around the world spend enormous amount of money on R&D. A large part of this investment is wasted, flooding the system with patents that never result in any actual innovation. This effect is especially pronounced in countries with low level of government accountability. To reconcile the growth of “lemon patents” with genuine desire of the government to spur innovation, we offer a game-theoretic model, in which the government has a significant stake in technological development and invests in R&D, even if this simultaneously encourages growth of “lemons”. We illustrate the mechanism by demonstrating the causal impact of Russia’s government policy, which resulted in a simultaneous increase in the number of high-quality patents and a decrease in the share of such patents in the patent pool.
 
