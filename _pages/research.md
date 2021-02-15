@@ -32,7 +32,7 @@ redirect_from:
 
 ## Government R&D policy and Political Constraints 
 
-[**“The puzzling politics of R&D: signaling competence through risky projects”**](#works) *(forthcoming in Journal of Comparative Economics)*
+[**“The puzzling politics of R&D: signaling competence through risky projects”**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021 
 
 Why do some incumbents devote significant funds to the support of Research and Development, even though the fruits of such investment typically appear after the incumbent has left the office? Unlike many other types of long-term government investment (such as education or infrastructure), government investment in R&D is less visible to the average voter. Moreover, it is highly risky. This paper investigates whether the mere fact of incumbent pursuing pro-R&D policy can result in higher expectations of future economic growth rewarded by the voters, or higher perception of the incumbent’s competence. It further asks whether pursuing R&D policy helps the incumbent to secure reelection. The paper proposes a theoretical model of signaling, provides evidence from survey experiments conducted in the USA and Russia and corroborates findings with cross-country evidence. The paper concludes that investment in R&D can generate higher perceptions of the incumbent’s competence, which is crucial, especially for countries with a history of high economic volatility. 
 
