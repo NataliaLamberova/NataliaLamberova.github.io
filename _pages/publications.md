@@ -9,7 +9,7 @@ redirect_from:
 
 ## Published articles
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works)(forthcoming, *Journal of Comparative Economics*)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021
 
 [**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*,2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)
 

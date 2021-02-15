@@ -13,12 +13,11 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=.75in
-jobtitle: PhD  in Political Science and MS in Statistics from University of
-  California, Los Angeles
+jobtitle: Postdoctoral Fellow at the Sam Nunn School of International Affairs at Georgia Institute of Technology
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
-address: 4289 Bunche Hall, Box 951472, Los Angeles, CA 90095-1472
+address: 781 Marietta St NW, Atlanta, GA 30332
 updated: no
 urlcolor: Brown
 web: natalialamberova.github.io
@@ -49,6 +48,8 @@ xcolor: yes
 
 **Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology \hfill 2020
 
+**Teaching Fellow**, Anderson School of Management, UCLA \hfill 2016-19
+
 **Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-19
 
 **Research Fellow**, Department of Political Science, UCLA \hfill 2014-16
@@ -64,7 +65,7 @@ Higher School of Economics, Moscow \hfill 2013
 
 # PUBLICATIONS
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) (forthcoming, *Journal of Comparative Economics*)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021
 
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*,2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)           
 
@@ -129,7 +130,7 @@ UCLA Dean's Stipend \hfill 2014
 
 # PRESENTATIONS
 
-ASSA (2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), MPSA (2020 - online), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+Corruption, Tax Evasion and Institutions Conference at Stockholm School of Economics (2021, scheduled), MPSA(2021, scheduled), ASSA (2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), MPSA (2020 - online), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 # TEACHING EXPERIENCE
 

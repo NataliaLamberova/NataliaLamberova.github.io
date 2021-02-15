@@ -36,7 +36,7 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 **Research Fellow**, Department of Political Science, UCLA 2019-2020, 2014-16
 
-**Teaching Fellow**, Anderson School of Business, UCLA  2019 
+**Teaching Fellow**, Anderson School of Management, UCLA  2019 
 
 **Teaching Fellow**, Department of Political Science, UCLA  2016-18
 
@@ -49,7 +49,7 @@ Higher School of Economics, Moscow  2013-14
 
 # PUBLICATIONS
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](#published-works) *Journal of Comparative Economics*, forthcoming
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021
 
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?casa_token=T5RXf4crfcQAAAAA:Y7C5q8AOg_trdfvsMCyz3woH_zpH_LcjmMJTiYRTiMYy3p8ak9ZtYWQBW1mwAGTd0Ci_b7xAoA) in *European Journal of Political Economy, 2019, 60, 2-20* (with Dmitry Dagaev and Anton Sobolev)
 
@@ -114,7 +114,7 @@ UCLA Dean's Stipend  2014
 
 # PRESENTATIONS
 
-POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled), IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+Corruption, Tax Evasion and Institutions Conference at Stockholm School of Economics (2021, scheduled), MPSA(2021, scheduled),ASSA(2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled), IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 
 # TEACHING EXPERIENCE
