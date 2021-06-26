@@ -63,7 +63,7 @@ Higher School of Economics, Moscow  2013-14
 
 # CURRENT RESEARCH
 
-[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)(with Konstantin Sonin)
+[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)
 
 [**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
 
@@ -77,6 +77,7 @@ Higher School of Economics, Moscow  2013-14
 
 ## External (while at UCLA)
 
+
 IHS 2020 Summer Graduate Research Fellowship  2020
 
 Institute for Humane Studies, New York, Research Grant   2019 
@@ -87,7 +88,7 @@ Charles Koch Graduate Student Grant 2018
 
 The Harriman Institute, New York, Research Grant   2018 
 
-Institute for Humane Studies, New York, Hayek Grant   2018, 2019, 2020 
+Institute for Humane Studies, New York, Hayek Grant   2018, 2019, 2020, 2021 
 
 Institute for Humane Studies, Arlington, PhD Fellowship   2015,2017,2018 
 
@@ -114,7 +115,7 @@ UCLA Dean's Stipend  2014
 
 # PRESENTATIONS
 
-Corruption, Tax Evasion and Institutions Conference at Stockholm School of Economics (2021, scheduled), MPSA(2021, scheduled),ASSA(2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020 - scheduled), IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+APSA  (2021-scheduled), Society for Institutional and Organizational Economics conference (2021), Corruption, Tax Evasion and Institutions Conference at Stockholm School of Economics (2021), MPSA(2021) ,ASSA(2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020), IHS SURF Workshop (2020), MPSA (2020 - online),Invited talk at UCLA Computational International Relations Workshop (2020), ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019), WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 
 
 # TEACHING EXPERIENCE
