@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Natalia Lamberova"
-description              : &description "PhD Candidate in Political Science and MSc in Statistics at University of California Los Angeles"
+description              : &description "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
 url                      : https://NataliaLamberova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NataliaLamberova.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Natalia Lamberova"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Political Science and MSс in Statistics at University of California Los Angeles"
+  bio              : "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=NippiA8AAAAJ&hl=en"
