@@ -79,7 +79,7 @@ Higher School of Economics, Moscow \hfill 2013
 
 # CURRENT RESEARCH
 
-[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)
+[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works) (under review)
 
 [**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
@@ -87,7 +87,12 @@ Higher School of Economics, Moscow \hfill 2013
 
 [**"Measure for Measure: Using Events Data to Characterize Relationships in Networks"**](#published-works)(with Arthur Stein, Robert F. Trager)
 
-[**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager)     
+[**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
+
+[**"Patent Protection and Innovative Entrepreneurship: examining effect of Alice ruling on startup funding**](#works)(with Maxim Ananyev)
+
+[**“Democratic Backsliding: Civil Society and Institutions under COVID-19"**](#works)
+
 
 # GRANTS
 
@@ -136,8 +141,9 @@ APSA(2021 scheduled), Society for Institutional and Organizational Economics con
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
-\hskip 1cm International Security                       
-\hskip 1cm Russia and Eurasia
+\hskip 1cm International Security (Graduate class)                       
+\hskip 1cm Russia and Eurasia (Cross-listed graduate and undergraduate class)
+\hskip 1cm Post-Soviet Politics (Cross-listed graduate and undergraduate class)
 
 **University of California, Los Angeles**, ***Anderson Business School***
 
@@ -191,3 +197,5 @@ Prof. Chad Hazlett, Department of Political Science,
 University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
 
 Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris Graduate School of Public Policy Studies, University of Chicago, 1307 E 60th St, Chicago, IL, 60615,  ksonin@uchicago.edu
+
+Prof. Sebastian Galiani, Department of Economics, University of Maryland, Tydings Hall, 7343 Preinkert Drive, College Park, sgaliani@umd.edu

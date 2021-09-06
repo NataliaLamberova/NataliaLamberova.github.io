@@ -32,7 +32,7 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 # ACADEMIC POSITIONS
 
-**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020
+**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020-now
 
 **Research Fellow**, Department of Political Science, UCLA 2019-2020, 2014-16
 
@@ -63,7 +63,7 @@ Higher School of Economics, Moscow  2013-14
 
 # CURRENT RESEARCH
 
-[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)
+[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works)(under review)
 
 [**"The Puzzling Politics of R&D: innovation and political connections"**](#published-works)
 
@@ -72,6 +72,10 @@ Higher School of Economics, Moscow  2013-14
 [**"Leaderless Protests?"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
 [**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
+
+[**"Patent Protection and Innovative Entrepreneurship: examining effect of Alice ruling on startup funding**](#works)(with Maxim Ananyev)
+
+[**“Democratic Backsliding: Civil Society and Institutions under COVID-19**](#works)
 
 # GRANTS
 
@@ -178,4 +182,6 @@ University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1
 Prof. Chad Hazlett, Department of Political Science,
 University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
 
-Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago,ksonin@uchicago.edu
+Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago, ksonin@uchicago.edu
+
+Prof. Sebastian Galiani, Department of Economics, University of Maryland, Tydings Hall, 7343 Preinkert Drive, College Park, sgaliani@umd.edu

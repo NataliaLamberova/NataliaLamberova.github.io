@@ -11,7 +11,11 @@ redirect_from:
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
-International Security
+ * International Security (Graduate class, Teaching award)
+
+ * Russian Politics (Cross-listed Graduate and undergraduate class)
+
+ * Post-Soviet Politics (Cross-listed Graduate and undergraduate class)
 
 **University of California, Los Angeles**, ***Anderson Business School***
  
