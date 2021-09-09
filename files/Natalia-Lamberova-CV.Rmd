@@ -1,7 +1,7 @@
 ---
 title: ''
 author: "Natalia Lamberova"
-email: natalam@ucla.edu
+email: natalia.lamberova@inta.gatech.edu
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -13,14 +13,14 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=.75in
-jobtitle: Postdoctoral Fellow at the Sam Nunn School of International Affairs at Georgia Institute of Technology
+jobtitle: Postdoctoral Associate, Sam Nunn School of International Affairs, Georgia Institute of Technology
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
 address: 781 Marietta St NW, Atlanta, GA 30332
 updated: no
 urlcolor: Brown
-web: natalialamberova.github.io
+web: natalialamberova.com
 xcolor: yes
 ---
 
@@ -28,134 +28,151 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, PhD in Comparative Politics and Government  \hfill 2014-2020
+**University of California, Los Angeles**, PhD in Government  \hfill 2020
 
 \hskip 1cm  Topic: "*Political Economy of Technological Development*"
 
 \hskip 1cm  Committee: Prof. Daniel Treisman (chair)
 
-\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Business)
+\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Management)
 
-**University of California, Los Angeles**, MS in Statistics  \hfill 2014-2020
+**University of California, Los Angeles**, MSc in Statistics  \hfill 2020
 
-**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-2014
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-14
 
-**Kazan Federal University, Kazan** BA in Economics (with Honors)  \hfill 2010
+**Kazan Federal University, Kazan**, BA in Economics (with Honors)  \hfill 2010
 
-**Washington Univeristy in St. Louis**, visiting student \hfill 2008-2009
+**Washington University in St. Louis**, Visiting student \hfill 2008-2009
 
 # ACADEMIC POSITIONS
 
-**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology \hfill 2020
+**Postdoctoral Associate**, Center for International Strategy, Technology and Policy,  \hfill 2020
 
-**Teaching Fellow**, Anderson School of Management, UCLA \hfill 2016-19
+Sam Nunn School of International Affairs, Georgia Institute of Technology
 
-**Teaching Fellow**, Department of Political Science, UCLA \hfill 2016-19
+**Teaching Fellow**, Anderson School of Management, UCLA \hfill 2018-19
 
-**Research Fellow**, Department of Political Science, UCLA \hfill 2014-16
+**Research Fellow**, **Teaching Fellow**, Department of Political Science, UCLA \hfill 2014-17
 
 **Teaching Assistant**, Department of Economics, University of Maryland \hfill 2012-14
 
-**Research Fellow**, Center for the Study of Institutions and Development,
+**Research Fellow**, Center for the Study of Institutions and Development, \hfill 2013
 
-Higher School of Economics, Moscow \hfill 2013
+Higher School of Economics, Moscow 
 
 **Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
 
+# RESEARCH
 
-# PUBLICATIONS
+## Articles
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021, 49(3): 801-818
 
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*,2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)           
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*, 2019, 60: 2-20, (with Dmitry Dagaev and Anton Sobolev)           
 
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#published-works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, University of Michigan Press (with Daniel Treisman), 2020
+[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia"**](https://doi.org/10.1111/ecot.12167) in *Economics of Transition*, 2018, Volume 26(4): 615–648 (with Konstantin Sonin)
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia”**](#published-works) in *Economics of Transition*, 2018, Volume 26(4),615–648 (with Konstantin Sonin)
+## Peer-reviewed book chapters
 
-[**“The Role of Business in Shaping Economic Policy.”**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
+[**"Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, 97-118, University of Michigan Press (with Daniel Treisman)
 
+[**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
+## Research in progress
 
-# CURRENT RESEARCH
-
-[**"Why Governments Grow “Lemons” in the Market for Technology"**](#published-works) (under review)
-
-[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
+[**"Why Governments Grow 'Lemons' in the Market for Technology"**](#in-progress)  (under review)
 
 [**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
 
-[**"Measure for Measure: Using Events Data to Characterize Relationships in Networks"**](#published-works)(with Arthur Stein, Robert F. Trager)
+[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice ruling on Startup Funding**](#in-progress) (with Maxim Ananyev)
 
+[**"Democratic Backsliding: Civil Society and Institutions under COVID-19"**](#in-progress)
+
+<!--
 [**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
 
-[**"Patent Protection and Innovative Entrepreneurship: examining effect of Alice ruling on startup funding**](#works)(with Maxim Ananyev)
+[**"Measure for Measure: Using Events Data to Characterize Relationships in Networks"**](#published-works)(with Arthur Stein, Robert F. Trager)
 
-[**“Democratic Backsliding: Civil Society and Institutions under COVID-19"**](#works)
+[**"Leaderless Protests"**](#published-works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
 
+-->
 
-# GRANTS
-
+# SELECTED GRANTS & FELLOWSHIPS
+<!-- 
 ## External (while at UCLA)
-
 Institute for Humane Studies, Arlington, 2020 Summer Graduate Research Fellowship 2020
 
-Charles Koch Graduate Student Grant \hfill 2018 
-
-The Harriman Institute, New York, Travel Grant  \hfill 2018, 2019 
-
-The Harriman Institute, New York, Research Grant  \hfill 2018 
-
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018 (3 grants), 2019 (3 grants), 2020, 2021
-
-Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015, 2017-2019 
-
 ## External
-
 The grant of President of Tatarstan for the outstanding graduate research \hfill 2012
 
-Global Development Network CIS Department Development Grant \hfill 2012
-
-Ronald Coase Institute Fellowship \hfill 2011
-
-"Algarysh” grant of Tatarstan Republic to study in Washington University in St. Louis with full tuition coverage and stipend \hfill 2008-2009
+"Algarysh" grant of Tatarstan Republic to study in Washington University in St. Louis with full tuition coverage and stipend \hfill 2008-2009
 
 ## Internal (at UCLA)
-
-Dissertation Year Fellowship \hfill 2019
-
-Dissertation Research Fellowship, the Center for European and Russian Studies \hfill 2019
-
-Dissertation Research Fellowship, the Center for European and Russian Studies \hfill 2018
 
 UCLA Fellowship \hfill 2014
 
 UCLA Dean's Stipend \hfill 2014
 
+--> 
 
-# PRESENTATIONS
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-21
 
-APSA(2021 scheduled), Society for Institutional and Organizational Economics conference (2021), Corruption, Tax Evasion and Institutions Conference at Stockholm School of Economics (2021),Great Power Competition in the 21st Century Workshop (2021), MPSA(2021), ASSA (2021),POLMETH (2020),International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), MPSA (2020 - online), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),Invited talk at IHS Graduate Workshop at George Mason University (2019),7th Annual Comparative Politics and Formal Theory Conference (2019),Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century” Summer Training Course (2019),WPSA (2019), APSA (2018, 2016, 2014), MPSA (2019,2018, 2017, 2016, 2014), International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018), European Economic Association Annual Conference (2015), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+Dissertation Year Fellowship, UCLA \hfill 2019
+
+Institute for Humane Studies, Arlington, PhD Fellowship  \hfill 2015, 2017-20 
+
+Dissertation Research Fellowship,  \hfill 2018-19
+
+the Center for European and Russian Studies, UCLA
+
+Charles Koch Graduate Student Grant \hfill 2018 
+
+The Harriman Institute, Columbia University, Travel Grant  \hfill 2018-19 
+
+The Harriman Institute, Columbia University, Research Grant  \hfill 2018 
+
+Global Development Network CIS Department Development Grant \hfill 2012
+
+Ronald Coase Institute Fellowship \hfill 2011
+
+
+# SELECTED PRESENTATIONS
+
+## International conferences
+
+APSA (2014, 2016, 2018, 2021), ASSA (2020-2021), MPSA (2014-21), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
+
+## Invited Talks
+
+Computational International Relations Workshop (UCLA, 2020), IHS Graduate Workshop (George Mason University, 2019), Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
+<!-- 
+, ,Great Power Competition in the 21st Century Workshop (2021), International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),
+
+Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century" Summer Training Course (2019), WPSA (2019),  International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018),  April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
+-->
+
 
 # TEACHING EXPERIENCE
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
-\hskip 1cm International Security (Graduate class)                       
-\hskip 1cm Russia and Eurasia (Cross-listed graduate and undergraduate class)
-\hskip 1cm Post-Soviet Politics (Cross-listed graduate and undergraduate class)
+\hskip 1cm Economics of International Security
+
+\hskip 1cm Political Economy of Post-Communism
 
 **University of California, Los Angeles**, ***Anderson Business School***
 
 \hskip 1cm Technology Analytics, with Prof. Keith Chen
 
+\hskip 1cm Competitive Analytics, with Prof. Keith Chen
+
 **University of California, Los Angeles**, ***Department of Political Science***
 
 \hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman
 
-\hskip 1cm Politics and Strategy with Prof. Barry O'Neil and Prof. Kathleen Bawn
+\hskip 1cm Politics and Strategy, with Prof. Barry O'Neil and Prof. Kathleen Bawn
 
-\hskip 1cm Experiments and Research Design with Prof. Graeme Blair
+\hskip 1cm Experiments and Research Design, with Prof. Graeme Blair
 
 \hskip 1cm Peace and War, with Prof. Daborah Larson 
 
@@ -171,24 +188,31 @@ APSA(2021 scheduled), Society for Institutional and Organizational Economics con
 
 # SERVICE
 
+**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition      
+
+<!--
 **Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
 
 Causal Inference Workshop \hfill 2019                                   
 R Workshop  \hfill 2018, 2019                    
 Game Theory Workshop \hfill 2018             
 
-**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition          
+-->
 
 # SKILLS
 
-SOFTWARE:  R (`keras`,  `selenium`,  `rvest`,  `tm`,  `ggplot2`,  `tidyverse`,  `sp`,  `raster`, `daggity`, `gis`),
+**Software:**  R (`keras`,  `selenium`,  `rvest`,  `tm`,  `ggplot2`,  `tidyverse`,  `sp`,  `raster`, `daggity`, `gis`),
 
 \hskip 1.9 cm  Stata, SPSS, \LaTeX
+
+**Languages:** Russian (fluent), French (basic proficiency)
+
+<!--
 
 DATA COLLECTION: automated data extraction, automated text processing,
 
 \hskip 1.9 cm online and field experiments, surveys, interviews
-
+-->
 # References
 Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
 University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu         
