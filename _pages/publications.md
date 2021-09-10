@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-## Published articles
+## Articles
 
 [**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) in *Journal of Comparative Economics*, 2021
 
