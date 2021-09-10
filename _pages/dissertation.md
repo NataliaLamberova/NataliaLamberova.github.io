@@ -32,7 +32,7 @@ The third part of my dissertation focuses on the case when politicians face a tr
 
 Parts of this project have been published in the following forms:
 
-<p class="tab">
+<p style="margin-left: 40px">
 [Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.](https:/doi.org/10.1016/j.jce.2021.01.002)
 
 [Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.](https://escholarship.org/uc/item/16j0m353)
