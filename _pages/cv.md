@@ -20,6 +20,20 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 
 </html>
 
+
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+    var adobeDCView = new AdobeDC.View({clientId: "6b89c4e9766d41c88988bf15c5d4badd", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{location: {url: "https://natalialamberova.github.io/files/Natalia-Lamberova-CV.pdf"}},
+      metaData:{fileName: "Natalia-Lamberova-CV.pdf"}
+    }, {embedMode: "IN_LINE"});
+  });
+</script>
+
+
 <!--
 
 # EDUCATION
