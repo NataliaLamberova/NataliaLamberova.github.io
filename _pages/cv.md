@@ -11,11 +11,11 @@ redirect_from:
 
 You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/files/Natalia-Lamberova-CV.pdf)
 
-<html lang="en" style="width:100%; height:300%;">
+<html lang="en" style="width:200%; height:300%;">
 
 <div>
 
-<iframe scrolling="no" src="/files/Natalia-Lamberova-CV.pdf" width="90%" height="700px"></iframe>
+<iframe src="/files/Natalia-Lamberova-CV.pdf" width="90%" height="700px"></iframe>
 </div>
 
 </html>
