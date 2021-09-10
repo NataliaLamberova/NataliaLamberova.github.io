@@ -16,10 +16,14 @@ My work has been published in, among others, [_Journal of Comparative Economics_
 
 ## Select Publications
 
-<li>[Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.](https://doi.org/10.1016/j.jce.2021.01.002)</li>
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1016/j.jce.2021.01.002">Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. <i>Journal of Comparative Economics</i>. 49 (3):801-818.</a>
+</p>
 
-[Dagaev, Dmitry, Natalia Lamberova, and Anton Sobolev. 2019. Stability of Revolutionary Governments in The Face of Mass Protest. *European Journal of Political Economy*. 60: 101812.](https://doi.org/10.1016/j.ejpoleco.2019.08.003)
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1016/j.ejpoleco.2019.08.003">Dagaev, Dmitry, Natalia Lamberova, and Anton Sobolev. 2019. Stability of Revolutionary Governments in The Face of Mass Protest. <i>European Journal of Political Economy</i>. 60: 2-20.</a>
+</p>
 
-[Lamberova, Natalia, and Konstantin Sonin. 2018. Economic transition and the rise of alternative institutions: Political connections in Putin’s Russia. *Economics of Transition*. 26(4): 615-648.](https://doi.org/10.1111/ecot.12167)
-
-
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1111/ecot.12167">Lamberova, Natalia, and Konstantin Sonin. 2018. Economic transition and the rise of alternative institutions: Political connections in Putin’s Russia. <i>Economics of Transition</i>. 26(4): 615-648.</a>
+</p>
