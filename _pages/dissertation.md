@@ -21,7 +21,9 @@ redirect_from:
 </style>
 
 My dissertation, *Political Economy of Technological Advancement*, examines the impact of political institutions on government Research and Development (R&D) policy and its implications.
+
 Investments in innovation bear fruit after a significant time lag, which means that the incumbent that chose to make them is typically out of office by the time they emerge. Then what motivates an incumbent to adopt such policies? Moreover, unlike other long-term projects  that are visible to the general public even before their completion (e.g., infrastructure construction or education reform), the implementation of pro-innovation policies is much less salient to the public. My research explores three possible mechanisms that explain the decision of the incumbent to pursue the policy of technological development: competence signaling, rent-seeking, and strengthening of the future coalitions.
+
 The first part of my dissertation shows that while the results of R&D policy have not yet emerged, the policy decision to support innovation is visible to the public and sends the signal about the competence of the politician. Using survey experiments in the USA and Russia, I find that commitment of politicians to pro-innovation policies makes the respondents believe that the politician is more competent, compared to investment in other long-term projects. This result is consistent with patterns observed across OECD countries. 
 
 The second part of my dissertation documents how loopholes in R&D policies provide innovators with incentives for opportunism. I explore the underlying mechanisms using data on patenting in Russia and a difference-in-differences approach. I find that poor policies result in lower quality of patents by providing incentives to file low-quality patents. At the same time, they harm inventors that produce high-quality research, as an investment in innovation becomes riskier for firms. Latter leads to the unraveling of the market for technology. I provide the model that explains how such policies might be incentive-compatible for the incumbent that cares about the economic growth. 
@@ -30,13 +32,15 @@ The third part of my dissertation focuses on the case when politicians face a tr
 
 Parts of this project have been published in the following forms:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.](https:/doi.org/10.1016/j.jce.2021.01.002)
+<p class="tab">
+[Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.](https:/doi.org/10.1016/j.jce.2021.01.002)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.](https://escholarship.org/uc/item/16j0m353)
+[Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.](https://escholarship.org/uc/item/16j0m353)
+</p>
 
 Parts of this project currently under review:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Lamberova, Natalia. 2021. Why Governments Grow “Lemons” in the Market for Technology.](#under-review)
+[Lamberova, Natalia. 2021. Why Governments Grow “Lemons” in the Market for Technology.](#under-review)
 
 
 <!--
