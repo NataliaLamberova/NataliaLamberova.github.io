@@ -28,7 +28,7 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
 **University of California, Los Angeles**, ***Anderson Business School***
  
- * Technology Analytics, with Prof.[Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/) (2019)
+ * Technology Analytics, with Prof. [Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/) (2019)
 
 
 **University of California, Los Angeles**, ***Department of Political Science***
