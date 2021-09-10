@@ -33,15 +33,16 @@ The third part of my dissertation focuses on the case when politicians face a tr
 Parts of this project have been published in the following forms:
 
 <p style="margin-left: 40px">
-[Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.](https:/doi.org/10.1016/j.jce.2021.01.002)
+<a href="https:/doi.org/10.1016/j.jce.2021.01.002">Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.</a>
 
-[Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.](https://escholarship.org/uc/item/16j0m353)
+<a href="https://escholarship.org/uc/item/16j0m353">Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.</a>
 </p>
 
 Parts of this project currently under review:
 
-[Lamberova, Natalia. 2021. Why Governments Grow “Lemons” in the Market for Technology.](#under-review)
-
+<p style="margin-left: 40px">
+<a href="#under-review">Lamberova, Natalia. 2021. Why Governments Grow “Lemons” in the Market for Technology.</a>
+</p>
 
 <!--
   Findings Three significant findings emerged from my analysis.
