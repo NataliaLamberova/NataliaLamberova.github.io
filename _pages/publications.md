@@ -11,7 +11,7 @@ redirect_from:
 
 [**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) in *Journal of Comparative Economics*, 2021
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*,2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)
+[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)
 
 * _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/) ✓ [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/) ✓ [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
 * [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
