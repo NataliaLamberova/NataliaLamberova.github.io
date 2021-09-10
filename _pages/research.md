@@ -30,7 +30,7 @@ redirect_from:
   }
 </style>
 
-## R&D, Political Incentives and Economic Impact
+## R&D, Political Incentives, and Economic Impact
 
 [**“The puzzling politics of R&D: signaling competence through risky projects”**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021 
 
