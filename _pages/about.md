@@ -21,9 +21,9 @@ My work has been published in, among others, [_Journal of Comparative Economics_
 </p>
 
 <p style="margin-left: 40px">
-<a href="https://doi.org/10.1016/j.ejpoleco.2019.08.003">Dagaev, Dmitry, Natalia Lamberova, and Anton Sobolev. 2019. Stability of Revolutionary Governments in The Face of Mass Protest. <i>European Journal of Political Economy</i>. 60: 2-20.</a>
+<a href="https://doi.org/10.1016/j.ejpoleco.2019.08.003">Dagaev, Dmitry, Natalia Lamberova, and Anton Sobolev. 2019. Stability of Revolutionary Governments in the Face of Mass Protest. <i>European Journal of Political Economy</i>. 60: 2-20.</a>
 </p>
 
 <p style="margin-left: 40px">
-<a href="https://doi.org/10.1111/ecot.12167">Lamberova, Natalia, and Konstantin Sonin. 2018. Economic transition and the rise of alternative institutions: Political connections in Putin’s Russia. <i>Economics of Transition</i>. 26(4): 615-648.</a>
+<a href="https://doi.org/10.1111/ecot.12167">Lamberova, Natalia, and Konstantin Sonin. 2018. Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia. <i>Economics of Transition</i>. 26(4): 615-648.</a>
 </p>
