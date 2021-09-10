@@ -11,6 +11,16 @@ redirect_from:
 
 You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/files/Natalia-Lamberova-CV.pdf)
 
+<html lang="en" style="width:100%; height:300%;">
+
+<div>
+
+<iframe src="/files/Natalia-Lamberova-CV.pdf" width="125%" height="700px"></iframe>
+</div>
+
+</html>
+
+<!--
 
 # EDUCATION
 
@@ -185,3 +195,5 @@ University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1
 Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago, ksonin@uchicago.edu
 
 Prof. Sebastian Galiani, Department of Economics, University of Maryland, Tydings Hall, 7343 Preinkert Drive, College Park, sgaliani@umd.edu
+
+-->
