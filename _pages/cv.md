@@ -15,12 +15,12 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 
 <div>
 
-<iframe src="/files/Natalia-Lamberova-CV.pdf" width="1200px" height="700px"></iframe>
+<iframe src="/files/Natalia-Lamberova-CV.pdf" width="500" height="700"></iframe>
 </div>
 
 </html>
 
-
+<!-- 
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
@@ -33,7 +33,7 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
   });
 </script>
 
-<!-- 
+
 <div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
