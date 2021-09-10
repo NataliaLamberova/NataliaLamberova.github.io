@@ -15,7 +15,7 @@ You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/fi
 
 <div>
 
-<iframe src="/files/Natalia-Lamberova-CV.pdf" width="800" height="700"></iframe>
+<iframe src="/files/Natalia-Lamberova-CV.pdf" width="100%" height="700"></iframe>
 </div>
 
 </html>
