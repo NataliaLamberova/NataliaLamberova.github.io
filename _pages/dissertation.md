@@ -34,7 +34,7 @@ Parts of this project have been published in the following forms:
 
 <p style="margin-left: 40px">
 <a href="https:/doi.org/10.1016/j.jce.2021.01.002">Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. *Journal of Comparative Economics*. 49 (3):801-818.</a>
-
+<br>
 <a href="https://escholarship.org/uc/item/16j0m353">Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.</a>
 </p>
 
