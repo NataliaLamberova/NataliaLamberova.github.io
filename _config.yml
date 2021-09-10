@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Natalia Lamberova"
 description              : &description "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
-url                      : https://NataliaLamberova.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://NataliaLamberova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NataliaLamberova.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Natalia Lamberova"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Associate at Georgia Tech, PhD (Government), MSc (Statistics)"
+  bio              : "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=NippiA8AAAAJ&hl=en"
-  email            : "natalia.lamberova[at]inta.gatech.edu"
+  email            : "natalam[at]ucla.edu"
   uri              :
   bitbucket        :
   codepen          :
