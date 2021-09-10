@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Sam Nunn School of International Affairs at Georgia Tech. I hold a Ph.D. in Political Science and MSc in Statistics from the University of California, Los Angeles. My research applies game-theoretic modeling, causal inference, and natural and survey experiments data to the study of political incentives in government Research and Development policy.  
+I am a Postdoctoral Associate at the Center for International Strategy, Technology and Policy at Georgia Tech. My research applies game-theoretic and network modeling, causal inference, and experiments to the study of government Research and Development policy. More broadly, I study the interaction between business, technology, and politics.
 
-Government funding of research and development impacts countries’ technological development. Since the results of such policies typically emerge after the politician who funded the R&D stands for re-election, why do incumbent politicians make such investments? My dissertation research introduces three possible incentive-generating scenarios that could explain observed government R&D investment: rent-seeking, skill signaling, and pork-barrel politics. 
+My dissertation documents how public funding impacts countries’ technological development. Since the results of R&D investments typically emerge years after the elected incumbent leaves her office, why do politicians pursue such policies? I explore three incentive-generating scenarios that could explain observed government R&D investment: rent-seeking, skill signaling, and pork-barrel politics.
 
-I am also interested in the impact of new technology on collective action. In two projects co-authored with [Dmitry Dagaev (Moscow, HSE)](https://www.hse.ru/en/staff/ddagaev), [Anton Sobolev (UCLA)](asobolev.com) and [Konstantin Sonin (University of Chicago)](https://harris.uchicago.edu/directory/konstantin-sonin), we investigated how communication technology has changed the architecture of social movements worldwide.
-
-In the statistics field, I apply latent networks models to summarize International Relations data into an informative uni-dimensional measure of political connections (as opposed to current standards of policy similarity), (together with [Robert Trager (UCLA)](https://polisci.ucla.edu/people/robert-trager ) and [Art Stein (UCLA)](https://polisci.ucla.edu/people/arthur-stein)) that can be applied in International Trade and International Conflict studies.  In our new project, we apply the resulting measures to investigate the role of structural balance in the network of international relations.
-
-You can contact me at natalia.lamberova@gmail.com
+My work has been published in, among others, [Journal of Comparative Economics](), [_European Journal of Political Economy_](), and [_Economics of Transition_]() and presented at international conferences in Economics (ASSA, EEA, SIOE) and Political Science (APSA, MPSA, Polmeth). Prior to my appointment at Georgia Tech, I received my Ph.D. in Government and M.Sc. in Statistics from University of California, Los Angeles.  I can be reached at natalia.lamberova[at]inta.gatech.edu. You can find my CV [here](cv/).
 
 
 
