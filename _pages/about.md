@@ -8,15 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Sam Nunn School of International Affairs at Georgia Tech. I hold a Ph.D. in Political Science and MSc in Statistics from the University of California, Los Angeles. My research applies game-theoretic modeling, causal inference, and natural and survey experiments data to the study of political incentives in government Research and Development policy.  
+I am a Postdoctoral Associate at the Center for International Strategy, Technology and Policy at Georgia Tech. My research applies game-theoretic and network modeling, causal inference, and experiments to the study of government Research and Development policy. More broadly, I study the interaction between business, technology, and politics.
 
-Government funding of research and development impacts countries’ technological development. Since the results of such policies typically emerge after the politician who funded the R&D stands for re-election, why do incumbent politicians make such investments? My dissertation research introduces three possible incentive-generating scenarios that could explain observed government R&D investment: rent-seeking, skill signaling, and pork-barrel politics. 
+My dissertation documents how public funding impacts countries’ technological development. Since the results of R&D investments typically emerge years after the elected incumbent leaves her office, why do politicians pursue such policies? I explore three incentive-generating scenarios that could explain observed government R&D investment: rent-seeking, skill signaling, and pork-barrel politics.
 
-I am also interested in the impact of new technology on collective action. In two projects co-authored with [Dmitry Dagaev (Moscow, HSE)](https://www.hse.ru/en/staff/ddagaev), [Anton Sobolev (UCLA)](asobolev.com) and [Konstantin Sonin (University of Chicago)](https://harris.uchicago.edu/directory/konstantin-sonin), we investigated how communication technology has changed the architecture of social movements worldwide.
+My work has been published in, among others, [_Journal of Comparative Economics_](https://doi.org/10.1016/j.jce.2021.01.002), [_European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2019.08.003), and [_Economics of Transition_](https://doi.org/10.1111/ecot.12167) and presented at international conferences in Economics (ASSA, EEA, SIOE) and Political Science (APSA, MPSA, Polmeth). Prior to my appointment at Georgia Tech, I received my Ph.D. in Government and M.Sc. in Statistics from University of California, Los Angeles.  I can be reached at [natalia.lamberova[at]inta.gatech.edu](natalia.lamberova[at]inta.gatech.edu). You can find my CV [here](cv/).
 
-In the statistics field, I apply latent networks models to summarize International Relations data into an informative uni-dimensional measure of political connections (as opposed to current standards of policy similarity), (together with [Robert Trager (UCLA)](https://polisci.ucla.edu/people/robert-trager ) and [Art Stein (UCLA)](https://polisci.ucla.edu/people/arthur-stein)) that can be applied in International Trade and International Conflict studies.  In our new project, we apply the resulting measures to investigate the role of structural balance in the network of international relations.
+## Select Publications
 
-You can contact me at natalia.lamberova@gmail.com
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1016/j.jce.2021.01.002">Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. <i>Journal of Comparative Economics</i>. 49 (3):801-818.</a>
+</p>
 
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1016/j.ejpoleco.2019.08.003">Dagaev, Dmitry, Natalia Lamberova, and Anton Sobolev. 2019. Stability of Revolutionary Governments in the Face of Mass Protest. <i>European Journal of Political Economy</i>. 60: 2-20.</a>
+</p>
 
-
+<p style="margin-left: 40px">
+<a href="https://doi.org/10.1111/ecot.12167">Lamberova, Natalia, and Konstantin Sonin. 2018. Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia. <i>Economics of Transition</i>. 26(4): 615-648.</a>
+</p>

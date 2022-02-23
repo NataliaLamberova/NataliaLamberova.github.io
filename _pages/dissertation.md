@@ -20,42 +20,47 @@ redirect_from:
   }
 </style>
 
+My dissertation, *Political Economy of Technological Advancement*, examines the impact of political institutions on government Research and Development (R&D) policy and its implications.
 
-My dissertation, *Political Economy of Technological Advancement*, examines the political constraints on government Research and Development (R&D) policy and their effect on the efficiency of such policies.
-  
-Research that succeeds in boosting innovation typically does so only after a significant time lag, meaning that the results of such policy decisions may only become apparent after the government officeholders who made these decisions are up for reelection or have left office entirely. Thus, what motivates an incumbent officeholder to invest in such policies, which generate a return only after the incumbent can no longer derive any personal benefit (i.e., increased chances of reelection)? Moreover, unlike the outcomes of many other long-term policies (e.g., infrastructure construction or education reform), those of research and development (R&D) policies are much less visible to the public.
-My research focuses on three possible explanations: electoral benefit, rent-seeking, and strengthening future coalitions. 
- 
+Investments in innovation bear fruit after a significant time lag, which means that the incumbent that chose to make them is typically out of office by the time they emerge. Then what motivates an incumbent to adopt such policies? Moreover, unlike other long-term projects  that are visible to the general public even before their completion (e.g., infrastructure construction or education reform), the implementation of pro-innovation policies is much less salient to the public. My research explores three possible mechanisms that explain the decision of the incumbent to pursue the policy of technological development: competence signaling, rent-seeking, and strengthening of the future coalitions.
 
-<div class="col2">
+**_The first part_ of my dissertation shows that while the results of R&D policy have not yet emerged, the policy decision to support innovation is visible to the public and sends the signal about the competence of the politician.** Using survey experiments in the USA and Russia, I find that commitment of politicians to pro-innovation policies makes the respondents believe that the politician is more competent, compared to investment in other long-term projects. This result is consistent with patterns observed across OECD countries. 
 
-Specifically, my dissertation documents increase the perception of competence of incumbents that put R&D to the forefront of their agenda (compared to pro-education, pro-infrastructure and pro-commercialization of innovation) using survey experiment in USA and Russia, and corroborates its findings with cross-country data.
-The second chapter of my dissertation shows that rent-seeking through R&D investment can lead to lower quality of patents produced under government incentives, and can also lead to the unraveling of the market for technology. The third chapter of my dissertation suggests that government support for R&D can lead to the increased market power of recipients of government grants.
+**_The second part_ of my dissertation documents how loopholes in R&D policies provide innovators with incentives for opportunism.** I explore the underlying mechanisms using data on patenting in Russia and a difference-in-differences approach. I find that poor policies result in lower quality of patents by providing incentives to file low-quality patents. At the same time, they harm inventors that produce high-quality research, as an investment in innovation becomes riskier for firms. Latter leads to the unraveling of the market for technology. I provide the model that explains how such policies might be incentive-compatible for the incumbent that cares about the economic growth. 
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
-<center>
+**_The third part_ of my dissertation focuses on the case when politicians face a trade-off between stifling economic growth and facing a threat of technological displacement by new economic elites.** Contrary to conventional wisdom, it shows that investing in innovation can be strategically safe if companies with political connections have more incentives to co-invest effort in the R&D project relative to unconnected ones. This theory implies three observable implications: governments will distribute cost-reducing grants to both connected and unconnected companies; connected companies will show a larger effect of R&D grant support on economic performance; and during the assessment period of R&D projects, government contracts will preferentially support connected companies. Analyzing evidence from a cost-reducing R&D support program in Russia, a trajectory-balancing approach produces results consistent with each of these implications.
 
-<img src="https://NataliaLamberova.github.io/files/USA-attentive-sample_2models.png" height="1000">
-<figcaption><i>All else being equal, pro-R&D politician is regarded as more competent by US respondents</i></figcaption>
- </center>
+Parts of this project have been published in the following forms:
 
-</div>
+<p style="margin-left: 40px">
+<a href="https:/doi.org/10.1016/j.jce.2021.01.002">Lamberova, Natalia. 2021. The Puzzling Politics of R&D: Signaling Competence through Risky Projects. <i>Journal of Comparative Economics</i>. 49 (3):801-818.</a>
+</p>
 
-## Findings Three significant findings emerged from my analysis.
+<p style="margin-left: 40px">
+<a href="https://escholarship.org/uc/item/16j0m353">Lamberova, Natalia. 2020. Essays on Political Economy of Technological Development. Doctoral Dissertation, University of California, Los Angeles.</a>
+</p>
 
-* *First*, under the assumption that policymakers value the economic outcomes of their policy, and that gains from holding office are not too high, there exists a separating equilibrium where high-skilled politicians invest in research and development, low-skilled politicians invest in less risky policies, while voters prefer pro-R&D politician. Survey experiments conducted in the USA and Russia are consistent with this result. This conclusion holds in a cross-country setting.
+Parts of this project currently under review:
 
-* *Second*, politicians that are less concerned with reelection can generate rents from their R&D policy. In this case, government investment in R&D incentivizes the production of low-quality patents, that leads to the unraveling of the market for technologies. This finding is consistent with the evidence from the natural experiment in Russia.
+<p style="margin-left: 40px">
+<a href="#under-review">Lamberova, Natalia. 2021. Why Governments Grow “Lemons” in the Market for Technology.</a>
+</p>
 
-* *Third*, the government can influence long-term market power of companies, engaged in R&D, by providing direct government grants.
+<!--
+  Findings Three significant findings emerged from my analysis.
+First, under the assumption that policymakers value the economic outcomes of their policy, and that gains from holding office are not too high, there exists a separating equilibrium where high-skilled politicians invest in research and development, low-skilled politicians invest in less risky policies, while voters prefer pro-R&D politician. Survey experiments conducted in the USA and Russia are consistent with this result. This conclusion holds in a cross-country setting.
+
+Second, politicians that are less concerned with reelection can generate rents from their R&D policy. In this case, government investment in R&D incentivizes the production of low-quality patents, that leads to the unraveling of the market for technologies. This finding is consistent with the evidence from the natural experiment in Russia.
+
+Third, the government can influence long-term market power of companies, engaged in R&D, by providing direct government grants.
+
+Contributions and Policy-implications
+First, there is a large body of literature on the investigation of the impacts of government R&D policy on technological development, but no study examines the political constraints of incumbent engaging in long-term, risky and the not-very-visible policies. My dissertation suggests the number of incentives that could explain significant government funding directed to R&D.
+
+Second, the study shows, that, depending on the set of political incentives, incumbents can choose specific tools of providing support for entities engaged in developing of new technologies, and these tools can determine the impact of government policy on the economy.
+
+Third, it highlights the importance of political accountability for the technological development of countries.
+  -->
 
 
-## Contributions and Policy-implications
-
-- *First*, there is a large body of literature on the investigation of the impacts of government R&D policy on technological development, but no study examines the political constraints of incumbent engaging in long-term, risky and the not-very-visible policies. My dissertation suggests the number of incentives that could explain significant government funding directed to R&D.
-
-- *Second*, the study shows, that, depending on the set of political incentives, incumbents can choose specific tools of providing support for entities engaged in developing of new technologies, and these tools can determine the impact of government policy on the economy.
-
-- *Third*, it highlights the importance of political accountability for the technological development of countries.
 

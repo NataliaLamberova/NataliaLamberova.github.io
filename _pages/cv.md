@@ -11,6 +11,43 @@ redirect_from:
 
 You can find a PDF version of my CV [here](https://NataliaLamberova.github.io/files/Natalia-Lamberova-CV.pdf)
 
+<html lang="en" style="width:100%; height:300%;">
+
+<div>
+
+<iframe src="/files/Natalia-Lamberova-CV.pdf" width="100%" height="700"></iframe>
+</div>
+
+</html>
+
+<!-- 
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+    var adobeDCView = new AdobeDC.View({clientId: "6b89c4e9766d41c88988bf15c5d4badd", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{location: {url: "https://natalialamberova.com/files/Natalia-Lamberova-CV.pdf"}},
+      metaData:{fileName: "Natalia-Lamberova-CV.pdf"}
+    }, {embedMode: "IN_LINE"});
+  });
+</script>
+
+
+<div id="adobe-dc-view" style="width: 800px;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+    var adobeDCView = new AdobeDC.View({clientId: "07fc2bfe25e445d08de5f6790abbcd54", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{location: {url: "https://natalialamberova.github.io/files/Natalia-Lamberova-CV.pdf"}},
+      metaData:{fileName: "Natalia-Lamberova-CV.pdf"}
+    }, {embedMode: "IN_LINE"});
+  });
+</script>
+-->
+
+<!--
 
 # EDUCATION
 
@@ -185,3 +222,5 @@ University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1
 Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris School of Public Policy Studies, University of Chicago, ksonin@uchicago.edu
 
 Prof. Sebastian Galiani, Department of Economics, University of Maryland, Tydings Hall, 7343 Preinkert Drive, College Park, sgaliani@umd.edu
+
+-->
