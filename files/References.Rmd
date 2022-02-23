@@ -1,0 +1,36 @@
+---
+title: ''
+author: "Natalia Lamberova"
+email: natalia.lamberova@inta.gatech.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=.75in
+jobtitle: Postdoctoral Associate, Sam Nunn School of International Affairs, Georgia Institute of Technology
+keywords: R Markdown, academic CV, template
+linkcolor: Brown
+fontawesome: yes
+address: 781 Marietta St NW, Atlanta, GA 30332
+updated: no
+urlcolor: Brown
+web: natalialamberova.com
+xcolor: yes
+---
+
+# References
+Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science,
+University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095-1472, treisman@polisci.ucla.edu         
+
+Prof. Chad Hazlett, Department of Political Science,
+University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095-1472, chazlett@ucla.edu
+
+Prof. Konstantin Sonin, John Dewey Distinguished Service Professor, Irving B. Harris Graduate School of Public Policy Studies, University of Chicago, 1307 E 60th St, Chicago, IL, 60615,  ksonin@uchicago.edu
+
+Prof. Sebastian Galiani, Department of Economics, University of Maryland, Tydings Hall, 7343 Preinkert Drive, College Park, sgaliani@umd.edu
