@@ -69,7 +69,11 @@ Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School
 
 # ACADEMIC POSITIONS
 
-**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020-now
+**Assistant Professor of Business and Technology**, School of Economic, Political and Policy Sciences, University of Texas at Dallas, 2022-now
+
+**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020-2022
+
+**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy, Sam Nunn School of International Affairs, Georgia Institute of Technology, 2020-2022
 
 **Research Fellow**, Department of Political Science, UCLA 2019-2020, 2014-16
 
