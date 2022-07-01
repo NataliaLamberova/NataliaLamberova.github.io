@@ -1,7 +1,7 @@
 ---
 title: ''
 author: "Natalia Lamberova"
-email: natalia.lamberova@inta.gatech.edu
+email: Natalia.Lamberova@UTDallas.edu
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -13,11 +13,11 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=.75in
-jobtitle: Postdoctoral Associate, Sam Nunn School of International Affairs, Georgia Institute of Technology
+jobtitle: Assistant Professor, School of Economic, Political and Policy Sciences
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
-address: 781 Marietta St NW, Atlanta, GA 30332
+address: Cecil H. Green Hall | 800 West Campbell Road, GR 3.822 | Richardson, TX 75080-3021
 updated: no
 urlcolor: Brown
 web: natalialamberova.com
