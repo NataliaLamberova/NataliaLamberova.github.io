@@ -1,0 +1,120 @@
+---
+title: ''
+author: "Natalia Lamberova"
+email: Natalia.Lamberova@UTDallas.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  word_document: default
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=.75in
+jobtitle: Assistant Professor, School of Economic, Political and Policy Sciences
+keywords: R Markdown, academic CV, template
+linkcolor: Brown
+fontawesome: yes
+address: Cecil H. Green Hall | 800 West Campbell Road, GR 3.822 | Richardson, TX 75080-3021
+updated: no
+urlcolor: Brown
+web: natalialamberova.com
+xcolor: yes
+---
+
+
+
+# EDUCATION
+
+**University of California, Los Angeles**, PhD in Government  \hfill 2020
+
+\hskip 1cm  Topic: "*Political Economy of Technological Development*"
+
+\hskip 1cm  Committee: Prof. Daniel Treisman (chair),
+
+\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Management)
+
+**University of California, Los Angeles**, MSc in Statistics  \hfill 2020
+
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-14
+
+**Kazan Federal University, Kazan**, BA in Economics (with Honors)  \hfill 2010
+
+**Washington University, St. Louis**, Visiting student \hfill 2008-9
+
+# ACADEMIC POSITIONS
+
+**Assistant Professor of Business and Technology**, School of Economic, Political and Policy Sciences, University of Texas at Dallas,  \hfill 2022-now
+
+**Postdoctoral Fellow**, Center for International Strategy, Technology and Policy,  \hfill 2020-22
+
+Sam Nunn School of International Affairs, Georgia Institute of Technology
+
+**Teaching Fellow**, Anderson School of Management, UCLA \hfill 2018-19
+
+**Research Fellow**, **Teaching Fellow**, Department of Political Science, UCLA \hfill 2014-17
+
+**Teaching Assistant**, Department of Economics, University of Maryland \hfill 2012-14
+
+**Research Fellow**, Center for the Study of Institutions and Development, \hfill 2013
+
+Moscow Higher School of Economics  
+
+**Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
+
+# RESEARCH
+
+## Articles
+
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021, 49(3): 801-818
+
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*, 2019, 60: 2-20, (with Dmitry Dagaev and Anton Sobolev)           
+
+[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia"**](https://doi.org/10.1111/ecot.12167) in *Economics of Transition*, 2018, Volume 26(4): 615–648 (with Konstantin Sonin)
+
+## Peer-reviewed book chapters
+
+[**"Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, 97-118, University of Michigan Press (with Daniel Treisman)
+
+[**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
+
+
+
+# TEACHING EXPERIENCE
+
+**Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
+
+\hskip 1cm Economics of International Security (2020)
+
+\hskip 1cm Political Economy of Post-Communism (2020-21)
+
+**University of California, Los Angeles**, ***Anderson Business School***
+
+\hskip 1cm Technology Analytics, with Prof. Keith Chen (2019)
+
+\hskip 1cm Competitive Analytics, with Prof. Keith Chen (2019)
+
+**University of California, Los Angeles**, ***Department of Political Science***
+
+\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman (2015-17)
+
+\hskip 1cm Politics and Strategy, with Prof. Barry O'Neil and Prof. Kathleen Bawn (2015, 2018)
+
+\hskip 1cm Experiments and Research Design, with Prof. Graeme Blair (2016)
+
+\hskip 1cm Peace and War, with Prof. Daborah Larson (2015)
+
+\hskip 1cm World Politics, with Prof. Leslie Johns (2015)
+
+**University of Maryland**, ***Department of Economics***
+
+\hskip 1cm Principles of Micro-Economics, with Prof. John Straub (2014)
+
+\hskip 1cm Principles of Micro-Economics, with Prof. Naveen Sarna (2014)
+
+\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. John Neri (2013)
+
+
+
