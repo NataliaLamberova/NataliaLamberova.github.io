@@ -9,13 +9,15 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
-**Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs*** (Fall 2021)           
+**University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022)           
 
- * Political Economy of Post-Communism 
+ * Topics in Science, Technology and Institutions: from Writing to Cryptocurrency
+ 
+The aim of the course is to provide an introduction to the political economy of innovation that summarizes the state of the literature in this area, and highlights key open policy-relevant questions. Through the lens of different technologies - from writing to cryptocurrency - we will learn what drives the creation of new technology and how technology changes the world. We will start with exploring the links between innovation and economic growth. 
 
-This course provides the introduction to political economy of Post-Soviet countries. First, we will briefly revise the toolkit of the modern social scientist, focusing on strategic reasoning and empirical analysis of evidense. Next, will first overview the political, economic, and social structures that defined Soviet Union. We will focus on lasting distortiones created by the planned economy, and the features of that time period that affect modern day countries. Next, we will explore the “transition” in national identities, political institutions and economic systems that followed the collapse of Soviet Communism, and will explore the different developmental trajectories chosed by the 15 successor states of the Soviet Union. Finally, we will analyze modern day economy and politics, utilizing the insights we have built.
+We will learn from the economic history of innovation the key aspects of intellectual property rights protection and the trade-offs resulting from them. Based on our understanding of the incentives driving innovation, we will summarize theory and evidence on the efficiency of public policy interventions designed to address the key market failures in this space: taxes, public funding of research, intellectual property rights, competition policy. We will consider political incentives of investing in innovation, and show how political incentives drive the results of the innovation policies. 
 
-Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for Georgia Tech students](#link)
+Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#link)
 
 
 ## TEACHING EXPERIENCE
@@ -24,7 +26,7 @@ Students get free access to short courses on DataCamp to prepare themselves for 
 
  * Economics of International Security (Fall 2020, Teaching award)
 
- * Political Economy of Post-Communism (Spring 2021)
+ * Political Economy of Post-Communism (Spring 2021, Fall 2021, Teaching Award)
 
 **University of California, Los Angeles**, ***Anderson Business School***
  
