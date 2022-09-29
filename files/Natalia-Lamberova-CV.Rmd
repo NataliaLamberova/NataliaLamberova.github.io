@@ -25,25 +25,6 @@ xcolor: yes
 ---
 
 
-
-# EDUCATION
-
-**University of California, Los Angeles**, PhD in Government  \hfill 2020
-
-\hskip 1cm  Topic: "*Political Economy of Technological Development*"
-
-\hskip 1cm  Committee: Prof. Daniel Treisman (chair),
-
-\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Management)
-
-**University of California, Los Angeles**, MSc in Statistics  \hfill 2020
-
-**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-14
-
-**Kazan Federal University, Kazan**, BA in Economics (with Honors)  \hfill 2010
-
-**Washington University, St. Louis**, Visiting student \hfill 2008-9
-
 # ACADEMIC POSITIONS
 
 **Assistant Professor of Business and Technology**, School of Economic, Political and Policy Sciences, University of Texas at Dallas,  \hfill 2022-now
@@ -63,6 +44,26 @@ Sam Nunn School of International Affairs, Georgia Institute of Technology
 Moscow Higher School of Economics  
 
 **Lecturer**, Economics Department, Kazan National Technological Research University \hfill 2010-12 
+
+# EDUCATION
+
+**University of California, Los Angeles**, PhD in Government  \hfill 2020
+
+\hskip 1cm  Topic: "*Political Economy of Technological Development*"
+
+\hskip 1cm  Committee: Prof. Daniel Treisman (chair),
+
+\hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Nico Voigtlander (Anderson School of Management)
+
+**University of California, Los Angeles**, MSc in Statistics  \hfill 2020
+
+**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-14
+
+**Kazan Federal University, Kazan**, BA in Economics (with Honors)  \hfill 2010
+
+**Washington University, St. Louis**, Visiting student \hfill 2008-9
+
+
 
 # RESEARCH
 
@@ -88,7 +89,7 @@ Moscow Higher School of Economics
 
 [**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](#in-progress) (with Maxim Ananyev)
 
-[**"Democratic Backsliding: Civil Society and Institutions under COVID-19"**](#in-progress)
+[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)
 
 <!--
 [**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
@@ -140,13 +141,15 @@ Ronald Coase Institute Fellowship \hfill 2011
 
 # SELECTED PRESENTATIONS
 
-## International conferences
+## Conferences
 
-APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-22), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
+Texas Methods Meeting (TexMeth)(2022), APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-22), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
 
 ## Invited Talks
 
 Computational International Relations Workshop (UCLA, 2020), IHS Graduate Workshop (George Mason University, 2019), Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
+
+
 <!-- 
 , ,Great Power Competition in the 21st Century Workshop (2021), International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),
 
@@ -155,6 +158,10 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 
 
 # TEACHING EXPERIENCE
+
+**University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences***
+
+\hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2022)
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
