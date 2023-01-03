@@ -9,6 +9,15 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
+**University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences*** (Spring 2023) 
+
+* Research Design II
+
+Often the goal of social science research is to figure out the causal effect of one variable on another. This task is generally straightforward if one can perform an experiment, randomizing the “treatment” variable of interest. However, in social sciences such experimentation is often impossible - we cannot randomize treatments of interest, such as which countries get democracy, what policies are adopted by a state, or who is exposed to violence. This course covers both experimentation in social sciences,  and clarification of the conditions under which estimates made using non-experimental data can be given a causal interpretation. 
+We will cover a variety of designs and methods, including experiments, matching, regression, panel methods, difference-in-differences, synthetic control methods, instrumental variable estimation, regression discontinuity designs, and sensitivity analyses. The toolkit you build during this course will apply to any discipline in which investigators seek to make causal statements even if full randomization of the treatment is not possible.
+
+Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#link)
+
 **University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022)           
 
  * Topics in Science, Technology and Institutions: from Writing to Cryptocurrency
