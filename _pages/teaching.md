@@ -9,6 +9,23 @@ redirect_from:
  
 ## CURRENT TEACHING 
 
+**University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2023) 
+
+* Innovation Economy
+
+"Innovation Economy" is a dynamic course designed to equip students with the essential skills and knowledge to understand and navigate the complex journey of transforming innovative ideas into market-ready products. The course will delve into the interplay between patents, technology development, and commercialization strategies. It is ideal for aspiring entrepreneurs, inventors, and those interested in innovation management.
+
+Course Components:
+
+- Patent Fundamentals: Delve into the  economic mechanisms behind patents and their implications for technological advancements.
+- The Patent-Market Interface: Understand the pathways through which patents can be translated into profitable ventures.
+- Hands-On Patent Search: Engage in practical exercises to perform patent searches, focusing on real-world inventions generated within UTD.
+- Market Analysis Techniques: Learn the methodologies and tools for assessing market demand, competition, and potential revenue streams for patented technologies.
+- Commercialization Strategies: Examine the strategies, challenges, and best practices in bringing patented technologies to market.
+- Policy and Strategy Analysis: Explore how innovation policies at national and corporate levels shape the patent landscape and commercialization efforts.
+
+Students get free access to short courses on DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#link)
+
 **University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences*** (Spring 2023) 
 
 * Research Design II
