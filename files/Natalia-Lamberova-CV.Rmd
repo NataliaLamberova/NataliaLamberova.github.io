@@ -81,15 +81,21 @@ Moscow Higher School of Economics
 
 [**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
-## Research in progress
+## Research in progress (under review)
 
-[**"Why Governments Grow 'Lemons' in the Market for Technology"**](#in-progress)  (under review)
-
-[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
+[**"Why Governments Grow 'Lemons' in the Market for Technology"**](#in-progress)  (revisions requested)
 
 [**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](#in-progress) (with Maxim Ananyev)
 
 [**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)
+
+## Research in progress (working papers)
+
+[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
+
+[**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(#published-works)(with Kristine Thomas)
+
+[**"People perceive facts as opinions after interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
 
 <!--
 [**"A friend of a friend: the evolution of positive country-to-country relations"**](#published-works)(with Arthur Stein, Robert F. Trager) 
@@ -118,7 +124,7 @@ UCLA Dean's Stipend \hfill 2014
 
 --> 
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-22
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-23
 
 Dissertation Year Fellowship, UCLA \hfill 2019-2020
 
@@ -147,7 +153,7 @@ Texas Methods Meeting (TexMeth)(2022), APSA (2014, 2016, 2018, 2021,2022), ASSA 
 
 ## Invited Talks
 
-Computational International Relations Workshop (UCLA, 2020), IHS Graduate Workshop (George Mason University, 2019), Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
+Georgia Institute of Technology (2022),Computational International Relations Workshop (UCLA, 2020), IHS Graduate Workshop (George Mason University, 2019), Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
 
 
 <!-- 
@@ -160,6 +166,10 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 # TEACHING EXPERIENCE
 
 **University of Texas at Dallas**, ***School of Economic, Political and Policy Sciences***
+
+\hskip 1cm Innovation Economy (Causal Inference) (2023)
+
+\hskip 1cm Research Design II (Causal Inference) (2023)
 
 \hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2022)
 
@@ -197,7 +207,7 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 
 # SERVICE
 
-**Manuscript Referee**: PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy      
+**Manuscript Referee**:  PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy, Business and Politics      
 
 <!--
 **Methods Workshops at Economics Department, Kazan National Research Technological University**:                  
