@@ -9,6 +9,9 @@ redirect_from:
 
 ## Articles
 
+
+[**"The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge*, 2024
+
 [**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) in *Journal of Comparative Economics*, 2021
 
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)

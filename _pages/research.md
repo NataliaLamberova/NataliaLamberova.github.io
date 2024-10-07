@@ -32,13 +32,15 @@ redirect_from:
 
 ## R&D, Political Incentives, and Economic Impact
 
+[**Lamberova, Natalia. "The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge*, 2024
+
+Government intention to spur innovation can result in the proliferation of low-quality patents, which is especially pronounced in countries with a low level of government accountability. This study examines the paradoxical effects of government-funded innovation in weakly institutionalized environments. I offer a game-theoretic model, in which the government has a stake in technological development and invests in research and development, although this encourages the growth of low-quality patents. Using Russian patents data between 1998 and 2016, I illustrate this mechanism by demonstrating the causal impact of Russia's government policy, which resulted in a simultaneous increase in the number of patents and a decrease in the absolute number of high-quality patents in the patent pool. This study provides a theoretical background for evaluating the impact of political incentives for investing in the creation of new technologies in the technological development of countries.
+
+
+
 [**“The Puzzling Politics of R&D: Signaling Competence through Risky Projects”**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021 
 
 Why do some incumbents devote significant funds to the support of Research and Development, even though the fruits of such investment typically appear after the incumbent has left the office? Unlike many other types of long-term government investment (such as education or infrastructure), government investment in R&D is less visible to the average voter. Moreover, it is highly risky. This paper investigates whether the mere fact of incumbent pursuing pro-R&D policy can result in higher expectations of future economic growth rewarded by the voters, or higher perception of the incumbent’s competence. It further asks whether pursuing R&D policy helps the incumbent to secure reelection. The paper proposes a theoretical model of signaling, provides evidence from survey experiments conducted in the USA and Russia and corroborates findings with cross-country evidence. The paper concludes that investment in R&D can generate higher perceptions of the incumbent’s competence, which is crucial, especially for countries with a history of high economic volatility. 
-
-[**“Why Governments Grow “Lemons” in the Market for Technology”**](https://NataliaLamberova.github.io/files/LemonsDecember2020.pdf) *[under review]*
-
-Governments around the world spend enormous amount of money on R&D. A large part of this investment is wasted, flooding the system with patents that never result in any actual innovation. This effect is especially pronounced in countries with low level of government accountability. To reconcile the growth of “lemon patents” with genuine desire of the government to spur innovation, we offer a game-theoretic model, in which the government has a significant stake in technological development and invests in R&D, even if this simultaneously encourages growth of “lemons”. We illustrate the mechanism by demonstrating the causal impact of Russia’s government policy, which resulted in a simultaneous increase in the number of high-quality patents and a decrease in the share of such patents in the patent pool.
 
 
 
