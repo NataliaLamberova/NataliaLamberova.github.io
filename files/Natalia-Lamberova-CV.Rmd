@@ -80,9 +80,15 @@ Moscow Higher School of Economics
 
 [**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
+<<<<<<< Updated upstream
 # Working Papers (under review)
 
 [**"The Paradox of Government-Funded Innovation in Weakly Institutionalized Environments"**](#in-progress)  (revisions requested)
+=======
+## Research in progress (under review)
+
+[**"Why Governments Grow 'Lemons' in the Market for Technology"**](#in-progress)  (revisions requested)
+>>>>>>> Stashed changes
 
 [**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](#in-progress) (with Maxim Ananyev)
 
@@ -90,6 +96,7 @@ Moscow Higher School of Economics
 
 [**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(with Kristine Thomas)
 
+<<<<<<< Updated upstream
 [**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
 
 ## Research in progress 
@@ -103,6 +110,13 @@ Moscow Higher School of Economics
 [**"GDPR goals and startup-behavior: impact of policy-relevance on startups funding strategies"**](#published-works)(with Minh Dao)
 
 
+=======
+## Research in progress (working papers)
+
+[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
+
+[**"People perceive facts as opinions after interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
+>>>>>>> Stashed changes
 
 
 
@@ -133,7 +147,11 @@ UCLA Dean's Stipend \hfill 2014
 
 --> 
 
+<<<<<<< Updated upstream
 Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-24
+=======
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-23
+>>>>>>> Stashed changes
 
 Dissertation Year Fellowship, UCLA \hfill 2019-2020
 
@@ -158,7 +176,11 @@ Ronald Coase Institute Fellowship \hfill 2011
 
 ## International conferences
 
+<<<<<<< Updated upstream
 Polmeth (2024),SIOE (2024), APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-23), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
+=======
+APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-23), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
+>>>>>>> Stashed changes
 
 ## Invited Talks
 
@@ -174,11 +196,17 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 
 University of Texas at Dallas, *School of Economic, Political and Policy Sciences*
 
+<<<<<<< Updated upstream
 \hskip 1cm Game Theory for Political Science (Graduate)  (2024)
 
 \hskip 1cm Innovation Economy (Graduate) (2023)
 
 \hskip 1cm Research Design II (Causal Inference, Graduate) (2023, 2024)
+=======
+\hskip 1cm Innovation Economy (Causal Inference) (2023)
+
+\hskip 1cm Research Design II (Causal Inference) (2023)
+>>>>>>> Stashed changes
 
 \hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2022)
 
