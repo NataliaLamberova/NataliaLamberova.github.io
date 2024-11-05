@@ -68,6 +68,10 @@ Moscow Higher School of Economics
 
 ## Articles
 
+[**"Lamberova, Natalia. "The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge, 2024*.
+
+[**"#Polarized: Gauging Potential Policy Bargaining Ranges Between Opposing Social Movements of Black Lives Matter and Police Lives Matter"**](https://www.mdpi.com/2076-0760/13/11/604) in *Social Sciences, 2024* (with DeFusco et al)
+
 [**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021, 49(3): 801-818
 
 [**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*, 2019, 60: 2-20, (with Dmitry Dagaev and Anton Sobolev)           
@@ -80,43 +84,27 @@ Moscow Higher School of Economics
 
 [**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
-<<<<<<< Updated upstream
+
 # Working Papers (under review)
 
-[**"The Paradox of Government-Funded Innovation in Weakly Institutionalized Environments"**](#in-progress)  (revisions requested)
-=======
-## Research in progress (under review)
-
-[**"Why Governments Grow 'Lemons' in the Market for Technology"**](#in-progress)  (revisions requested)
->>>>>>> Stashed changes
-
-[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](#in-progress) (with Maxim Ananyev)
+[**"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"**](#in-progress) (with Maxim Ananyev)
 
 [**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)
 
 [**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(with Kristine Thomas)
 
-<<<<<<< Updated upstream
-[**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
-
-## Research in progress 
-
 [**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
 
-[**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"**](#published-works)(with Vera Mironova)
+[**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
 
 [**"Pet ownership and well-being outcomes"**](#published-works)(with Maxim Ananyev, Ferdi Botha, Kyle Peyton)
 
+## Research in progress 
+
+
+[**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"**](#published-works)(with Vera Mironova)
+
 [**"GDPR goals and startup-behavior: impact of policy-relevance on startups funding strategies"**](#published-works)(with Minh Dao)
-
-
-=======
-## Research in progress (working papers)
-
-[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
-
-[**"People perceive facts as opinions after interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
->>>>>>> Stashed changes
 
 
 
@@ -147,11 +135,8 @@ UCLA Dean's Stipend \hfill 2014
 
 --> 
 
-<<<<<<< Updated upstream
+
 Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-24
-=======
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-23
->>>>>>> Stashed changes
 
 Dissertation Year Fellowship, UCLA \hfill 2019-2020
 
@@ -176,11 +161,8 @@ Ronald Coase Institute Fellowship \hfill 2011
 
 ## International conferences
 
-<<<<<<< Updated upstream
-Polmeth (2024),SIOE (2024), APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-23), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
-=======
-APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021), MPSA (2014-23), POLMETH (2019), WPSA (2018-19), Society for Institutional and Organizational Economics Conference (2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
->>>>>>> Stashed changes
+APPAM (2024),Polmeth (2024, 2019),SIOE (2024), APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021, 2024), MPSA (2014-23), WPSA (2018-19), Society for Institutional and Organizational Economics Conference  (2024,2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
+
 
 ## Invited Talks
 
@@ -196,19 +178,15 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 
 University of Texas at Dallas, *School of Economic, Political and Policy Sciences*
 
-<<<<<<< Updated upstream
+\hskip 1cm Political Economy of Development (Graduate)  (2024)
+
 \hskip 1cm Game Theory for Political Science (Graduate)  (2024)
 
 \hskip 1cm Innovation Economy (Graduate) (2023)
 
 \hskip 1cm Research Design II (Causal Inference, Graduate) (2023, 2024)
-=======
-\hskip 1cm Innovation Economy (Causal Inference) (2023)
 
-\hskip 1cm Research Design II (Causal Inference) (2023)
->>>>>>> Stashed changes
-
-\hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2022)
+\hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2024, 2022)
 
 **Georgia  Institute of Technology**, ***Sam Nunn School of International Affairs***             
 
@@ -243,6 +221,8 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 \hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. John Neri (2013)
 
 # SERVICE
+
+Fall 2024 NSF advisory panel on Accountable Institutions and Behavior, Social Sciences Division
 
 **Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy      
 
