@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  21 NOV 2024 08:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  17 NOV 2025 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -504,35 +504,43 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
-221.
+223.
+
+
+LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
+ine 227.
 
 
 LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
-225.
+232.
+
+
+LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
+235.
+
+
+LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
+239.
+
+
+LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
+243.
 
 
 LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 228.
+ine 248.
 
 
 LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 231.
+ine 252.
 
 
 LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 235.
+ine 255.
 
 
 LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 238.
-
-
-LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 244.
-
-
-LaTeX Warning: Hyper reference `published-works' on page 2 undefined on input l
-ine 247.
+ine 260.
 
 [2] [3] 
 AED: lastpage setting LastPage
@@ -541,14 +549,14 @@ AED: lastpage setting LastPage
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Natalia-Lamberova-CV.out' has not changed.
-(rerunfilecheck)             Checksum: 04FC14A71C62C4292B882F104E5A6B07;2041.
+(rerunfilecheck)             Checksum: 0C0F954EE3E6471291A71FDB7F1A3E7C;2019.
  ) 
 Here is how much of TeX's memory you used:
- 14624 strings out of 478268
- 227566 string characters out of 5846347
- 557242 words of memory out of 5000000
+ 14654 strings out of 478268
+ 227800 string characters out of 5846347
+ 557234 words of memory out of 5000000
  32373 multiletter control sequences out of 15000+600000
- 514523 words of font info for 230 fonts, out of 8000000 for 9000
+ 516013 words of font info for 254 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,63p,1209b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
@@ -563,10 +571,10 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on Natalia-Lamberova-CV.pdf (4 pages, 165873 bytes).
+Output written on Natalia-Lamberova-CV.pdf (4 pages, 168442 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
+ 161 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
  20 named destinations out of 1000 (max. 500000)
  65657 words of extra memory for PDF output out of 74296 (max. 10000000)
 

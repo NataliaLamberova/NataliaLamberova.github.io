@@ -38,8 +38,6 @@ xcolor: yes
 
 **University of California, Los Angeles**, MSc in Statistics  \hfill 2020
 
-**University of Maryland, College Park**, Graduate coursework required for PhD in Economics \hfill 2012-14
-
 **Kazan Federal University, Kazan**, BA in Economics (with Honors)  \hfill 2010
 
 **Washington University, St. Louis**, Visiting student \hfill 2008-9
@@ -68,6 +66,8 @@ Moscow Higher School of Economics
 
 ## Articles
 
+[**Lamberova, Natalia. "R&D investment and political connections-complements or substitutes? Evidence from Russia."**](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688) in *Baltic Journal of Economics* 25.2 (2025): 201-231.]
+
 [**"Lamberova, Natalia. "The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge, 2024*.
 
 [**"#Polarized: Gauging Potential Policy Bargaining Ranges Between Opposing Social Movements of Black Lives Matter and Police Lives Matter"**](https://www.mdpi.com/2076-0760/13/11/604) in *Social Sciences, 2024* (with DeFusco et al)
@@ -85,26 +85,31 @@ Moscow Higher School of Economics
 [**"The Role of Business in Shaping Economic Policy"**](www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Konstantin Sonin)
 
 
-# Working Papers (under review)
+## Working Papers (under review)
+
+[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)(Revisions Requested at Journal of Public Economics)
+
+[**"Pet ownership and well-being outcomes"**](#published-works)(with Maxim Ananyev, Ferdi Botha, Kyle Peyton)(Revisions Requested at Applied Research in Quality of Life)
 
 [**"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"**](#in-progress) (with Maxim Ananyev)
 
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)
+[**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"**](#in-progress) (with Vera Mironova and Sam Whitt)
 
-[**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(with Kristine Thomas)
+[**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"**](#in-progress) (with Vera Mironova and Sam Whitt)
 
-[**"The Puzzling Politics of R\&D: Political Connections and Innovation in Russia"**](#published-works)
-
-[**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown and Minh Dao)
-
-[**"Pet ownership and well-being outcomes"**](#published-works)(with Maxim Ananyev, Ferdi Botha, Kyle Peyton)
+[**"Public Perspectives on War Trauma Research: Evidence from Ukraine"**](#in-progress) (with Vera Mironova and Sam Whitt)
 
 ## Research in progress 
 
+[**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(with Kristine Thomas)
+
+[**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown, Minh Dao and Alexei Zakharov)
+
+[**"Research or Mesearch? Do Personal Experiences drive Research Agendas of Social Scientists"**](#published-works)(with Mikhail Galashin and Venkatesh Subramanian)
 
 [**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"**](#published-works)(with Vera Mironova)
 
-[**"GDPR goals and startup-behavior: impact of policy-relevance on startups funding strategies"**](#published-works)(with Minh Dao)
+
 
 
 
@@ -136,7 +141,7 @@ UCLA Dean's Stipend \hfill 2014
 --> 
 
 
-Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-24
+Institute for Humane Studies, Arlington, Hayek Grant  \hfill 2018-25
 
 Dissertation Year Fellowship, UCLA \hfill 2019-2020
 
@@ -159,19 +164,29 @@ Ronald Coase Institute Fellowship \hfill 2011
 
 # SELECTED PRESENTATIONS
 
-## International conferences
-
-APPAM (2024),Polmeth (2024, 2019),SIOE (2024), APSA (2014, 2016, 2018, 2021,2022), ASSA (2020-2021, 2024), MPSA (2014-23), WPSA (2018-19), Society for Institutional and Organizational Economics Conference  (2024,2021), Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021), 7th Annual Comparative Politics and Formal Theory Conference (2019), European Economic Association Annual Conference (2015)
-
-
 ## Invited Talks
 
-Georgia Institute of Technology (2023), Computational International Relations Workshop (UCLA, 2020), IHS Graduate Workshop (George Mason University, 2019), Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
+\hskip 1cm Political Economy Workshop at the Harris School, University of Chicago (2025), 
+
+\hskip 1cm Georgia Institute of Technology (2023), 
+
+\hskip 1cm Computational International Relations Workshop (UCLA, 2020), 
+
+\hskip 1cm IHS Graduate Workshop (George Mason University, 2019), 
+
+\hskip 1cm Political Economics Workshop (Moscow Higher School of Economics, 2018, 2019)
 <!-- 
 , ,Great Power Competition in the 21st Century Workshop (2021), International Center for the Study of Institutions and Development Conference, Higher School of Economics(2020),IHS SURF Workshop (2020), Invited talk at UCLA Computational International Relations Workshop (2020),ASSA (2020), Joint Seminar of Higher School of Economics on Political Economy, ICSID and NES CSDSI (2019),
 
 Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Economic and Geostrategic Dimensions of Great Power Competition in the 21st Century" Summer Training Course (2019), WPSA (2019),  International Center for the Study of Institutions and Development Conference, Higher School of Economics (2019, 2018),  April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2014), UCLA (2014,2015,2016)
 -->
+
+## Select conferences
+
+ASSA (2025, 2024,2020,2021); Polmeth (2025, 2024, 2019); Evidence-based research in Ukraine's development (online, 2024,2025); APPAM (2024); Society for Institutional and Organizational Economics Conference (2024, 2021); APSA (2014, 2016, 2018, 2021,2022); MPSA (2014-25); Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021);WPSA (2018-19); 7th Annual Comparative Politics and Formal Theory Conference (2019); European Economic Association Annual Conference (2015)
+
+
+
 
 
 # TEACHING EXPERIENCE
@@ -212,17 +227,16 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 
 \hskip 1cm World Politics, with Prof. Leslie Johns (2015)
 
-**University of Maryland**, ***Department of Economics***
-
-\hskip 1cm Principles of Micro-Economics, with Prof. John Straub (2014)
-
-\hskip 1cm Principles of Micro-Economics, with Prof. Naveen Sarna (2014)
-
-\hskip 1cm Intermediate Macroeconomic Theory and Policy, with Prof. John Neri (2013)
 
 # SERVICE
 
 Served on NSF advisory panel 
+
+Faculty Committees:
+\hskip 1cm	Hiring committee for Associate or Full Professor of International Relations at EPPS, 2024.
+\hskip 1cm	Methods Qualifying Examination committee, (2023-now)
+
+
 
 **Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy      
 
