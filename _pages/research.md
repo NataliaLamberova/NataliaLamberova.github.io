@@ -11,6 +11,8 @@ redirect_from:
 You can also find my articles on [**Google Scholar**]({{ site.author.googlescholar }}).
 {% endif %}
 
+Published articles and book chapters are listed on the [**Publications**](/publications/) page. Below, **working papers** are grouped by topic.
+
 ## Ukraine: conflict, ethics, and innovation {#ukraine}
 
 ### Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine
@@ -51,42 +53,21 @@ Modern political communication is saturated with claims that blur the line betwe
 
 Modern websites optimize performance and target ads using personal data, enhancing consumer convenience but risking consumer privacy and data agency if done without consent. The EU's General Data Protection Regulation (GDPR) mandates this consent and data protection. This study examines whether GDPR enactment reduced public concerns over data privacy using Google search data. First, we confirm that online search history reflects privacy concerns. To do so, we replicate prior findings that GDPR negatively impacted ad revenue and demonstrate that it positively affected the probability of ad-revenue-related searches. We also provide illustrative evidence that the two move in opposite directions. We find that user concerns over data privacy decline over time, amplified by increased online activity during COVID-19. Interestingly, we find that the initial drop in ad revenue post-GDPR was followed by partial recovery. These findings suggest privacy regulations can alleviate public concerns without long-term harm to the ad industry.
 
-## R&D, political incentives, and economic impact
+## R&D, innovation, and intellectual property
 
-[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142) *(with Maxim Ananyev)*
+### Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding
+
+*(with Maxim Ananyev.)* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142)
 
 We study the effects of patent protection on innovative entrepreneurship. We use exogenous variation in patent protection from the 2014 U.S. Supreme Court ruling in *Alice Corporation Pty. Ltd. v. CLS Bank International*, which established a two-part test for software patentability and sharply changed litigation incentives for software patents while leaving other fields largely unchanged. Using a database of U.S. startups, we show that weaker protection in software-related industries made it harder for firms to obtain startup funding or reach an IPO, and affected entry decisions for new startups.
 
-[**"R&D investment and political connections: complements or substitutes? Evidence from Russia"**](https://doi.org/10.1080/1406099X.2025.2540688) *Baltic Journal of Economics*, 2025, 25(2): 201–231 · [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688)
+## Authoritarian politics, propaganda, and crisis {#authoritarian-crisis}
 
-Technological progress matters for development, but it can create political problems when costs fall on supporters while benefits flow to potential challengers. This paper studies political connections and R&D investment in Russia and asks whether connections and formal R&D support are complements or substitutes. Evidence comes from a cost-reducing R&D support program using a trajectory-balancing design.
+### Information Manipulation and Repression: Theory and Evidence from the COVID-19 Response in Russia
 
-[**"The paradox of government-funded innovation in weakly institutionalized environments"**](https://doi.org/10.1016/j.jik.2024.100536) *Journal of Innovation & Knowledge*, 2024
+<p class="page__meta">Natalia Lamberova<sup>*</sup> and Konstantin Sonin<sup>†</sup><br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501">SSRN</a> · <a href="https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/">Becker Friedman Institute working paper</a></p>
 
-Government efforts to spur innovation can produce many low-quality patents, especially where accountability is weak. The paper develops a game-theoretic model in which the government values technological progress but subsidized R&D still inflates low-quality patenting, and illustrates the mechanism with Russian patent data (1998–2016) around a policy shift.
+Were COVID-19 and the associated restrictions used by authoritarian governments to tighten their grip on power? Using data from 83 Russian regions, we show that, yes, they did—the extent of information manipulation and political repression, two main tools of authoritarian regimes, were influenced by the strength of local civil society and institutions. Repression complemented propaganda: more politically motivated arrests were associated with an increase in information manipulation. Repression waves that followed the poisoning of Alexey Navalny, the opposition leader, in August 2020 and his arrest in January 2021 were more pronounced in those regions that manipulated the COVID-19 statistics more. The increase in the usage of authoritarian tools came at a price: misinformation reduced compliance with pandemic restrictions. In addition to two-way fixed effects, we use sensitivity analysis to account for possible omitted variables. Our findings confirm, both theoretically and empirically, the complementarity between propaganda and repression as instruments of authoritarian control.
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) *Journal of Comparative Economics*, 2021
-
-Why do incumbents fund R&D when payoffs often arrive after they leave office? The paper develops a signaling model, reports survey experiments in the United States and Russia, and complements the evidence with cross-country patterns. Investment in R&D can raise perceived competence—especially valuable where economic volatility is high.
-
-## Political economy of authoritarian regimes
-
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) *(with Konstantin Sonin)* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) · [BFI working paper](https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/)
-
-Using cross-regional data from 83 Russian regions in a two-way fixed-effects design, we show that the extent of information manipulation (the gap between excess mortality and reported COVID-19 deaths) and repression during lockdowns co-varied with civil society strength and opposition representation in local politics. Misinformation also reduced willingness to comply with anti-pandemic measures—suggesting that authoritarian regimes can be poorly equipped for public-health crises despite apparent capacity for coercion.
-
-[**"Putin's Strategy After the Global Financial Crisis of 2008–9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020 *(with Daniel Treisman)*
-
-We trace how the Putin regime adjusted repression, cooptation, censorship, and propaganda across phases: emergency management and spending (2009–2011), a turn toward marginalizing urban opposition (2012–2013), and after 2014 a shift toward conflict-focused propaganda and tighter media and internet controls.
-
-[**"The Role of Business in Shaping Economic Policy"**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018 *(with Konstantin Sonin)*
-
-We assess the dual role of business in Russian macroeconomic conservatism and in the personalized political economy that oil rents helped entrench.
-
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) *European Journal of Political Economy*, 2019 *(with Dmitry Dagaev and Anton Sobolev)*
-
-The paper links the vulnerability of new revolutionary governments to protest coordination, technology, ideology, and coercive capacity, and shows in a dynamic framework how even popular revolutions need not produce stable rule.
-
-[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia"**](https://doi.org/10.1111/ecot.12167) *Economics of Transition*, 2018 *(with Konstantin Sonin)*
-
-Demand for property-rights institutions in the post-socialist transition produced personalized “crony” arrangements; the paper models the leader's incentives and documents wealth premia from ties to Putin's circle in Russian business data.
+<p class="page__meta"><sup>*</sup>University of Texas at Dallas. <sup>†</sup>University of Chicago.</p>
