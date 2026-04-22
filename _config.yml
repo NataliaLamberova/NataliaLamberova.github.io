@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Natalia Lamberova"
 description              : &description "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
-url                      : https://NataliaLamberova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://natalialamberova.com" # must match custom domain so links, SEO, and assets resolve correctly
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NataliaLamberova.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=NippiA8AAAAJ&hl=en"
-  email            : "natalia.lamberova[at]inta.gatech.edu"
+  email            : "Natalia.Lamberova@UTDallas.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  cv               : "https://NataliaLamberova.github.io/files/Natalia-Lamberova-CV.pdf"
+  cv               : "https://natalialamberova.com/files/Natalia-Lamberova-CV.pdf"
 
 
 # Reading Files
@@ -303,5 +303,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
