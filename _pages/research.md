@@ -7,21 +7,48 @@ redirect_from:
   - /research
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+You can also find my articles on [**Google Scholar**]({{ site.author.googlescholar }}).
 {% endif %}
 
-{% include base_path %}
+## Working papers {#working-papers}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine
+
+When one's country goes to war, there is a common “rally 'round the flag” effect in public opinion, leading to both greater support for the government's role in the economy and increased support for the military. In this study, we offer a novel perspective on the “rally 'round the flag” effect by examining its long-term implications for the direction of the country's economic development. We focus on the changes in preferences toward future investments in new military versus civilian technologies as war progresses. In a two-wave survey in Ukraine, we observe declining support for government resource allocation toward military innovations. This time-related decline is explained by increasing prioritization of other sectors of the economy, which we interpret as a resource diversification strategy. Individuals are less willing to invest heavily in long-term military innovations when victory seems doubtful and instead hedge by funding civilian sectors. Results are robust to controls for individual and settlement-level victimization and conflict exposure. Our findings have important implications for post-war security, reconstruction, and development.
+
+### Public Perspectives on War Trauma Research: Evidence from Ukraine
+
+Many scholars have discussed the ethics of conducting survey research on sensitive issues of war trauma, but less is known about public perceptions of acceptable and unacceptable research practices. This study examines public opinion on the ethical conduct of research in a May 2025 survey of 2,000 respondents in Ukraine. Using a randomized survey experiment that varies the researcher's identity, whether harm and trauma inquiry focuses on sexual violence, and pre-treatment conditioning on perceptions of rapport with researchers (trust, comfort, willingness to be forthcoming in responses), we find that who is asking questions (identity) is less important than what is being asked (sexual violence) and how it is asked (perceived rapport with researchers). Public concern about war trauma research is most clearly mitigated by perceived rapport with researchers. Our results reinforce how lessons from qualitative research could be more effectively applied to survey and experimental best practices.
+
+### War Exposure and Public Demand for State-led Innovation: Evidence from Ukraine
+
+*April 2026.*
+
+War may increase the political feasibility of state-led innovation by making technological capacity more visible and urgent. Using wartime surveys from Ukraine with fixed-sum budget tasks, we compare respondents more directly exposed to war with observationally similar respondents from the same pre-war settlements. Direct exposure raises the share of a reconstruction budget allocated to R&D by 3–5 percentage points. Economic exposure mainly crowds out healthcare, while family harm crowds out infrastructure investment. Exposure reduces support for importing technology, with little change in broad technology attitudes or support for war effort, suggesting reprioritization under scarcity rather than generic rally effects.
+
+### When Opinions Pass for Facts: Self-Esteem and Motivated Classification in Media Environments
+
+> “Ah, it is easy to deceive me; I myself am glad to be deceived.”  
+> — Alexander Pushkin, *Confession* (adapted translation)
+
+*Under review.*
+
+Modern political communication is saturated with claims that blur the line between evidence and interpretation. Citizens encounter opinion-based content not only on social media, but also in mainstream newspapers, newsletters, podcasts, television panels, and campaign messaging. When such claims are accepted as facts, people do not merely agree with a speaker; they update beliefs and policy judgments as if they had learned something objective about the world. Motivated-beliefs models suggest one reason this may happen: people sometimes distort what they accept as true because those beliefs protect self-image or identity (Bénabou and Tirole, 2002, 2016; Bracha and Brown, 2012). We study the reverse implication of that logic in a pre-registered experiment. If self-protection helps sustain self-deception, then temporarily bolstering self-image should reduce the willingness to treat congenial opinions as facts. To test this, we perform a survey experiment manipulating self-esteem. Respondents first complete a positive, negative, or neutral social-media-style task and then classify 24 short statements as facts or opinions. Statements vary by type, source, topic, and ideological valence. In the control group, respondents are substantially more accurate on opinions than on facts, and classification errors are systematically related to statement content rather than random noise. Positive treatment does not improve accuracy overall. In our preferred directional specification, however, it reduces by about 3.2 percentage points the tendency to classify congruent opinions as facts, with no corresponding increase in time spent on the task. Neutral-item placebo tests are close to zero, while fact-side effects are less uniform. These findings identify a demand-side mechanism through which self-image can shape what citizens count as evidence. The broader political-economy implication is that actors may influence not only what people prefer, but which claims people are willing to treat as factual in the first place.
+
+### Searching for Data Privacy: Effects of the General Data Protection Regulation on Firm Ad Revenue and Data Privacy Concerns
+
+*(with Kristine Thomas.)*
+
+Modern websites optimize performance and target ads using personal data, enhancing consumer convenience but risking consumer privacy and data agency if done without consent. The EU's General Data Protection Regulation (GDPR) mandates this consent and data protection. This study examines whether GDPR enactment reduced public concerns over data privacy using Google search data. First, we confirm that online search history reflects privacy concerns. To do so, we replicate prior findings that GDPR negatively impacted ad revenue and demonstrate that it positively affected the probability of ad-revenue-related searches. We also provide illustrative evidence that the two move in opposite directions. We find that user concerns over data privacy decline over time, amplified by increased online activity during COVID-19. Interestingly, we find that the initial drop in ad revenue post-GDPR was followed by partial recovery. These findings suggest privacy regulations can alleviate public concerns without long-term harm to the ad industry.
+
+---
 
 <style>
   .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
+    columns: 2 200px;
+    -webkit-columns: 2 200px;
+    -moz-columns: 2 200px;
   }
   .col3 {
     columns: 3 100px;
@@ -30,79 +57,44 @@ redirect_from:
   }
 </style>
 
-## R&D, Political Incentives, and Economic Impact
+## R&D, political incentives, and economic impact
 
-[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding**](#works) *(with Maxim Ananyev)*
+[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142) *(with Maxim Ananyev)*
 
-We study the effects of patent protection on innovative entrepreneurship. We use an exogenous variation in patent protection generated by the 2014 US Supreme Court ruling on Alice Corporation Pty. Ltd. v. CLS Bank International case. This case establishing a two-part test to determine if a software patent was unpatentable under US Patent Law, but implied no changes for litigation of non-software patents. The case held that known ideas are abstract, and reciting the use of a conventional computer in the claims to implement the known idea does not make the claim patentable subject matter.This ruling has greatly impacted the litigation of software patents, giving defendants in infringement cases a highly successful defense that could be used early in litigation. After Alice ruling, patent challenges in software rose by hundreds, making  patent protection in software-related industries less secure. Using the database of US startups, we show that weakening of patent protection in software industry made in harder for firms in this industry to obtain start-up funding or get an ipo. We also show that it affects entry decision for the new startups.
+We study the effects of patent protection on innovative entrepreneurship. We use exogenous variation in patent protection from the 2014 U.S. Supreme Court ruling in *Alice Corporation Pty. Ltd. v. CLS Bank International*, which established a two-part test for software patentability and sharply changed litigation incentives for software patents while leaving other fields largely unchanged. Using a database of U.S. startups, we show that weaker protection in software-related industries made it harder for firms to obtain startup funding or reach an IPO, and affected entry decisions for new startups.
 
-[**"The Puzzling Politics of R&D: Political Connections and Innovation in Russia"**](#works) *[Paper available upon request]*
+[**"R&D investment and political connections: complements or substitutes? Evidence from Russia"**](https://doi.org/10.1080/1406099X.2025.2540688) *Baltic Journal of Economics*, 2025, 25(2): 201–231 · [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688)
 
-Technological progress is an important factor in economic development, yet it can create problems for governments, if the costs are felt by their supporters while the benefits go to potential challengers. As a result, politicians face a trade-off between stifling economic growth and facing a threat of technological displacement of their supporters. This paper proposes a model of government support for innovation that preserves technological advantage of companies connected to the incumbent. Provided the government values the future higher than the companies, it can stimulate the development of new technologies by both connected and unconnected companies via co-funding the costs of innovation. In addition, it can condition provision of additional benefits received by the connected companies on the success of their  research and development (R&D) project, stimulating extra effort on their part. This model implies three observable implications: governments will distribute cost-reducing grants to both connected and unconnected companies; connected companies will show a larger effect of R&D grant support on economic performance; and during the assessment period of R&D projects, government contracts will preferentially support connected companies. Analyzing evidence from a cost-reducing R&D support program in Russia, a trajectory-balancing approach produces results consistent with each of these implications.
+Technological progress matters for development, but it can create political problems when costs fall on supporters while benefits flow to potential challengers. This paper studies political connections and R&D investment in Russia and asks whether connections and formal R&D support are complements or substitutes. Evidence comes from a cost-reducing R&D support program using a trajectory-balancing design.
 
-[**Searching for Data Privacy: Effects of the General Data Protection Regulation on firm ad revenue and data privacy concerns**](#works) *(with Kristine Thomas)*
+[**"The paradox of government-funded innovation in weakly institutionalized environments"**](https://doi.org/10.1016/j.jik.2024.100536) *Journal of Innovation & Knowledge*, 2024
 
-Modern websites use personal data to optimize performance and target advertisements to users. While the use of personal data enhances consumer convenience, it can also violate their privacy and data agency if done without consent.  EU's General Data Protection Regulation (GDPR) made it mandatory for websites and apps to require such consent. We study how this change affected online ad revenues and public concerns over data privacy. We combine daily data across 15 countries between 2016 and 2021 using data from Google searches and the Ezoic online ad revenue index. GDPR enactment reduces both the advertising market revenue and internet user privacy concerns. The ad market revenue drops in the immediate aftermath of the GDPR enactment, but the effect fades out over time. In contrast, the decline in user concern over data privacy strengthens over time, as more activities move online during COVID-19. Our results show that privacy regulations can mitigate public concerns without creating long-term negative impacts on the ad industry.
+Government efforts to spur innovation can produce many low-quality patents, especially where accountability is weak. The paper develops a game-theoretic model in which the government values technological progress but subsidized R&D still inflates low-quality patenting, and illustrates the mechanism with Russian patent data (1998–2016) around a policy shift.
 
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) *Journal of Comparative Economics*, 2021
 
+Why do incumbents fund R&D when payoffs often arrive after they leave office? The paper develops a signaling model, reports survey experiments in the United States and Russia, and complements the evidence with cross-country patterns. Investment in R&D can raise perceived competence—especially valuable where economic volatility is high.
 
+For survey evidence on **military versus civilian innovation preferences**, **ethics of war-trauma research**, **war exposure and R&D demand**, and the **GDPR / privacy** project, see [Working papers](#working-papers) above.
 
-[**Lamberova, Natalia. "The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge*, 2024
+## Political economy of authoritarian regimes
 
-Government intention to spur innovation can result in the proliferation of low-quality patents, which is especially pronounced in countries with a low level of government accountability. This study examines the paradoxical effects of government-funded innovation in weakly institutionalized environments. I offer a game-theoretic model, in which the government has a stake in technological development and invests in research and development, although this encourages the growth of low-quality patents. Using Russian patents data between 1998 and 2016, I illustrate this mechanism by demonstrating the causal impact of Russia's government policy, which resulted in a simultaneous increase in the number of patents and a decrease in the absolute number of high-quality patents in the patent pool. This study provides a theoretical background for evaluating the impact of political incentives for investing in the creation of new technologies in the technological development of countries.
+[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) *(with Konstantin Sonin)* · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) · [BFI working paper](https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/)
 
+Using cross-regional data from 83 Russian regions in a two-way fixed-effects design, we show that the extent of information manipulation (the gap between excess mortality and reported COVID-19 deaths) and repression during lockdowns co-varied with civil society strength and opposition representation in local politics. Misinformation also reduced willingness to comply with anti-pandemic measures—suggesting that authoritarian regimes can be poorly equipped for public-health crises despite apparent capacity for coercion.
 
+[**"Putin's Strategy After the Global Financial Crisis of 2008–9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020 *(with Daniel Treisman)*
 
-[**“The Puzzling Politics of R&D: Signaling Competence through Risky Projects”**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021 
+We trace how the Putin regime adjusted repression, cooptation, censorship, and propaganda across phases: emergency management and spending (2009–2011), a turn toward marginalizing urban opposition (2012–2013), and after 2014 a shift toward conflict-focused propaganda and tighter media and internet controls.
 
-Why do some incumbents devote significant funds to the support of Research and Development, even though the fruits of such investment typically appear after the incumbent has left the office? Unlike many other types of long-term government investment (such as education or infrastructure), government investment in R&D is less visible to the average voter. Moreover, it is highly risky. This paper investigates whether the mere fact of incumbent pursuing pro-R&D policy can result in higher expectations of future economic growth rewarded by the voters, or higher perception of the incumbent’s competence. It further asks whether pursuing R&D policy helps the incumbent to secure reelection. The paper proposes a theoretical model of signaling, provides evidence from survey experiments conducted in the USA and Russia and corroborates findings with cross-country evidence. The paper concludes that investment in R&D can generate higher perceptions of the incumbent’s competence, which is crucial, especially for countries with a history of high economic volatility. 
+[**"The Role of Business in Shaping Economic Policy"**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018 *(with Konstantin Sonin)*
 
+We assess the dual role of business in Russian macroeconomic conservatism and in the personalized political economy that oil rents helped entrench.
 
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) *European Journal of Political Economy*, 2019 *(with Dmitry Dagaev and Anton Sobolev)*
 
+The paper links the vulnerability of new revolutionary governments to protest coordination, technology, ideology, and coercive capacity, and shows in a dynamic framework how even popular revolutions need not produce stable rule.
 
+[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia"**](https://doi.org/10.1111/ecot.12167) *Economics of Transition*, 2018 *(with Konstantin Sonin)*
 
-
-
-## Political Economy of Authoritarian regimes
-
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501&fbclid=IwAR3aNfIwfuGtS73PUdMzRccQgj1uWcW9Y-W8lIwKJNn-AQGdBMfSKvy30ew) *(with Konstantin Sonin)*
-
-Many rules and regulations imposed during the COVID-19 pandemic were decried as an assault on individual freedoms, but were they, actually? In an authoritarian regime, yes. Using cross-regional data from 83 Russian regions and the two-way fixed-effects design, we show that the extent of information manipulation measured by the difference between the excess mortality and the reported COVID-19 deaths, and repression by local authorities such as arrests and detentions for violating lockdown rules were influenced by the strength of the civil society and the opposition share in local parliaments. Furthermore, the heavy-handed tactics come at a price: the misinformation reduced the willingness of citizens to comply with anti-pandemic measures. These findings provide new evidence that authoritarian regimes, which might seem to be well-equipped to implement restrictive measures, are actually ill-suited to deal with public health challenges.  
-
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](#works) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020 *(with Daniel Treisman)*
-
-We examine how the Putin regime adjusted its political strategy—in particular, its use of repression, cooptation, censorship, and propaganda—in response to the global economic crisis. We document several phases of such response: emergency management (2009-2011), characterized by cooptation and public spending to offset the pain felt by the population as the economy contracted, and government reallocation of resources to bail out business interests. This phase ended in mass anti-government protests in the streets of Moscow and the realization that, given the moderate pace of economic recovery, the Kremlin would need to conserve and target its reserves. The principal objective of the second phase was to discredit and marginalize the opposition in the urban areas. Propaganda was stepped up, focused on the theme of traditional Russian values. Cooptation now targeted mostly core supporters—in particular, public sector workers—while repression and censorship (of both media and internet) intensified in an attempt to block collective action and break the momentum of protests.  The third phase started with an invasion of Crimea. From late 2013, Putin appeared to give up on a revival of rapid growth. Propaganda rose to an unprecedented pitch, focus now being on military conflict more than traditional values. Controls over media and internet were tightened still more, less at this point to disrupt the protest movement, which had, in any case, died away, than to dominate public discourse.  
-
-
-[**“The Role of Business in Shaping Economic Policy”**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf?refreqid=excelsior%3Abe06150934aa54abba37a08aff9f5528) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018 (*with Konstantin Sonin)*
-
-We examine the role of business in determining economic policy in Russia. On the positive side, the macroeconomic policy under Putin has been consistently conservative. Over the years, the efforts of private business people, supported by professionals within the government, have led to some limited reforms and improved the quality of life of Russian people. In 2016, Russians drove more cars over better roads, have access to a far more full specter of financial services, and enjoy more streamlined bureaucratic procedures than they did in 1999. 
-However, we find that the negative side is no less apparent. Russia’s windfall oil revenues financed the formation of a personalized, archaic political regime. Large private businesses have become inseparable from the state administration. Attempts to create better institutions—never particularly effective—have been replaced by a proliferation of ad hoc, individual projects. With political arrangements set up to keep the current leadership in power, and tiny elites busy exploiting connections to the leader to enrich themselves, we find no reason to expect much-needed economic and institutional reforms to come from above.
-
-[**“Stability of Revolutionary Governments in the Face of Mass Protest”**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019  *(with Dmitry Dagaev and Anton Sobolev)* 
-
-Why do some newly introduced revolutionary governments face anti-government demonstrations and swiftly exit office, while others can establish political regimes that last for decades? Historical evidence finds revolutionary governments in the first decade of the twenty-first century to be three times more vulnerable to mass protest than a hundred years ago. What can explain this trend? This paper relates the stability of newly emerged revolutionary governments to the political composition of the remonstrations that brings a new incumbent to power and in factors that can shape it. Our theoretical model, incorporating protest into a dynamic Downsian framework, features the significant role of protest coordination, communication technology, ideology, and the coercive capacity of the regime. This paper contributes to the literature in several ways. First, it discusses a new historical trend of the instability of revolutionary governments. Second, it proposes a model that helps to understand the growing instability of revolutionary regimes, as well as conditions that undermine their stability. In equilibrium, it is possible to have a revolutionary government overthrown by a popular uprising, even though it gained power on the wave of popular support. Third, under a set of conditions, the new incumbent would always come from a different part of the political spectrum. Fourth, the model unpacks the warm glow component of protesters' decision to take to the streets. Finally, we provide implications for the endogenous choice of policy by the revolutionary incumbent for protest dynamics.
-
-
-[**“Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia,”**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12167) in *Economics of Transition*, 2018 *(with Konstantin Sonin)* 
-
-The economic transition from socialism has not resulted in the emergence of impersonal, rule-based institutions.
-Instead, the natural demand for institutions that protect property rights has led to the emergence of inefficient alternative institutions such as that of cronyism, the practice of appointing personal acquaintances of the political leader to key business-related positions. Once the political leader is entrenched in power, he appoints cronies as a competent subordinate is more prone to switching allegiance to a potential challenger. As competence makes a more significant difference in a rule-based environment, such a leader has no interest in any institutional development. Using the novel dataset that covers the Russian business, we find a positive and significant effect of direct connections to the personal circle of President Putin on the wealth of businesspeople. The magnitude of the effect varies at different levels of rents available for redistribution and “network centrality of a businessman”: it is higher during the years of high oil prices, but is attenuated by the prominence of the businessman in the network.
-
-
-
-
-
-<!--
-
-
-## Measuring Networks of International Relations
-
-[**A New Measure of State Relationships and Foreign Policy Similarity**](with Anton Sobolev, Arthur Stein, Robert F. Trager)
-
-International political dynamics depend on the web of state relationships with changes in one relationship influencing changes in others. In empirical studies, the most commonly used approach to model state relationships and interests is a measure of foreign policy similarity called the S-score (Signorino, 1999), which has proven fruitful in hundreds of studies. Unfortunately, this measure has significant, predictable limitations. It does not reflect seminal events in the international system at all, such as the ending of the Cold War, and captures only the similarity of two states' relations with third states rather than the character of the interactions they have with each other. We, therefore, develop two new measures that have advantages for many scholarly purposes. One reflects foreign policy similarity, as the S-score does, but captures a much more extensive range of state foreign policy interactions. The other is a direct measure of the quality of bilateral relations in a network context. We illustrate the advantages of these measures in a set of cases.
-
-[**“Leaderless Protests?"**](#works) (with Dmitry Dagaev, Anton Sobolev, and Konstantin Sonin)
-
-A notable characteristic of the 21st-century protests is the absence of leaders. We propose a simple theoretical model of leaderless protests, in which factions with different political agendas unite to topple the incumbent leader. The fractionalization of recent protests become possible as the cost of broadcasting one's agenda among the group of potential supporters dramatically reduces. Using a dataset that covers 73 countries and 114 protest campaigns from 1946 to 2006, we show that the spread of broadcasting technologies such as radio, TV, newspapers, and Internet in separate regressions is negatively related to the probability that a campaign has discernible leadership. Our quasi-placebo tests for communication technologies that are less efficient in broadcasting potential leaders' agenda (e.g., mobile and fixed phones) are consistent with the null effect. Both baseline and quasi-placebo results are robust to the inclusion of a wide range of covariates, and to the use of the Heckman approach, IV regression, or non-parametric analysis via Hainmueller and Hazlett (2014) KRLS approach.
-  -->
+Demand for property-rights institutions in the post-socialist transition produced personalized “crony” arrangements; the paper models the leader's incentives and documents wealth premia from ties to Putin's circle in Russian business data.

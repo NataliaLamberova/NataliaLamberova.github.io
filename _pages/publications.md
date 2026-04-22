@@ -9,36 +9,47 @@ redirect_from:
 
 ## Articles
 
+[**"The Causal Effect of Pet Ownership on Health and Well-being"**](https://link.springer.com/article/10.1007/s11482-026-10550-5) *Applied Research in Quality of Life*, 2026, 21: 781–795 (with Maxim Ananyev, Ferdi Botha, and Kyle Peyton). [DOI](https://doi.org/10.1007/s11482-026-10550-5)
 
-[**"The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge*, 2024
+[**"R&D investment and political connections: complements or substitutes? Evidence from Russia"**](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688) *Baltic Journal of Economics*, 2025, 25(2): 201–231. [DOI](https://doi.org/10.1080/1406099X.2025.2540688)
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) in *Journal of Comparative Economics*, 2021
+[**"The paradox of government-funded innovation in weakly institutionalized environments"**](https://doi.org/10.1016/j.jik.2024.100536) *Journal of Innovation & Knowledge*, 2024.
 
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20, (with Dmitry Dagaev and Anton Sobolev)
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) *Journal of Comparative Economics*, 2021, 49(3): 801–818.
 
-* _Media Coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/) ✓ [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/) ✓ [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
-* [_Working paper at the Center for Economic and Policy Research_](http://www.cepr.org/pubs/dps/DP9787)
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) *European Journal of Political Economy*, 2019, 60: 2–20 (with Dmitry Dagaev and Anton Sobolev)
 
-[**“Economic Transition and the Rise of Alternative Institutions: Political connections in Putin's Russia”**](https://doi.org/10.1111/ecot.12167) in *Economics of Transition*, 2018, 615-648  (with Konstantin Sonin) 
+* _Media coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/) · [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/) · [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
+* [_CEPR discussion paper_](http://www.cepr.org/pubs/dps/DP9787)
 
+[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia"**](https://doi.org/10.1111/ecot.12167) *Economics of Transition*, 2018, 26(4): 615–648 (with Konstantin Sonin)
 
-## Book Chapters
+## Book chapters
 
-[**“Putin’s Strategy After the Global Financial Crisis of 2008-9"**](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press, (with Daniel Treisman)
+[**"Putin's Strategy After the Global Financial Crisis of 2008–9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press (with Daniel Treisman)
 
-* [APSA Newsletter](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2020/06/Democracy-and-Autocracy_June-2020.pdf?fbclid=IwAR3Z_z0hXT3Mp9PWfXKvLamPrx7DBAli5wZ_jUbtBrFRQq7XruUHgVrGE3g) ✓ [_Book on Michigan Press_](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability)  ✓ [_Book on Amazon_](https://www.amazon.com/Economic-Shocks-Authoritarian-Stability-Institutions-ebook/dp/B082T3LH9L/ref=sr_1_3?dchild=1&keywords=Economic+Shocks+and+Authoritarian+Stability&qid=1631282683&sr=8-3)
+* [APSA *Democracy and Autocracy* newsletter](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2020/06/Democracy-and-Autocracy_June-2020.pdf) · [_University of Michigan Press_](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) · [_Amazon_](https://www.amazon.com/Economic-Shocks-Authoritarian-Stability-Institutions-ebook/dp/B082T3LH9L/)
 
-[**“The Role of Business in Shaping Economic Policy”**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf?refreqid=excelsior%3A6000b6d17b01177fb1a82b9f41491234) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137-158, Brookings Institution Press (with Konstantin Sonin)
+[**"The Role of Business in Shaping Economic Policy"**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137–158, Brookings Institution Press (with Konstantin Sonin)
 
-* [_Chapter on Jstor_](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf?refreqid=excelsior%3A6000b6d17b01177fb1a82b9f41491234)  ✓  [_Book on Jstor_](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
+* [_Chapter on JSTOR_](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) · [_Book on JSTOR_](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh) · [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/)
 
+## Working papers
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142) (with Maxim Ananyev) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142)
+
+[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) (with Konstantin Sonin) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) · [Becker Friedman Institute working paper](https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/)
+
+**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"** — draft available upon request. [Abstracts and fuller descriptions](/research/#working-papers)
+
+**"Public Perspectives on War Trauma Research: Evidence from Ukraine"** — draft available upon request. [Abstract](/research/#working-papers)
+
+**"War Exposure and Public Demand for State-led Innovation: Evidence from Ukraine"** (April 2026) — draft available upon request. [Abstract](/research/#working-papers)
+
+**"When Opinions Pass for Facts: Self-Esteem and Motivated Classification in Media Environments"** — draft available upon request. [Abstract](/research/#working-papers)
+
+[**"Searching for Data Privacy: Effects of the General Data Protection Regulation on Firm Ad Revenue and Data Privacy Concerns"**](/research/#working-papers) (with Kristine Thomas) — draft available upon request. [Abstract](/research/#working-papers)
+
+{% if site.author.googlescholar %}
+You can also find my articles on [**Google Scholar**]({{ site.author.googlescholar }}).
 {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
