@@ -40,11 +40,11 @@ redirect_from:
 
 [**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) (with Konstantin Sonin) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) · [Becker Friedman Institute working paper](https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/)
 
-**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#ukraine)
+**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#war-exposure-and-innovation)
 
-**"Public Perspectives on War Trauma Research: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#ukraine)
+**"Public Perspectives on War Trauma Research: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#ethics-and-survey-research)
 
-**"War Exposure and Public Demand for State-led Innovation: Evidence from Ukraine"** *(with Vera Mironova)* (April 2026) — draft available upon request. [Research summary](/research/#ukraine)
+**"War Exposure and Public Demand for State-led Innovation: Evidence from Ukraine"** *(with Vera Mironova)* (April 2026) — draft available upon request. [Research summary](/research/#war-exposure-and-innovation)
 
 **"When Opinions Pass for Facts: Self-Esteem and Motivated Classification in Media Environments"** *(with Alexey Zakharov, Minh Dao, and Sydney Brown)* — draft available upon request. [Research summary](/research/#beliefs-and-media)
 
