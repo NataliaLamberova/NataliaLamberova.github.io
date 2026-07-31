@@ -66,6 +66,8 @@ Moscow Higher School of Economics
 
 ## Articles
 
+[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)(Accepted in *Journal of Public Economics* (2026+))
+
 [**"Pet ownership and well-being outcomes"**](#published-works)(with Maxim Ananyev, Ferdi Botha, Kyle Peyton)(https://link.springer.com/article/10.1007/s11482-026-10550-5) in *Applied Research in Quality of Life* (2026): 1-15.
 
 [**Lamberova, Natalia. "R&D investment and political connections-complements or substitutes? Evidence from Russia."**](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688) in *Baltic Journal of Economics* 25.2 (2025): 201-231.]
@@ -90,7 +92,6 @@ Moscow Higher School of Economics
 
 ## Working Papers (under review)
 
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)(Revisions Requested at Journal of Public Economics)
 
 [**"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"**](#in-progress) (with Maxim Ananyev)
 
@@ -232,12 +233,15 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 Served on NSF advisory panel 
 
 Faculty Committees:
-\hskip 1cm	Hiring committee for Associate or Full Professor of International Relations at EPPS, 2024.
+\hskip 1cm	Intellectual Property Advisory Committee for UTD, 2005-2006
+\hskip 1cm	Ranking Committee for PPPE at EPPS, 2026.
+\hskip 1cm	Hiring Committee for Associate or Full Professor of Political Science at EPPS, 2024.
+\hskip 1cm	Hiring Committee for Associate or Full Professor of International Relations at EPPS, 2024.
 \hskip 1cm	Methods Qualifying Examination committee, (2023-now)
 
 
 
-**Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy, Science and Poublic Policy.      
+**Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy, Science and Poublic Policy, Journal of Institutional Economics.      
 
 <!--
 **Methods Workshops at Economics Department, Kazan National Research Technological University**:                  

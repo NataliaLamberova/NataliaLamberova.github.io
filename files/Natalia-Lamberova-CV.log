@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  29 APR 2026 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  31 JUL 2026 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,16 +500,16 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 112.
 
+LaTeX Warning: Hyper reference `in-progress' on page 1 undefined on input line 
+176.
+
+
 LaTeX Warning: Hyper reference `published-works' on page 1 undefined on input l
-ine 175.
+ine 180.
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
-228.
-
 
 LaTeX Warning: Hyper reference `in-progress' on page 2 undefined on input line 
 233.
@@ -548,11 +548,11 @@ Package rerunfilecheck Info: File `Natalia-Lamberova-CV.out' has not changed.
 (rerunfilecheck)             Checksum: 0C0F954EE3E6471291A71FDB7F1A3E7C;2019.
  ) 
 Here is how much of TeX's memory you used:
- 14649 strings out of 478268
- 227770 string characters out of 5846347
+ 14659 strings out of 478268
+ 227855 string characters out of 5846347
  557234 words of memory out of 5000000
  32373 multiletter control sequences out of 15000+600000
- 515835 words of font info for 250 fonts, out of 8000000 for 9000
+ 516397 words of font info for 258 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,12n,63p,1209b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
@@ -567,7 +567,7 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on Natalia-Lamberova-CV.pdf (4 pages, 169484 bytes).
+Output written on Natalia-Lamberova-CV.pdf (4 pages, 169577 bytes).
 PDF statistics:
  163 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
