@@ -22,8 +22,8 @@ With Konstantin Sonin. *Journal of Public Economics*, 262 (2026), 105740. The pa
 
 *Journal of Innovation & Knowledge*, 9(3) (2024), 100536. The paper examines why public support for research can increase patenting while reducing the quality of innovation when institutions provide weak oversight. [PDF](/files/Lamberova_Paradox_Government_Funded_Innovation.pdf) · [DOI](https://doi.org/10.1016/j.jik.2024.100536)
 
-### Patent Protection and Innovative Entrepreneurship
+### The Puzzling Politics of R&D: Signaling Competence through Risky Projects
 
-With Maxim Ananyev. This working paper uses the *Alice* Supreme Court decision to study how changes in software-patent protection affect startup funding, entry, and the prospect of reaching an IPO. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142) · [Research summary](/research/#patent-protection-and-innovative-entrepreneurship)
+*Journal of Comparative Economics*, 49(3) (2021), 801–818. The paper shows how support for risky, long-term R&D projects can signal political competence before the projects produce results, combining a formal model with survey experiments in the United States and Russia and cross-national evidence. [PDF](/files/Lamberova_Puzzling_Politics_RD.pdf) · [DOI](https://doi.org/10.1016/j.jce.2021.01.002)
 
 See [Publications](/publications/) for peer-reviewed work, [Research](/research/) for current research programs, and [Research Beyond Publications](/research-beyond-publications/) for research infrastructure, mentoring, and institutional initiatives.
