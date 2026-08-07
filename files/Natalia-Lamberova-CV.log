@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  6 AUG 2026 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  6 AUG 2026 21:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -506,16 +506,16 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 AED: lastpage setting LastPage
 [4] (./Natalia-Lamberova-CV.aux)
 Package rerunfilecheck Info: File `Natalia-Lamberova-CV.out' has not changed.
-(rerunfilecheck)             Checksum: 0C0F954EE3E6471291A71FDB7F1A3E7C;2019.
+(rerunfilecheck)             Checksum: 9FC8F1FDD70AB83F4FF5963614FD40CA;1923.
  ) 
 Here is how much of TeX's memory you used:
- 14677 strings out of 478268
- 227995 string characters out of 5846347
- 557234 words of memory out of 5000000
- 32371 multiletter control sequences out of 15000+600000
- 517134 words of font info for 274 fonts, out of 8000000 for 9000
+ 14659 strings out of 478268
+ 227829 string characters out of 5846347
+ 557200 words of memory out of 5000000
+ 32369 multiletter control sequences out of 15000+600000
+ 516291 words of font info for 262 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,12n,63p,1209b,412s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,63p,1209b,403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/tex
 live/2022/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local
@@ -528,10 +528,10 @@ ist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2022/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/typ
 e1/urw/palatino/uplr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on Natalia-Lamberova-CV.pdf (4 pages, 169575 bytes).
+Output written on Natalia-Lamberova-CV.pdf (4 pages, 167875 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 65657 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 161 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 65649 words of extra memory for PDF output out of 74296 (max. 10000000)
 

@@ -13,7 +13,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=.75in
-jobtitle: Assistant Professor, School of Economic, Political and Policy Sciences
+jobtitle: Assistant Professor of Business and Technology, University of Texas at Dallas
 keywords: R Markdown, academic CV, template
 linkcolor: Brown
 fontawesome: yes
@@ -230,7 +230,14 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 
 # SERVICE
 
-Served on an NSF advisory panel.
+**Research and University Leadership**
+
+- Director, Origins of Ideas Research Lab, University of Texas at Dallas
+- Co-Chair, Innovation Destination Initiative, Roadmap 2030, University of Texas at Dallas
+
+**Professional Service**
+
+- National Science Foundation --- Panelist, 2024--2025 (multiple panels)
 
 **Faculty Committees**
 
@@ -267,11 +274,3 @@ DATA COLLECTION: automated data extraction, automated text processing,
 
 \hskip 1.9 cm online and field experiments, surveys, interviews
 -->
-# REFERENCES
-Prof. Daniel Treisman (chair of the dissertation committee), Department of Political Science, University of California, Los Angeles, 4289 Bunche Hall, Los Angeles, CA 90095, [treisman@polisci.ucla.edu](treisman@polisci.ucla.edu)      
-
-Prof. Chad Hazlett, Department of Political Science, University of California, Los Angeles, 3264 Bunche Hall, Los Angeles, CA 90095, [chazlett@ucla.edu](chazlett@ucla.edu)
-
-Prof. Konstantin Sonin, Harris Graduate School of Public Policy, University of Chicago, 1307 E 60th St, Chicago, IL 60615,  [ksonin@uchicago.edu](ksonin@uchicago.edu)
-
-Prof. Sebastian Galiani, Department of Economics, University of Maryland, 7343 Preinkert Drive, College Park, MD 20742, [sgaliani@umd.edu](sgaliani@umd.edu)
