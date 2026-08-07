@@ -4,7 +4,26 @@ Audit date: 2026-08-06. This is an internal working document and is not a Jekyll
 
 Scope: all PDFs in `files/`, the current CV source and PDF, and the current About, CV, Publications, Research, Dissertation, and Teaching pages. Paper identity was checked from text inside each PDF, not inferred from filenames.
 
-## Repository PDF inventory
+## Post-upload update (2026-08-06)
+
+Three additional published PDFs were identified internally and added to the public-link set:
+
+- *R&D Investment and Political Connections: Complements or Substitutes? Evidence from Russia* — `files/Lamberova_RD_Investment_Political_Connections.pdf`
+- *Stability of Revolutionary Governments in the Face of Mass Protest* — `files/Dagaev_Lamberova_Sobolev_Revolutionary_Governments.pdf`
+- *Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia* — `files/Lamberova_Sonin_Economic_Transition.pdf`
+
+The seven confirmed published-paper PDFs now have clean filenames and local links on the Publications page. The COVID paper also has a PDF link on the Research page. The current CV source and PDF now use the exact published titles, corrected status and metadata, DOI links, and PDF links. The current PDF was regenerated and visually verified on 2026-08-06.
+
+The Facts/Opinions working paper is now public on SSRN and its local PDF is linked from the Research page under a descriptive filename.
+
+The papers still missing locally are now:
+
+1. *#Polarized: Gauging Potential Policy Bargaining Ranges Between Opposing Social Movements of Black Lives Matter and Police Lives Matter*.
+2. *Putin's Strategy After the Global Financial Crisis of 2008-9*.
+3. *The Role of Business in Shaping Economic Policy*.
+4. The working papers and research-in-progress items intentionally left without public PDFs.
+
+## Initial repository PDF inventory (superseded by the post-upload update above)
 
 | Current repository path | Current filename | Exact internal title | Authors | Type/status | Apparent version/date | Currently linked on website? | Current page(s) linking it | Duplicate or older version? | Recommended action | Recommended clean filename | Notes / uncertainty |
 |---|---|---|---|---|---|---|---|---|---|---|---|

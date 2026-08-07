@@ -1,55 +1,54 @@
 ---
-title: ""
+title: "Publications"
 permalink: /publications/
-excerpt: "About me"
+excerpt: "Peer-reviewed articles and book chapters"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /publications
 ---
 
-## Articles
+## Peer-reviewed articles
 
-[**"The Causal Effect of Pet Ownership on Health and Well-being"**](https://link.springer.com/article/10.1007/s11482-026-10550-5) *Applied Research in Quality of Life*, 2026, 21: 781–795 (with Maxim Ananyev, Ferdi Botha, and Kyle Peyton). [DOI](https://doi.org/10.1007/s11482-026-10550-5)
+### Information Manipulation and Repression: Theory and Evidence from the COVID-19 Response in Russia
 
-[**"R&D investment and political connections: complements or substitutes? Evidence from Russia"**](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688) *Baltic Journal of Economics*, 2025, 25(2): 201–231. [DOI](https://doi.org/10.1080/1406099X.2025.2540688)
+Natalia Lamberova and Konstantin Sonin. *Journal of Public Economics* 262 (2026): 105740. [PDF](/files/Lamberova_Sonin_Information_Manipulation_Repression.pdf) · [DOI](https://doi.org/10.1016/j.jpubeco.2026.105740)
 
-[**"The paradox of government-funded innovation in weakly institutionalized environments"**](https://doi.org/10.1016/j.jik.2024.100536) *Journal of Innovation & Knowledge*, 2024.
+### The Causal Effect of Pet Ownership on Health and Well-being
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002) *Journal of Comparative Economics*, 2021, 49(3): 801–818.
+Maxim Ananyev, Ferdi Botha, Natalia Lamberova, and Kyle Peyton. *Applied Research in Quality of Life* 21 (2026): 781–795. [PDF](/files/Ananyev_Botha_Lamberova_Peyton_Pet_Ownership.pdf) · [DOI](https://doi.org/10.1007/s11482-026-10550-5)
 
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) *European Journal of Political Economy*, 2019, 60: 2–20 (with Dmitry Dagaev and Anton Sobolev)
+### R&D Investment and Political Connections: Complements or Substitutes? Evidence from Russia
 
-* _Media coverage:_ [_FreePolicyBriefs (English)_](http://freepolicybriefs.org/2014/03/31/the-arab-spring-logic-of-the-ukrainian-revolution/) · [_Polit.Ru (Russian)_](http://polit.ru/article/2014/04/21/ukr_concept/) · [_OpenEconomy (Russian)_](http://opec.ru/1631858.html)
-* [_CEPR discussion paper_](http://www.cepr.org/pubs/dps/DP9787)
+Natalia Lamberova. *Baltic Journal of Economics* 25(2) (2025): 201–231. [PDF](/files/Lamberova_RD_Investment_Political_Connections.pdf) · [DOI](https://doi.org/10.1080/1406099X.2025.2540688)
 
-[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia"**](https://doi.org/10.1111/ecot.12167) *Economics of Transition*, 2018, 26(4): 615–648 (with Konstantin Sonin)
+### #Polarized: Gauging Potential Policy Bargaining Ranges Between Opposing Social Movements of Black Lives Matter and Police Lives Matter
 
-## Book chapters
+Jessi Hanson-DeFusco, Natalia Lamberova, Blair Mickles, Tanisha Long, Eliana Beligel, Quinten Boose, Paul Smith, Alexis McMaster, and Dragana Djukic-Min. *Social Sciences* 13(11) (2024): 604. [DOI](https://doi.org/10.3390/socsci13110604)
 
-[**"Putin's Strategy After the Global Financial Crisis of 2008–9"**](https://doi.org/10.3998/mpub.11354716) in *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions*, 2020, University of Michigan Press (with Daniel Treisman)
+### The Paradox of Government-Funded Innovation in Weakly Institutionalized Environments
 
-* [APSA *Democracy and Autocracy* newsletter](https://mk0apsaconnectbvy6p6.kinstacdn.com/wp-content/uploads/sites/26/2020/06/Democracy-and-Autocracy_June-2020.pdf) · [_University of Michigan Press_](https://www.press.umich.edu/11354771/economic_shocks_and_authoritarian_stability) · [_Amazon_](https://www.amazon.com/Economic-Shocks-Authoritarian-Stability-Institutions-ebook/dp/B082T3LH9L/)
+Natalia Lamberova. *Journal of Innovation & Knowledge* 9(3) (2024): 100536. [PDF](/files/Lamberova_Paradox_Government_Funded_Innovation.pdf) · [DOI](https://doi.org/10.1016/j.jik.2024.100536)
 
-[**"The Role of Business in Shaping Economic Policy"**](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 137–158, Brookings Institution Press (with Konstantin Sonin)
+### The Puzzling Politics of R&D: Signaling Competence through Risky Projects
 
-* [_Chapter on JSTOR_](https://www.jstor.org/stable/pdf/10.7864/j.ctt1zkjzsh.9.pdf) · [_Book on JSTOR_](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh) · [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/)
+Natalia Lamberova. *Journal of Comparative Economics* 49(3) (2021): 801–818. [PDF](/files/Lamberova_Puzzling_Politics_RD.pdf) · [DOI](https://doi.org/10.1016/j.jce.2021.01.002)
 
-## Working papers
+### Stability of Revolutionary Governments in the Face of Mass Protest
 
-[**"Patent Protection and Innovative Entrepreneurship: Examining Effect of Alice Ruling on Startup Funding"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142) (with Maxim Ananyev) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4739142)
+Dmitry Dagaev, Natalia Lamberova, and Anton Sobolev. *European Journal of Political Economy* 60 (2019): 101812. [PDF](/files/Dagaev_Lamberova_Sobolev_Revolutionary_Governments.pdf) · [DOI](https://doi.org/10.1016/j.ejpoleco.2019.08.003)
 
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) (with Konstantin Sonin) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174501) · [Becker Friedman Institute working paper](https://bfi.uchicago.edu/working-paper/information-manipulation-and-repression-a-theory-and-evidence-from-the-covid-response-in-russia/)
+### Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia
 
-**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#war-exposure-and-innovation)
+Natalia Lamberova and Konstantin Sonin. *Economics of Transition* 26(4) (2018): 615–648. [PDF](/files/Lamberova_Sonin_Economic_Transition.pdf) · [DOI](https://doi.org/10.1111/ecot.12167)
 
-**"Public Perspectives on War Trauma Research: Evidence from Ukraine"** *(with Vera Mironova and Sam Whitt)* — draft available upon request. [Research summary](/research/#ethics-and-survey-research)
+## Peer-reviewed book chapters
 
-**"War Exposure and Public Demand for State-led Innovation: Evidence from Ukraine"** *(with Vera Mironova)* (April 2026) — draft available upon request. [Research summary](/research/#war-exposure-and-innovation)
+### Putin's Strategy After the Global Financial Crisis of 2008–9
 
-**"When Opinions Pass for Facts: Self-Esteem and Motivated Classification in Media Environments"** *(with Alexey Zakharov, Minh Dao, and Sydney Brown)* — draft available upon request. [Research summary](/research/#beliefs-and-media)
+Natalia Lamberova and Daniel Treisman. In *Economic Shocks and Authoritarian Stability: Duration, Financial Conditions, and Institutions* (2020): 97–118. University of Michigan Press. [DOI / Book](https://doi.org/10.3998/mpub.11354716)
 
-[**"Searching for Data Privacy: Effects of the General Data Protection Regulation on Firm Ad Revenue and Data Privacy Concerns"**](/research/#privacy-and-regulation) *(with Kristine Thomas)* — draft available upon request. [Research summary](/research/#privacy-and-regulation)
+### The Role of Business in Shaping Economic Policy
 
-{% if site.author.googlescholar %}
-You can also find my articles on [**Google Scholar**]({{ site.author.googlescholar }}).
-{% endif %}
+Natalia Lamberova and Konstantin Sonin. In *The New Autocracy: Information, Politics, and Policy in Putin's Russia* (2018): 249–276. Brookings Institution Press. [Chapter / Book](https://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.9)
+
+For public working papers and ongoing projects, see [Research](/research/).

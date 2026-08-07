@@ -1,64 +1,54 @@
 ---
-title: ""
+title: "Teaching"
 permalink: /teaching/
-excerpt: "About me"
+excerpt: "Courses in research design, innovation, and political economy"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /teaching
 ---
 
-## Current teaching
+## Research Design II
 
-**University of Texas at Dallas**, *School of Economic, Political and Policy Sciences*
+Graduate course on causal inference, quasi-experimental methods, matching, synthetic controls, and sensitivity analysis.
 
-* **Innovation Economy** — How ideas become market-ready products: patents, technology development, and commercialization (patent fundamentals, patent–market interface, hands-on patent search, market analysis, commercialization strategies, and innovation policy). Complimentary short courses on DataCamp are available for the coding component.
+**Taught:** Spring 2023, Spring 2024, Spring 2025, Spring 2026
 
-* **Research Design II** — Causal inference in settings where full randomization is impossible: experiments, matching, regression, panel methods, difference-in-differences, synthetic control, instrumental variables, regression discontinuity, and sensitivity analysis. Complimentary DataCamp short courses support the coding component.
+## The Innovation Economy
 
-* **Topics in Science, Technology and Institutions: from Writing to Cryptocurrency** — Introduction to the political economy of innovation across technologies, from writing to cryptocurrency: innovation and growth, intellectual property trade-offs, public funding, competition policy, and political incentives in innovation policy. Complimentary DataCamp short courses support the coding component.
+Graduate course on innovation, intellectual property, entrepreneurship, commercialization, university technology transfer, and innovation policy.
 
-## Teaching experience
+**Taught:** Fall 2023, Spring 2025
 
-**Georgia Institute of Technology**, *Sam Nunn School of International Affairs*
+## Research Design in the Social and Policy Sciences
 
-* Economics of International Security (Fall 2020; teaching award)
+Undergraduate introduction to research design, causal reasoning, measurement, and policy evaluation.
 
-* Political Economy of Post-Communism (Spring 2021, Fall 2021; teaching award)
+**Taught:** Fall 2025, Fall 2026
 
-**University of California, Los Angeles**, *Anderson School of Management*
+## Game Theory for Political Scientists
 
-* Technology Analytics, with Prof. [Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/) (2019)
+Graduate course on strategic interaction, political economy, bargaining, information, and institutions.
 
-* Competitive Analytics, with Prof. [Keith Chen](https://www.anderson.ucla.edu/faculty_pages/keith.chen/) (2019)
+**Taught:** Spring 2024, Fall 2026
 
-**University of California, Los Angeles**, *Department of Political Science*
+## From Writing to Cryptocurrency: Science, Technology, and Institutions
 
-* Politics and Government of Post-Communist Russia, with Prof. [Daniel Treisman](https://www.danieltreisman.org/) (2015–17)
+Undergraduate course on the historical development of technology and institutions. Cross-listed.
 
-* Experiments and Research Design, with Prof. [Graeme Blair](https://graemeblair.com/) (2016)
+**Taught:** Fall 2022, Fall 2025
 
-* World Politics, with Prof. [Leslie Johns](https://www.polisci.ucla.edu/people/leslie-johns) (2015)
+## EPPS Policy Lab
 
-* Peace and War, with Prof. [Deborah Larson](https://polisci.ucla.edu/people/deborah-larson) (2018)
+Applied undergraduate and graduate policy laboratory co-taught with Timothy Bray. Students learn to apply modern causal inference, policy evaluation, and evidence synthesis to an applied policy question. They delivered a white paper to the project stakeholders.
 
-* Politics and Strategy, with Prof. [Kathleen Bawn](https://polisci.ucla.edu/people/kathleen-bawn) (2018)
+**Taught:** Fall 2025, Spring 2026
 
-* Politics and Strategy, with Prof. [Barry O'Neill](https://polisci.ucla.edu/people/barry-oneill) (2015)
+## Democratic Backsliding
 
-**University of Maryland, College Park**, *Department of Economics*
+Undergraduate seminar on democratic erosion, executive power, political institutions, and media.
 
-* Intermediate Macroeconomic Theory and Policy, with Prof. [John Neri](https://www.econ.umd.edu/facultyprofile/neri/john) (2013)
+**Taught:** Spring 2026
 
-* Principles of Microeconomics, with Prof. [John Straub](https://www.econ.umd.edu/facultyprofile/straub/john) (2014)
+## Selected previous teaching
 
-* Principles of Microeconomics, with Prof. [Naveen Sarna](https://www.econ.umd.edu/facultyprofile/sarna/naveen) (2014)
-
-**Kazan National Technological Research University, Kazan**, *Department of Economics*
-
-* Economics of Innovation, lecturer (2012)
-
-* Economics of Intellectual Property Rights, lecturer (2012)
-
-{% if site.author.googlescholar %}
-You can also find my articles on [**Google Scholar**]({{ site.author.googlescholar }}).
-{% endif %}
+At Georgia Tech, I taught Economics of International Security and Political Economy of Post-Communism. At UCLA, I taught in political science and supported courses in technology and competitive analytics at the Anderson School of Management. Earlier teaching at the University of Maryland and Kazan National Research Technological University included economics, innovation, and intellectual property.

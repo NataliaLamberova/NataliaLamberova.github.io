@@ -66,21 +66,21 @@ Moscow Higher School of Economics
 
 ## Articles
 
-[**"Information Manipulation and Repression: A Theory and Evidence from the COVID Response in Russia"**](#in-progress)(with Konstantin Sonin)(Accepted in *Journal of Public Economics* (2026+))
+[**"Information Manipulation and Repression: Theory and Evidence from the COVID-19 Response in Russia"**](https://doi.org/10.1016/j.jpubeco.2026.105740), with Konstantin Sonin, *Journal of Public Economics*, 262 (2026), 105740. [PDF](https://natalialamberova.com/files/Lamberova_Sonin_Information_Manipulation_Repression.pdf)
 
-[**"Pet ownership and well-being outcomes"**](#published-works)(with Maxim Ananyev, Ferdi Botha, Kyle Peyton)(https://link.springer.com/article/10.1007/s11482-026-10550-5) in *Applied Research in Quality of Life* (2026): 1-15.
+[**"The Causal Effect of Pet Ownership on Health and Well-being"**](https://doi.org/10.1007/s11482-026-10550-5), with Maxim Ananyev, Ferdi Botha, and Kyle Peyton, *Applied Research in Quality of Life*, 21 (2026): 781-795. [PDF](https://natalialamberova.com/files/Ananyev_Botha_Lamberova_Peyton_Pet_Ownership.pdf)
 
-[**Lamberova, Natalia. "R&D investment and political connections-complements or substitutes? Evidence from Russia."**](https://www.tandfonline.com/doi/full/10.1080/1406099X.2025.2540688) in *Baltic Journal of Economics* 25.2 (2025): 201-231.]
+[**"R&D Investment and Political Connections: Complements or Substitutes? Evidence from Russia"**](https://doi.org/10.1080/1406099X.2025.2540688), *Baltic Journal of Economics*, 25(2) (2025): 201-231. [PDF](https://natalialamberova.com/files/Lamberova_RD_Investment_Political_Connections.pdf)
 
-[**"Lamberova, Natalia. "The paradox of government-funded innovation in weakly institutionalized environments."**](https://www.sciencedirect.com/science/article/pii/S2444569X24000751) in *Journal of Innovation & Knowledge, 2024*.
+[**"The Paradox of Government-Funded Innovation in Weakly Institutionalized Environments"**](https://doi.org/10.1016/j.jik.2024.100536), *Journal of Innovation & Knowledge*, 9(3) (2024), 100536. [PDF](https://natalialamberova.com/files/Lamberova_Paradox_Government_Funded_Innovation.pdf)
 
 [**"#Polarized: Gauging Potential Policy Bargaining Ranges Between Opposing Social Movements of Black Lives Matter and Police Lives Matter"**](https://www.mdpi.com/2076-0760/13/11/604) in *Social Sciences, 2024* (with DeFusco et al)
 
-[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://www.sciencedirect.com/science/article/pii/S0147596721000020) in *Journal of Comparative Economics*, 2021, 49(3): 801-818
+[**"The Puzzling Politics of R&D: Signaling Competence through Risky Projects"**](https://doi.org/10.1016/j.jce.2021.01.002), *Journal of Comparative Economics*, 49(3) (2021): 801-818. [PDF](https://natalialamberova.com/files/Lamberova_Puzzling_Politics_RD.pdf)
 
-[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://www.sciencedirect.com/science/article/pii/S017626801930045X?via%3Dihub) in *European Journal of Political Economy*, 2019, 60: 2-20, (with Dmitry Dagaev and Anton Sobolev)       
+[**"Stability of Revolutionary Governments in the Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003), with Dmitry Dagaev and Anton Sobolev, *European Journal of Political Economy*, 60 (2019), 101812. [PDF](https://natalialamberova.com/files/Dagaev_Lamberova_Sobolev_Revolutionary_Governments.pdf)
 
-[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin’s Russia"**](https://doi.org/10.1111/ecot.12167) in *Economics of Transition*, 2018, Volume 26(4): 615–648 (with Konstantin Sonin)
+[**"Economic Transition and the Rise of Alternative Institutions: Political Connections in Putin's Russia"**](https://doi.org/10.1111/ecot.12167), with Konstantin Sonin, *Economics of Transition*, 26(4) (2018): 615-648. [PDF](https://natalialamberova.com/files/Lamberova_Sonin_Economic_Transition.pdf)
 
 
 ## Peer-reviewed book chapters
@@ -93,21 +93,21 @@ Moscow Higher School of Economics
 ## Working Papers (under review)
 
 
-[**"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"**](#in-progress) (with Maxim Ananyev)
+**"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"** (with Maxim Ananyev)
 
-[**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"**](#in-progress) (with Vera Mironova and Sam Whitt)
+**"Public Support for Long-term Military Investments during Wartime: Evidence from Ukraine"** (with Vera Mironova and Sam Whitt)
 
-[**"Public Perspectives on War Trauma Research: Evidence from Ukraine"**](#in-progress) (with Vera Mironova and Sam Whitt)
+**"Public Perspectives on War Trauma Research: Evidence from Ukraine"** (with Vera Mironova and Sam Whitt)
 
 ## Research in progress 
 
-[**"Searching for Data Privacy: Evidence from GDPR"**](#published-works)(with Kristine Thomas)
+**"Searching for Data Privacy: Evidence from GDPR"** (with Kristine Thomas)
 
-[**"Conflating facts and opinions (less) after (positively) interacting with social media. Evidence from a survey experiment"**](#published-works) (with Sydney Brown, Minh Dao and Alexei Zakharov)
+**"When Politically Congruent Opinions Pass for Facts: Self-Worth and Motivated Classification in Media Environments"** (with Alexei Zakharov, Sydney Brown, and Minh Dao)
 
-[**"Research or Mesearch? Do Personal Experiences drive Research Agendas of Social Scientists"**](#published-works)(with Mikhail Galashin and Venkatesh Subramanian)
+**"Research or Mesearch? Do Personal Experiences Drive Research Agendas of Social Scientists"** (with Mikhail Galashin and Venkatesh Subramanian)
 
-[**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"**](#published-works)(with Vera Mironova)
+**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"** (with Vera Mironova)
 
 
 
@@ -230,18 +230,19 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 
 # SERVICE
 
-Served on NSF advisory panel 
+Served on an NSF advisory panel.
 
-Faculty Committees:
-\hskip 1cm	Intellectual Property Advisory Committee for UTD, 2005-2006
-\hskip 1cm	Ranking Committee for PPPE at EPPS, 2026.
-\hskip 1cm	Hiring Committee for Associate or Full Professor of Political Science at EPPS, 2024.
-\hskip 1cm	Hiring Committee for Associate or Full Professor of International Relations at EPPS, 2024.
-\hskip 1cm	Methods Qualifying Examination committee, (2023-now)
+**Faculty Committees**
+
+- Intellectual Property Advisory Committee for UTD, 2005-2006
+- Ranking Committee for PPPE at EPPS, 2026
+- Hiring Committee for Associate or Full Professor of Political Science at EPPS, 2024
+- Hiring Committee for Associate or Full Professor of International Relations at EPPS, 2024
+- Methods Qualifying Examination Committee, 2023-now
 
 
 
-**Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy, Science and Poublic Policy, Journal of Institutional Economics.      
+**Manuscript Referee**: Business and Politics, PLOS ONE, Journal of Economic Behavior and Organization, American Political Science Review, Journal of Comparative Economics, Economics of Transition, Journal of Public Policy, Science and Public Policy, Journal of Institutional Economics.
 
 <!--
 **Methods Workshops at Economics Department, Kazan National Research Technological University**:                  

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Natalia Lamberova"
 title_separator          : "-"
 name                     : &name "Natalia Lamberova"
-description              : &description "PhD in Political Science and MSc in Statistics from University of California Los Angeles, 2020"
+description              : &description "Applied political economist studying innovation, information, technology, and political institutions"
 url                      : "https://natalialamberova.com" # must match custom domain so links, SEO, and assets resolve correctly
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NataliaLamberova.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Natalia Lamberova"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at the University of Texas at Dallas, PhD (Government), MSc (Statistics)"
+  bio              : "Applied political economist at the University of Texas at Dallas"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=NippiA8AAAAJ&hl=en"
@@ -118,6 +118,15 @@ include:
   - _pages
   - files
 exclude:
+  - WEBSITE_FILE_AUDIT.md
+  - WEBSITE_FINAL_REVIEW.md
+  - files/References.pdf
+  - files/References.Rmd
+  - files/Natalia-Lamberova-CV-public.pdf
+  - files/Natalia-Lamberova-CV-public.Rmd
+  - files/Natalia-Lamberova-CV.Rmd
+  - files/Natalia-Lamberova-CV.log
+  - files/svm-latex-cv.tex
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -167,22 +176,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -203,41 +196,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
@@ -253,7 +211,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

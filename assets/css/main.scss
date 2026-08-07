@@ -37,3 +37,27 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Keep the profile and page content in a single readable column on phones. */
+@media screen and (max-width: 600px) {
+  #main {
+    display: block;
+    width: 100%;
+  }
+
+  .sidebar,
+  .page,
+  .page__inner-wrap,
+  .page__content {
+    display: block;
+    float: none;
+    clear: both;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .sidebar {
+    overflow: visible;
+  }
+}
