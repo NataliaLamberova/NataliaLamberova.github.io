@@ -92,6 +92,7 @@ Moscow Higher School of Economics
 
 ## Working Papers (under review)
 
+**"War Exposure and the Demand Side of Innovation Policy: Evidence from Ukraine** (with Vera Mironova)
 
 **"Patent Protection, Funding Access, and Resilience of Software Startups: Analyzing the Impact of the Alice Decision"** (with Maxim Ananyev)
 
@@ -99,15 +100,14 @@ Moscow Higher School of Economics
 
 **"Public Perspectives on War Trauma Research: Evidence from Ukraine"** (with Vera Mironova and Sam Whitt)
 
+**"When Politically Congruent Opinions Pass for Facts: Self-Worth and Motivated Classification in Media Environments"** (with Alexei Zakharov, Sydney Brown, and Minh Dao)
+
 ## Research in progress 
 
 **"Searching for Data Privacy: Evidence from GDPR"** (with Kristine Thomas)
 
-**"When Politically Congruent Opinions Pass for Facts: Self-Worth and Motivated Classification in Media Environments"** (with Alexei Zakharov, Sydney Brown, and Minh Dao)
-
 **"Research or Mesearch? Do Personal Experiences Drive Research Agendas of Social Scientists"** (with Mikhail Galashin and Venkatesh Subramanian)
 
-**"War and Technology: Investigating the Impact of Conflict Exposure on Attitudes Toward R&D Investment in Ukraine"** (with Vera Mironova)
 
 
 
@@ -183,7 +183,7 @@ Invited talk at IHS Graduate Workshop at George Mason University (2019), Geo-Eco
 
 ## Select conferences
 
-ASSA (2026, 2025, 2024,2020,2021); Polmeth (2025, 2024, 2019); Evidence-based research in Ukraine's development (online, 2024,2025); APPAM (2024); Society for Institutional and Organizational Economics Conference (2024, 2021); APSA (2014, 2016, 2018, 2021,2022); MPSA (2014-25); Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021);WPSA (2018-19); 7th Annual Comparative Politics and Formal Theory Conference (2019); European Economic Association Annual Conference (2015)
+ASSA (2026, 2025, 2024,2020,2021); Polmeth (2025, 2024, 2019); Evidence-based research in Ukraine's development (online, 2024,2025); APPAM (2024); Society for Institutional and Organizational Economics Conference (2024, 2021); APSA (2014, 2016, 2018, 2021,2022, 2026); MPSA (2014-25); Corruption, Tax Evasion and Institutions Conference (Stockholm School of Economics, 2021);WPSA (2018-19); 7th Annual Comparative Politics and Formal Theory Conference (2019); European Economic Association Annual Conference (2015)
 
 
 
@@ -195,11 +195,11 @@ University of Texas at Dallas, *School of Economic, Political and Policy Science
 
 \hskip 1cm Political Economy of Development (Graduate)  (2024)
 
-\hskip 1cm Game Theory for Political Science (Graduate)  (2024)
+\hskip 1cm Game Theory for Political Science (Graduate)  (2024,2026)
 
 \hskip 1cm Innovation Economy (Graduate) (2023, 2024,2025)
 
-\hskip 1cm Research Design II (Causal Inference, Graduate) (2023, 2024, 2025)
+\hskip 1cm Research Design II (Causal Inference, Graduate) (2023, 2024, 2025, 2026)
 
 \hskip 1cm Topics in Science, Technology and Institutions: from Writing to Cryptocurrency (2025,2024, 2022)
 
